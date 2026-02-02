@@ -1,4 +1,4 @@
-# C9 Auto Drafter — Hackathon Judge README
+# C9 Draft Assistant — Hackathon Judge README
 
 ## Quick Start
 1. Create virtual environment: `python -m venv .venv`
