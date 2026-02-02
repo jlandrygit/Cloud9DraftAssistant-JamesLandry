@@ -50,7 +50,7 @@ The UI surfaces the top recommendations and provides a short explanation highlig
 1. **Clone the repository**
    ```bash
    git clone https://github.com/jlandrygit/Cloud9DraftAssistant-JamesLandry
-   cd C9AutoDrafter
+   cd Cloud9DraftAssistant-JamesLandry
    ```
 
 2. **Create a virtual environment**
