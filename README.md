@@ -1,4 +1,4 @@
-# C9 Auto Drafter — Hackathon Judge README
+# C9 Draft Assistant — Hackathon Judge README
 
 ## Quick Start
 1. Create virtual environment: `python -m venv .venv`
@@ -7,7 +7,7 @@
 4. Run: `streamlit run app.py` (backend optional for demo)
 
 ## Project overview
-C9 Auto Drafter is a real-time drafting assistant for *League of Legends* pick/ban phases. It helps a coach or analyst make faster, more consistent draft decisions by ranking the best next picks or bans for the current draft state and explaining the key reasons behind each recommendation.
+C9 Draft Assistant is a real-time drafting assistant for *League of Legends* pick/ban phases. It helps a coach or analyst make faster, more consistent draft decisions by ranking the best next picks or bans for the current draft state and explaining the key reasons behind each recommendation.
 
 The demo is designed to be easy to evaluate: you can run a Streamlit UI, step through a full draft, and see the system react instantly to every pick/ban. The backend exposes a small FastAPI surface area for draft state and recommendations.
 
@@ -49,7 +49,7 @@ The UI surfaces the top recommendations and provides a short explanation highlig
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/jlandrygit/Cloud9AutoDrafter
+   git clone https://github.com/jlandrygit/Cloud9DraftAssistant-JamesLandry
    cd C9AutoDrafter
    ```
 
