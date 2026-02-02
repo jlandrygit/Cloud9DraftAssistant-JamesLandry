@@ -1,0 +1,14 @@
+{
+  "feature_columns": [
+    "games_played_log",
+    "win_rate",
+    "recency_weighted_games",
+    "role_consistency"
+  ],
+  "row_count": 1595,
+  "ordering": [
+    "player_name",
+    "role",
+    "champion_name"
+  ]
+}

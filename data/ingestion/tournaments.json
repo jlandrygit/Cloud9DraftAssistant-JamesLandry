@@ -1,0 +1,446 @@
+[
+  {
+    "id": "775513",
+    "name": "LEC - Winter 2025"
+  },
+  {
+    "id": "775514",
+    "name": "LEC - Winter 2025 (Regular Season)"
+  },
+  {
+    "id": "775515",
+    "name": "LEC - Winter 2025 (Regular Season: Regular Season)"
+  },
+  {
+    "id": "775623",
+    "name": "LCK - LCK Cup 2025"
+  },
+  {
+    "id": "775624",
+    "name": "LCK - LCK Cup 2025 (Groups)"
+  },
+  {
+    "id": "775625",
+    "name": "LCK - LCK Cup 2025 (Groups: Group Baron)"
+  },
+  {
+    "id": "775626",
+    "name": "LCK - LCK Cup 2025 (Play-Ins)"
+  },
+  {
+    "id": "775627",
+    "name": "LCK - LCK Cup 2025 (Play-Ins: Play In Knockouts)"
+  },
+  {
+    "id": "775628",
+    "name": "LCK - LCK Cup 2025 (Playoffs)"
+  },
+  {
+    "id": "775629",
+    "name": "LCK - LCK Cup 2025 (Playoffs: Playoffs)"
+  },
+  {
+    "id": "775631",
+    "name": "LTA North - Split 1 2025"
+  },
+  {
+    "id": "775632",
+    "name": "LTA North - Split 1 2025 (Regional Qualifier)"
+  },
+  {
+    "id": "775633",
+    "name": "LTA North - Split 1 2025 (Regional Qualifier: Regional Qualifier)"
+  },
+  {
+    "id": "775636",
+    "name": "LTA South - Split 1 2025"
+  },
+  {
+    "id": "775637",
+    "name": "LTA South - Split 1 2025 (Regional Qualifier)"
+  },
+  {
+    "id": "775638",
+    "name": "LTA South - Split 1 2025 (Regional Qualifier: Regional Qualifier)"
+  },
+  {
+    "id": "775662",
+    "name": "LPL - Split 1 2025"
+  },
+  {
+    "id": "775663",
+    "name": "LPL - Split 1 2025 (Groups)"
+  },
+  {
+    "id": "775664",
+    "name": "LPL - Split 1 2025 (Groups: Group B)"
+  },
+  {
+    "id": "775665",
+    "name": "LPL - Split 1 2025 (Groups: Group C)"
+  },
+  {
+    "id": "775666",
+    "name": "LPL - Split 1 2025 (Groups: Group D)"
+  },
+  {
+    "id": "775667",
+    "name": "LPL - Split 1 2025 (Groups: Group A)"
+  },
+  {
+    "id": "775668",
+    "name": "LPL - Split 1 2025 (Knockouts)"
+  },
+  {
+    "id": "775669",
+    "name": "LPL - Split 1 2025 (Knockouts: Knockouts)"
+  },
+  {
+    "id": "775878",
+    "name": "LTA Cross-Conference - Split 1 2025"
+  },
+  {
+    "id": "775879",
+    "name": "LTA Cross-Conference - Split 1 2025 (Regional Finals)"
+  },
+  {
+    "id": "775880",
+    "name": "LTA Cross-Conference - Split 1 2025 (Regional Finals: Regional Finals)"
+  },
+  {
+    "id": "775907",
+    "name": "LEC - Winter 2025 (Playoffs)"
+  },
+  {
+    "id": "775908",
+    "name": "LEC - Winter 2025 (Playoffs: Playoffs)"
+  },
+  {
+    "id": "825450",
+    "name": "LPL - Split 2 2025"
+  },
+  {
+    "id": "825451",
+    "name": "LPL - Split 2 2025 (Group Stage)"
+  },
+  {
+    "id": "825452",
+    "name": "LPL - Split 2 2025 (Group Stage: Group A)"
+  },
+  {
+    "id": "825453",
+    "name": "LPL - Split 2 2025 (Group Stage: Group D)"
+  },
+  {
+    "id": "825454",
+    "name": "LPL - Split 2 2025 (Group Stage: Group B)"
+  },
+  {
+    "id": "825455",
+    "name": "LPL - Split 2 2025 (Group Stage: Group C)"
+  },
+  {
+    "id": "825468",
+    "name": "LEC - Spring 2025"
+  },
+  {
+    "id": "825469",
+    "name": "LEC - Spring 2025 (Regular Season)"
+  },
+  {
+    "id": "825470",
+    "name": "LEC - Spring 2025 (Regular Season: Regular Season)"
+  },
+  {
+    "id": "825490",
+    "name": "LCK - Split 2 2025"
+  },
+  {
+    "id": "825491",
+    "name": "LCK - Split 2 2025 (Regular Season)"
+  },
+  {
+    "id": "825492",
+    "name": "LCK - Split 2 2025 (Regular Season: Regular Season)"
+  },
+  {
+    "id": "825493",
+    "name": "LCK - Split 2 2025 (Road to MSI)"
+  },
+  {
+    "id": "825494",
+    "name": "LCK - Split 2 2025 (Road to MSI: Road to MSI)"
+  },
+  {
+    "id": "825567",
+    "name": "LTA North - Split 2 2025"
+  },
+  {
+    "id": "825568",
+    "name": "LTA North - Split 2 2025 (Round 1)"
+  },
+  {
+    "id": "825569",
+    "name": "LTA North - Split 2 2025 (Round 1: Round 1)"
+  },
+  {
+    "id": "825600",
+    "name": "LTA South - Split 2 2025"
+  },
+  {
+    "id": "825601",
+    "name": "LTA South - Split 2 2025 (Round 1)"
+  },
+  {
+    "id": "825602",
+    "name": "LTA South - Split 2 2025 (Round 1: Round 1)"
+  },
+  {
+    "id": "825668",
+    "name": "LPL - Split 2 2025 (Qualifying Series)"
+  },
+  {
+    "id": "825669",
+    "name": "LPL - Split 2 2025 (Qualifying Series: Qualifying Series)"
+  },
+  {
+    "id": "825844",
+    "name": "LPL - Split 2 2025 (Rumble Stage)"
+  },
+  {
+    "id": "825845",
+    "name": "LPL - Split 2 2025 (Rumble Stage: Group Ascend)"
+  },
+  {
+    "id": "825846",
+    "name": "LPL - Split 2 2025 (Rumble Stage: Group Nirvana)"
+  },
+  {
+    "id": "825940",
+    "name": "LTA South - Split 2 2025 (Round 2)"
+  },
+  {
+    "id": "825941",
+    "name": "LTA South - Split 2 2025 (Round 2: Group A)"
+  },
+  {
+    "id": "825942",
+    "name": "LTA South - Split 2 2025 (Round 2: Group B)"
+  },
+  {
+    "id": "825943",
+    "name": "LTA South - Split 2 2025 (Round 3)"
+  },
+  {
+    "id": "825944",
+    "name": "LTA South - Split 2 2025 (Round 3: round_3)"
+  },
+  {
+    "id": "825945",
+    "name": "LTA South - Split 2 2025 (Playoffs)"
+  },
+  {
+    "id": "825946",
+    "name": "LTA South - Split 2 2025 (Playoffs: Playoffs)"
+  },
+  {
+    "id": "825947",
+    "name": "LTA North - Split 2 2025 (Round 2)"
+  },
+  {
+    "id": "825948",
+    "name": "LTA North - Split 2 2025 (Round 2: Group B)"
+  },
+  {
+    "id": "825949",
+    "name": "LTA North - Split 2 2025 (Round 2: Group A)"
+  },
+  {
+    "id": "825950",
+    "name": "LTA North - Split 2 2025 (Round 3)"
+  },
+  {
+    "id": "825951",
+    "name": "LTA North - Split 2 2025 (Round 3: round_3)"
+  },
+  {
+    "id": "825953",
+    "name": "LTA North - Split 2 2025 (Playoffs)"
+  },
+  {
+    "id": "825954",
+    "name": "LTA North - Split 2 2025 (Playoffs: Playoffs)"
+  },
+  {
+    "id": "826080",
+    "name": "LEC - Spring 2025 (Playoffs)"
+  },
+  {
+    "id": "826081",
+    "name": "LEC - Spring 2025 (Playoffs: Playoffs)"
+  },
+  {
+    "id": "826165",
+    "name": "LPL - Split 2 2025 (Playoffs Play-in: Knights Rivals)"
+  },
+  {
+    "id": "826166",
+    "name": "LPL - Split 2 2025 (Playoffs Play-in: Knights Rivals: Playoffs Play-in: Knights Rivals)"
+  },
+  {
+    "id": "826184",
+    "name": "LPL - Split 2 2025 (Playoffs)"
+  },
+  {
+    "id": "826185",
+    "name": "LPL - Split 2 2025 (Playoffs: Playoffs)"
+  },
+  {
+    "id": "826679",
+    "name": "LCK - Split 3 2025"
+  },
+  {
+    "id": "826680",
+    "name": "LCK - Split 3 2025 (Groups)"
+  },
+  {
+    "id": "826681",
+    "name": "LCK - Split 3 2025 (Groups: Rise Group)"
+  },
+  {
+    "id": "826682",
+    "name": "LCK - Split 3 2025 (Groups: Legend Group)"
+  },
+  {
+    "id": "826763",
+    "name": "LTA North - Split 3 2025"
+  },
+  {
+    "id": "826764",
+    "name": "LTA North - Split 3 2025 (Round 1)"
+  },
+  {
+    "id": "826765",
+    "name": "LTA North - Split 3 2025 (Round 1: Round 1)"
+  },
+  {
+    "id": "826766",
+    "name": "LTA North - Split 3 2025 (Round 2)"
+  },
+  {
+    "id": "826767",
+    "name": "LTA North - Split 3 2025 (Round 2: Round 2)"
+  },
+  {
+    "id": "826775",
+    "name": "LTA South - Split 3 2025"
+  },
+  {
+    "id": "826776",
+    "name": "LTA South - Split 3 2025 (Round 1)"
+  },
+  {
+    "id": "826777",
+    "name": "LTA South - Split 3 2025 (Round 1: Round 1)"
+  },
+  {
+    "id": "826780",
+    "name": "LTA South - Split 3 2025 (Round 2)"
+  },
+  {
+    "id": "826781",
+    "name": "LTA South - Split 3 2025 (Round 2: Round 2)"
+  },
+  {
+    "id": "826782",
+    "name": "LTA Cross-Conference - Regional Championship 2025"
+  },
+  {
+    "id": "826783",
+    "name": "LTA Cross-Conference - Regional Championship 2025 (Regional Finals)"
+  },
+  {
+    "id": "826784",
+    "name": "LTA Cross-Conference - Regional Championship 2025 (Regional Finals: Regional Finals)"
+  },
+  {
+    "id": "826789",
+    "name": "LPL - Split 3 2025"
+  },
+  {
+    "id": "826790",
+    "name": "LPL - Split 3 2025 (Rumble Stage)"
+  },
+  {
+    "id": "826791",
+    "name": "LPL - Split 3 2025 (Rumble Stage: Group Nirvana)"
+  },
+  {
+    "id": "826792",
+    "name": "LPL - Split 3 2025 (Rumble Stage: Group Ascend)"
+  },
+  {
+    "id": "826906",
+    "name": "LEC - Summer 2025"
+  },
+  {
+    "id": "826907",
+    "name": "LEC - Summer 2025 (Groups)"
+  },
+  {
+    "id": "826908",
+    "name": "LEC - Summer 2025 (Groups: Group 1)"
+  },
+  {
+    "id": "826909",
+    "name": "LEC - Summer 2025 (Groups: Group 2)"
+  },
+  {
+    "id": "826910",
+    "name": "LEC - Summer 2025 (Playoffs)"
+  },
+  {
+    "id": "826911",
+    "name": "LEC - Summer 2025 (Playoffs: Playoffs)"
+  },
+  {
+    "id": "827068",
+    "name": "LCK - Split 3 2025 (Play-Ins)"
+  },
+  {
+    "id": "827069",
+    "name": "LCK - Split 3 2025 (Play-Ins: Play In Knockouts)"
+  },
+  {
+    "id": "827070",
+    "name": "LCK - Split 3 2025 (Playoffs)"
+  },
+  {
+    "id": "827071",
+    "name": "LCK - Split 3 2025 (Playoffs: Playoffs)"
+  },
+  {
+    "id": "827086",
+    "name": "LPL - Split 3 2025 (Playoffs Play-in: Knights Rivals)"
+  },
+  {
+    "id": "827087",
+    "name": "LPL - Split 3 2025 (Playoffs Play-in: Knights Rivals: Playoffs Play-in: Knights Rivals)"
+  },
+  {
+    "id": "827160",
+    "name": "LPL - Split 3 2025 (Playoffs)"
+  },
+  {
+    "id": "827161",
+    "name": "LPL - Split 3 2025 (Playoffs: Playoffs)"
+  },
+  {
+    "id": "827278",
+    "name": "LPL - Split 3 2025 (Regional Qualifier)"
+  },
+  {
+    "id": "827279",
+    "name": "LPL - Split 3 2025 (Regional Qualifier: Regional Qualifier)"
+  }
+]

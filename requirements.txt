@@ -1,0 +1,27 @@
+# Web API (FastAPI)
+fastapi==0.115.0
+uvicorn==0.31.0
+pydantic==2.10.0
+python-dotenv==1.0.1
+
+# Demo UI
+streamlit==1.39.0
+
+# Data / ML
+numpy==2.1.1
+pandas==2.2.3
+scikit-learn==1.6.0
+scipy==1.14.1
+xgboost==2.1.2
+joblib==1.4.2
+packaging==24.2
+torch==2.6.0
+
+# Ingestion / scraping
+httpx==0.27.2
+beautifulsoup4==4.12.3
+selenium==4.25.0
+webdriver-manager==4.0.2
+
+# File formats
+openpyxl==3.1.5

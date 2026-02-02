@@ -1,0 +1,14 @@
+{
+  "feature_blocks": [
+    "player_onehot",
+    "champion_onehot",
+    "opponent_onehot",
+    "numeric"
+  ],
+  "numeric_features": [
+    "player_comfort",
+    "historical_win_rate",
+    "sample_confidence"
+  ],
+  "row_count": 51
+}

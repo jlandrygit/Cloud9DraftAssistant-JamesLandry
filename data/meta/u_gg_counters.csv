@@ -1,0 +1,3633 @@
+champion,role,counter_champion,winrate,matches
+Aatrox,TOP,Kennen,55.83,206
+Aatrox,TOP,Volibear,54.55,187
+Aatrox,TOP,Urgot,54.42,226
+Aatrox,TOP,Mordekaiser,53.98,176
+Aatrox,TOP,Fiora,53.7,324
+Aatrox,TOP,Zaahen,53.47,346
+Aatrox,TOP,Riven,53.41,249
+Aatrox,TOP,Kayle,53.25,154
+Aatrox,TOP,Rumble,53.14,303
+Aatrox,TOP,Singed,53.1,145
+Aatrox,TOP,Poppy,53.03,66
+Aatrox,TOP,Malphite,52.4,313
+Aatrox,TOP,Ambessa,52.36,403
+Aatrox,TOP,Jayce,52.22,270
+Aatrox,TOP,Gangplank,51.98,354
+Aatrox,TOP,Jax,51.73,375
+Aatrox,TOP,Anivia,51.72,58
+Aatrox,TOP,Gnar,51.58,190
+Aatrox,TOP,Renekton,51.43,453
+Aatrox,TOP,Irelia,51.06,329
+Ahri,MID,Qiyana,59.0,261
+Ahri,MID,Jayce,57.97,69
+Ahri,MID,Zoe,56.79,287
+Ahri,MID,Cassiopeia,56.45,62
+Ahri,MID,Akshan,54.91,224
+Ahri,MID,Anivia,54.3,221
+Ahri,MID,Zed,53.55,394
+Ahri,MID,Vladimir,53.19,141
+Ahri,MID,Galio,52.89,346
+Ahri,MID,Syndra,52.35,426
+Ahri,MID,Fizz,52.07,121
+Ahri,MID,Malzahar,51.92,156
+Ahri,MID,Veigar,51.16,129
+Ahri,MID,Kassadin,50.98,306
+Ahri,MID,Katarina,50.98,410
+Ahri,MID,Sylas,50.54,742
+Ahri,MID,Yasuo,50.29,340
+Akali,MID,Jayce,59.49,79
+Akali,MID,Swain,58.24,91
+Akali,MID,Vex,56.38,188
+Akali,MID,Kayle,56.25,80
+Akali,MID,Taliyah,55.86,256
+Akali,MID,Lissandra,55.71,219
+Akali,MID,Qiyana,55.08,374
+Akali,MID,Lux,55.04,129
+Akali,MID,Hwei,54.61,152
+Akali,MID,Aurelion Sol,54.55,132
+Akali,MID,Zoe,53.54,353
+Akali,MID,Akshan,53.44,320
+Akali,MID,Vladimir,53.33,135
+Akali,MID,Ahri,53.19,376
+Akali,MID,Aurora,53.09,243
+Akali,MID,Katarina,52.73,440
+Akali,MID,Yasuo,52.63,608
+Akali,MID,Galio,52.1,689
+Akali,MID,Xerath,51.68,149
+Akali,MID,Ekko,51.38,253
+Akali,MID,Diana,51.28,156
+Akali,MID,Malzahar,51.16,172
+Akali,MID,Twisted Fate,51.14,528
+Akali,MID,Kassadin,51.03,388
+Akali,MID,Ryze,50.86,757
+Akali,MID,LeBlanc,50.58,342
+Akali,MID,Viktor,50.13,389
+Akshan,MID,Veigar,55.26,76
+Akshan,MID,Katarina,54.51,233
+Akshan,MID,Zoe,53.93,178
+Akshan,MID,Aurelion Sol,53.33,75
+Akshan,MID,Qiyana,53.22,171
+Akshan,MID,Ryze,52.47,385
+Akshan,MID,Vex,50.51,99
+Akshan,MID,Ekko,50.37,135
+Alistar,SUPPORT,Morgana,55.45,110
+Alistar,SUPPORT,Leona,52.14,677
+Alistar,SUPPORT,Bard,52.1,572
+Alistar,SUPPORT,Lulu,51.77,566
+Alistar,SUPPORT,Karma,51.54,518
+Alistar,SUPPORT,Braum,51.37,983
+Alistar,SUPPORT,Neeko,51.35,296
+Alistar,SUPPORT,Zilean,51.08,139
+Alistar,SUPPORT,Janna,50.63,397
+Alistar,SUPPORT,Sona,50.46,327
+Alistar,SUPPORT,Poppy,50.41,369
+Alistar,SUPPORT,Soraka,50.24,205
+Ambessa,TOP,Quinn,67.21,61
+Ambessa,TOP,Illaoi,61.33,75
+Ambessa,TOP,Warwick,59.43,106
+Ambessa,TOP,Singed,58.82,153
+Ambessa,TOP,Darius,57.36,265
+Ambessa,TOP,Kayle,55.65,124
+Ambessa,TOP,Aurora,55.42,83
+Ambessa,TOP,Shen,55.26,228
+Ambessa,TOP,Irelia,55.25,362
+Ambessa,TOP,Gangplank,55.0,360
+Ambessa,TOP,Tryndamere,55.0,100
+Ambessa,TOP,Riven,53.85,351
+Ambessa,TOP,Kennen,53.67,218
+Ambessa,TOP,Kled,53.45,116
+Ambessa,TOP,Poppy,53.44,131
+Ambessa,TOP,Renekton,52.08,35
+Ambessa,TOP,Rumble,52.05,390
+Ambessa,TOP,Camille,51.5,233
+Ambessa,TOP,Jax,51.11,405
+Ambessa,TOP,Teemo,50.72,69
+Ambessa,TOP,Zaahen,50.72,483
+Amumu,JUNGLE,Evelynn,83.33,12
+Amumu,JUNGLE,Malphite,83.33,12
+Amumu,JUNGLE,Sylas,71.74,46
+Amumu,JUNGLE,Nidalee,69.23,13
+Amumu,JUNGLE,Dr. Mundo,68.18,22
+Amumu,JUNGLE,Naafiri,66.67,12
+Amumu,JUNGLE,Shaco,63.64,22
+Amumu,JUNGLE,Xin Zhao,63.64,11
+Amumu,JUNGLE,Kindred,62.5,16
+Amumu,JUNGLE,Rammus,62.5,8
+Amumu,JUNGLE,Diana,58.21,67
+Amumu,JUNGLE,Zac,57.69,26
+Amumu,JUNGLE,Ivern,57.14,14
+Amumu,JUNGLE,Udyr,57.14,7
+Amumu,JUNGLE,Jarvan IV,56.82,44
+Amumu,JUNGLE,Zed,56.67,30
+Amumu,JUNGLE,Kha'Zix,56.45,62
+Amumu,JUNGLE,Fiddlesticks,56.25,16
+Amumu,JUNGLE,Elise,55.56,9
+Amumu,JUNGLE,Jayce,55.56,45
+Amumu,JUNGLE,Hecarim,55.17,29
+Amumu,JUNGLE,Ekko,54.72,53
+Amumu,JUNGLE,Graves,54.55,33
+Amumu,JUNGLE,Lee Sin,54.41,68
+Amumu,JUNGLE,Volibear,52.0,25
+Amumu,JUNGLE,Rek'Sai,51.61,31
+Amumu,JUNGLE,Qiyana,51.43,35
+Amumu,JUNGLE,Talon,51.35,37
+Anivia,MID,Talon,67.9,81
+Anivia,MID,Aurelion Sol,60.98,82
+Anivia,MID,Zoe,60.45,134
+Anivia,MID,Katarina,54.95,182
+Anivia,MID,Fizz,54.24,59
+Anivia,MID,Akshan,53.33,90
+Anivia,MID,Hwei,52.48,101
+Anivia,MID,Syndra,51.48,237
+Anivia,MID,Jayce,51.43,35
+Anivia,MID,Swain,51.28,39
+Anivia,MID,Xerath,50.97,155
+Anivia,MID,Orianna,50.23,217
+Anivia,TOP,Poppy,70.0,10
+Anivia,TOP,Sett,66.67,21
+Anivia,TOP,Volibear,62.5,16
+Anivia,TOP,Ornn,60.98,41
+Anivia,TOP,Fiora,59.37,32
+Anivia,TOP,Garen,57.89,19
+Anivia,TOP,Jayce,56.0,25
+Anivia,TOP,Gnar,54.17,24
+Anivia,TOP,Irelia,53.33,45
+Anivia,TOP,Riven,52.17,46
+Anivia,TOP,Gwen,51.72,29
+Annie,MID,Malzahar,90.91,11
+Annie,MID,Aurelion Sol,87.5,8
+Annie,MID,Fizz,77.78,18
+Annie,MID,Viktor,71.43,35
+Annie,MID,Talon,66.67,15
+Annie,MID,Vladimir,66.67,15
+Annie,MID,Mel,65.52,29
+Annie,MID,Diana,63.64,11
+Annie,MID,Ekko,62.5,16
+Annie,MID,Lissandra,62.5,8
+Annie,MID,Anivia,61.9,21
+Annie,MID,Qiyana,61.9,21
+Annie,MID,Galio,60.87,46
+Annie,MID,Sylas,58.06,31
+Annie,MID,Zed,57.78,45
+Annie,MID,Ryze,57.58,66
+Annie,MID,Tristana,55.56,9
+Annie,MID,Vex,55.56,9
+Annie,MID,Kassadin,54.05,37
+Annie,MID,Xerath,52.63,19
+Annie,MID,Zoe,52.63,38
+Annie,MID,Yasuo,51.28,78
+Aphelios,ADC,Mel,59.42,138
+Aphelios,ADC,Swain,58.84,294
+Aphelios,ADC,Ziggs,56.32,451
+Aphelios,ADC,Varus,53.4,678
+Aphelios,ADC,Miss Fortune,52.7,76
+Aphelios,ADC,Cassiopeia,51.95,154
+Aphelios,ADC,Jinx,51.86,553
+Aphelios,ADC,Ashe,51.84,814
+Aphelios,ADC,Twitch,51.05,664
+Aphelios,ADC,Caitlyn,50.84,205
+Aphelios,ADC,Yunara,50.54,386
+Aphelios,ADC,Corki,50.45,785
+Aphelios,ADC,Smolder,50.44,678
+Aphelios,ADC,Samira,50.29,344
+Ashe,ADC,Swain,60.42,48
+Ashe,ADC,Xayah,55.84,77
+Ashe,ADC,Varus,55.61,606
+Ashe,ADC,Nilah,54.84,62
+Ashe,ADC,Zeri,53.42,146
+Ashe,ADC,Ziggs,53.06,98
+Ashe,ADC,Yunara,52.75,637
+Ashe,ADC,Miss Fortune,52.63,285
+Ashe,ADC,Samira,52.24,134
+Ashe,ADC,Jinx,51.67,569
+Ashe,ADC,Yasuo,51.02,49
+Aurelion Sol,MID,Talon,62.5,32
+Aurelion Sol,MID,Kayle,60.0,25
+Aurelion Sol,MID,Swain,58.06,31
+Aurelion Sol,MID,Cassiopeia,57.14,28
+Aurelion Sol,MID,Jayce,57.14,21
+Aurelion Sol,MID,Veigar,57.14,35
+Aurelion Sol,MID,Zed,55.91,93
+Aurelion Sol,MID,Lissandra,55.88,34
+Aurelion Sol,MID,Yone,55.56,90
+Aurelion Sol,MID,Twisted Fate,54.31,116
+Aurelion Sol,MID,Ahri,54.05,111
+Aurelion Sol,MID,Kassadin,53.28,122
+Aurelion Sol,MID,Katarina,53.17,126
+Aurelion Sol,MID,Malzahar,50.98,51
+Aurelion Sol,MID,Yasuo,50.34,149
+Aurora,MID,Vex,75.68,37
+Aurora,MID,Taliyah,60.48,124
+Aurora,MID,Cassiopeia,59.26,27
+Aurora,MID,Xerath,58.14,86
+Aurora,MID,Fizz,57.97,69
+Aurora,MID,Qiyana,56.25,112
+Aurora,MID,Twisted Fate,56.13,155
+Aurora,MID,Hwei,55.56,54
+Aurora,MID,Syndra,55.33,197
+Aurora,MID,Kassadin,54.37,103
+Aurora,MID,Zed,54.25,153
+Aurora,MID,Talon,54.21,107
+Aurora,MID,Jayce,53.66,41
+Aurora,MID,Anivia,53.39,118
+Aurora,MID,Yone,53.12,128
+Aurora,MID,Akshan,52.78,108
+Aurora,MID,Sylas,52.66,207
+Aurora,MID,Vladimir,52.56,78
+Aurora,MID,Viktor,52.52,139
+Aurora,MID,Katarina,52.35,170
+Aurora,MID,Orianna,52.19,228
+Aurora,MID,Aurelion Sol,52.0,50
+Aurora,MID,Mel,52.0,75
+Aurora,MID,Zoe,51.48,169
+Aurora,MID,Galio,51.2,209
+Aurora,MID,Yasuo,51.11,180
+Aurora,MID,Ahri,51.01,198
+Aurora,TOP,Tryndamere,71.43,14
+Aurora,TOP,Jayce,66.07,56
+Aurora,TOP,Gragas,61.9,21
+Aurora,TOP,Teemo,60.0,15
+Aurora,TOP,Darius,59.09,44
+Aurora,TOP,Irelia,58.46,65
+Aurora,TOP,Kennen,58.46,65
+Aurora,TOP,Volibear,56.25,32
+Aurora,TOP,Urgot,56.0,50
+Aurora,TOP,K'Sante,55.56,72
+Aurora,TOP,Singed,54.84,31
+Aurora,TOP,Anivia,53.33,15
+Aurora,TOP,Kled,52.94,17
+Aurora,TOP,Ornn,52.08,48
+Aurora,TOP,Rumble,51.47,136
+Azir,MID,Lux,67.21,61
+Azir,MID,Zoe,63.86,83
+Azir,MID,Xerath,60.23,88
+Azir,MID,Aurora,59.42,69
+Azir,MID,Twisted Fate,59.4,133
+Azir,MID,Anivia,59.22,103
+Azir,MID,Galio,58.57,140
+Azir,MID,Diana,58.54,41
+Azir,MID,Syndra,58.09,136
+Azir,MID,Aurelion Sol,57.41,54
+Azir,MID,Ekko,56.7,97
+Azir,MID,Kayle,56.67,30
+Azir,MID,Sylas,56.49,131
+Azir,MID,LeBlanc,56.31,103
+Azir,MID,Akshan,55.7,79
+Azir,MID,Ahri,55.63,142
+Azir,MID,Qiyana,54.55,77
+Azir,MID,Talon,54.39,57
+Azir,MID,Yasuo,54.15,205
+Azir,MID,Yone,53.54,127
+Azir,MID,Vladimir,52.94,51
+Azir,MID,Vex,51.85,27
+Azir,MID,Katarina,51.77,141
+Azir,MID,Akali,51.58,190
+Azir,MID,Ryze,51.56,320
+Azir,MID,Kassadin,51.32,76
+Bard,SUPPORT,Pantheon,58.93,168
+Bard,SUPPORT,Poppy,56.98,172
+Bard,SUPPORT,Janna,56.09,690
+Bard,SUPPORT,Sona,55.22,699
+Bard,SUPPORT,Pyke,54.94,577
+Bard,SUPPORT,Lux,54.14,157
+Bard,SUPPORT,Taric,52.78,180
+Bard,SUPPORT,Elise,52.53,198
+Bard,SUPPORT,Rell,51.12,401
+Bard,SUPPORT,Zyra,51.06,94
+Bard,SUPPORT,Blitzcrank,50.89,393
+Bard,SUPPORT,Neeko,50.42,474
+Bel'Veth,JUNGLE,Rammus,61.11,18
+Bel'Veth,JUNGLE,Fiddlesticks,60.0,30
+Bel'Veth,JUNGLE,Shaco,60.0,65
+Bel'Veth,JUNGLE,Qiyana,59.7,67
+Bel'Veth,JUNGLE,Briar,59.09,22
+Bel'Veth,JUNGLE,Elise,57.14,35
+Bel'Veth,JUNGLE,Nocturne,55.56,36
+Bel'Veth,JUNGLE,Vi,51.72,29
+Bel'Veth,JUNGLE,Malphite,51.43,35
+Bel'Veth,JUNGLE,Diana,51.4,179
+Bel'Veth,JUNGLE,Nunu & Willump,50.98,51
+Bel'Veth,JUNGLE,Xin Zhao,50.94,53
+Bel'Veth,JUNGLE,Nidalee,50.82,61
+Bel'Veth,JUNGLE,Rek'Sai,50.82,61
+Bel'Veth,JUNGLE,Zed,50.77,65
+Blitzcrank,SUPPORT,Taric,62.67,75
+Blitzcrank,SUPPORT,Renata Glasc,58.49,53
+Blitzcrank,SUPPORT,Poppy,56.0,50
+Blitzcrank,SUPPORT,Vel'Koz,55.81,86
+Blitzcrank,SUPPORT,Braum,55.23,545
+Blitzcrank,SUPPORT,Alistar,54.92,366
+Blitzcrank,SUPPORT,Leona,54.9,408
+Blitzcrank,SUPPORT,Nautilus,53.88,464
+Blitzcrank,SUPPORT,Zilean,53.4,103
+Blitzcrank,SUPPORT,Pyke,52.61,249
+Blitzcrank,SUPPORT,Maokai,52.17,46
+Blitzcrank,SUPPORT,Rakan,51.87,214
+Blitzcrank,SUPPORT,Elise,51.11,45
+Blitzcrank,SUPPORT,Rell,50.91,165
+Blitzcrank,SUPPORT,Nami,50.86,639
+Blitzcrank,SUPPORT,Lulu,50.25,611
+Brand,SUPPORT,Poppy,78.57,14
+Brand,SUPPORT,Maokai,71.43,7
+Brand,SUPPORT,Milio,67.74,31
+Brand,SUPPORT,Tahm Kench,66.67,9
+Brand,SUPPORT,Soraka,65.71,35
+Brand,SUPPORT,Rakan,61.54,39
+Brand,SUPPORT,Senna,61.11,18
+Brand,SUPPORT,Bard,60.66,61
+Brand,SUPPORT,Leona,60.53,38
+Brand,SUPPORT,Lux,60.0,10
+Brand,SUPPORT,Seraphine,60.0,20
+Brand,SUPPORT,Neeko,58.82,17
+Brand,SUPPORT,Janna,57.45,47
+Brand,SUPPORT,Braum,57.14,56
+Brand,SUPPORT,Sona,56.6,53
+Brand,SUPPORT,Zilean,56.25,16
+Brand,SUPPORT,Alistar,55.56,54
+Brand,SUPPORT,Yuumi,55.56,18
+Brand,SUPPORT,Pantheon,55.0,20
+Brand,SUPPORT,Karma,54.55,77
+Brand,SUPPORT,Rell,54.55,33
+Brand,SUPPORT,Blitzcrank,53.66,41
+Brand,SUPPORT,Nami,50.42,119
+Braum,SUPPORT,Bard,54.73,888
+Braum,SUPPORT,Seraphine,52.35,277
+Braum,SUPPORT,Janna,51.85,542
+Braum,SUPPORT,Neeko,51.21,539
+Braum,SUPPORT,Lulu,50.81,171
+Braum,SUPPORT,Senna,50.77,392
+Braum,SUPPORT,Sona,50.69,507
+Braum,SUPPORT,Thresh,50.52,732
+Briar,JUNGLE,Zyra,75.0,12
+Briar,JUNGLE,Kindred,66.67,21
+Briar,JUNGLE,Master Yi,66.67,36
+Briar,JUNGLE,Ivern,65.22,23
+Briar,JUNGLE,Evelynn,61.54,26
+Briar,JUNGLE,Volibear,61.02,59
+Briar,JUNGLE,Lillia,60.0,20
+Briar,JUNGLE,Naafiri,59.09,22
+Briar,JUNGLE,Rengar,58.11,74
+Briar,JUNGLE,Jarvan IV,57.89,95
+Briar,JUNGLE,Hecarim,57.14,56
+Briar,JUNGLE,Shaco,56.25,32
+Briar,JUNGLE,Dr. Mundo,56.0,25
+Briar,JUNGLE,Fiddlesticks,55.56,36
+Briar,JUNGLE,Jayce,55.21,96
+Briar,JUNGLE,Ekko,54.33,127
+Briar,JUNGLE,Zac,54.1,61
+Briar,JUNGLE,Wukong,53.12,32
+Briar,JUNGLE,Kha'Zix,53.04,115
+Briar,JUNGLE,Graves,52.78,36
+Briar,JUNGLE,Talon,52.54,59
+Briar,JUNGLE,Vi,51.72,29
+Briar,JUNGLE,Diana,50.88,114
+Briar,JUNGLE,Zed,50.82,61
+Caitlyn,ADC,Seraphine,60.0,175
+Caitlyn,ADC,Nilah,58.62,145
+Caitlyn,ADC,Veigar,57.89,114
+Caitlyn,ADC,Swain,56.91,181
+Caitlyn,ADC,Yasuo,53.6,125
+Caitlyn,ADC,Vayne,53.14,271
+Caitlyn,ADC,Varus,53.13,295
+Caitlyn,ADC,Kog'Maw,52.48,141
+Caitlyn,ADC,Twitch,52.41,519
+Caitlyn,ADC,Samira,51.96,281
+Caitlyn,ADC,Jhin,51.21,783
+Caitlyn,ADC,Tristana,51.11,360
+Caitlyn,ADC,Ziggs,50.71,280
+Caitlyn,ADC,Kai'Sa,50.44,366
+Caitlyn,ADC,Mel,50.41,123
+Caitlyn,ADC,Sivir,50.12,828
+Caitlyn,ADC,Draven,50.1,483
+Caitlyn,ADC,Ashe,50.07,717
+Caitlyn,ADC,Ezreal,50.06,624
+Camille,TOP,Urgot,63.64,55
+Camille,TOP,Cho'Gath,62.5,40
+Camille,TOP,Darius,61.47,109
+Camille,TOP,Sett,60.47,43
+Camille,TOP,Aurora,59.26,27
+Camille,TOP,Jax,58.19,177
+Camille,TOP,Kayle,57.14,49
+Camille,TOP,Warwick,57.14,28
+Camille,TOP,Vladimir,56.76,37
+Camille,TOP,Nasus,55.36,56
+Camille,TOP,Gwen,55.24,105
+Camille,TOP,Jayce,54.9,102
+Camille,TOP,Tryndamere,54.05,37
+Camille,TOP,Rumble,53.41,88
+Camille,TOP,Singed,53.26,92
+Camille,TOP,Aatrox,53.12,160
+Camille,TOP,Zaahen,53.05,164
+Camille,TOP,Sion,52.17,92
+Camille,TOP,Renekton,51.79,224
+Camille,TOP,Irelia,51.35,111
+Camille,TOP,Gangplank,50.83,120
+Cassiopeia,ADC,Kog'Maw,71.43,7
+Cassiopeia,ADC,Miss Fortune,67.86,28
+Cassiopeia,ADC,Xayah,66.67,9
+Cassiopeia,ADC,Yasuo,66.67,9
+Cassiopeia,ADC,Ziggs,59.09,22
+Cassiopeia,ADC,Mel,58.33,12
+Cassiopeia,ADC,Seraphine,57.14,7
+Cassiopeia,ADC,Veigar,55.56,9
+Cassiopeia,ADC,Corki,55.1,49
+Cassiopeia,ADC,Smolder,54.29,35
+Cassiopeia,ADC,Tristana,52.94,17
+Cassiopeia,ADC,Varus,51.38,109
+Cassiopeia,MID,Fizz,70.0,20
+Cassiopeia,MID,Xerath,63.89,36
+Cassiopeia,MID,Hwei,63.64,22
+Cassiopeia,MID,Katarina,61.29,93
+Cassiopeia,MID,Qiyana,61.11,36
+Cassiopeia,MID,Zed,60.56,71
+Cassiopeia,MID,Swain,59.09,22
+Cassiopeia,MID,Taliyah,58.14,43
+Cassiopeia,MID,Ekko,56.86,51
+Cassiopeia,MID,Zoe,56.52,46
+Cassiopeia,MID,Orianna,55.56,81
+Cassiopeia,MID,Yasuo,54.95,91
+Cassiopeia,MID,Twisted Fate,53.33,45
+Cassiopeia,MID,Akshan,53.25,77
+Cassiopeia,MID,Syndra,52.94,85
+Cassiopeia,MID,Talon,52.94,17
+Cassiopeia,MID,LeBlanc,52.5,40
+Cassiopeia,MID,Galio,52.24,67
+Cassiopeia,MID,Anivia,52.0,50
+Cassiopeia,MID,Azir,52.0,25
+Cassiopeia,MID,Sylas,50.54,93
+Cho'Gath,TOP,Kled,65.71,35
+Cho'Gath,TOP,Vladimir,61.7,47
+Cho'Gath,TOP,Teemo,60.0,30
+Cho'Gath,TOP,Ornn,59.3,86
+Cho'Gath,TOP,Anivia,57.14,21
+Cho'Gath,TOP,Aatrox,56.82,88
+Cho'Gath,TOP,Sett,56.25,64
+Cho'Gath,TOP,Irelia,55.56,72
+Cho'Gath,TOP,Tryndamere,55.56,18
+Cho'Gath,TOP,Mordekaiser,54.84,62
+Cho'Gath,TOP,Warwick,54.17,24
+Cho'Gath,TOP,Gwen,53.49,86
+Cho'Gath,TOP,Ambessa,53.23,124
+Cho'Gath,TOP,Jayce,51.85,54
+Cho'Gath,TOP,Rumble,51.72,87
+Cho'Gath,TOP,Zaahen,51.43,105
+Corki,ADC,Ashe,56.61,295
+Corki,ADC,Sivir,56.52,391
+Corki,ADC,Draven,54.86,257
+Corki,ADC,Tristana,53.54,381
+Corki,ADC,Ziggs,53.01,83
+Corki,ADC,Vayne,51.28,234
+Corki,ADC,Kalista,50.82,61
+Corki,ADC,Veigar,50.75,67
+Corki,ADC,Lucian,50.61,826
+Corki,ADC,Caitlyn,50.36,685
+Corki,ADC,Zeri,50.27,187
+Corki,MID,Yone,75.0,28
+Corki,MID,Vel'Koz,70.0,10
+Corki,MID,Zoe,68.09,47
+Corki,MID,Diana,66.67,18
+Corki,MID,Lissandra,64.71,17
+Corki,MID,Aurelion Sol,64.29,14
+Corki,MID,Zed,62.5,56
+Corki,MID,Anivia,60.0,30
+Corki,MID,Syndra,60.0,80
+Corki,MID,Taliyah,60.0,40
+Corki,MID,LeBlanc,59.09,44
+Corki,MID,Tristana,58.82,17
+Corki,MID,Galio,58.47,118
+Corki,MID,Azir,57.14,21
+Corki,MID,Qiyana,57.14,35
+Corki,MID,Akshan,56.52,46
+Corki,MID,Katarina,54.69,64
+Corki,MID,Sylas,54.39,57
+Corki,MID,Orianna,54.24,59
+Corki,MID,Neeko,53.85,13
+Corki,MID,Yasuo,53.73,67
+Corki,MID,Akali,53.09,81
+Corki,MID,Fizz,52.94,17
+Corki,MID,Talon,52.0,25
+Darius,TOP,Anivia,63.16,38
+Darius,TOP,Gangplank,58.24,170
+Darius,TOP,Nasus,57.47,87
+Darius,TOP,Kayle,56.31,103
+Darius,TOP,Kennen,55.36,168
+Darius,TOP,Dr. Mundo,54.73,148
+Darius,TOP,Riven,54.55,209
+Darius,TOP,Urgot,54.03,124
+Darius,TOP,Warwick,54.0,50
+Darius,TOP,Gnar,53.64,151
+Darius,TOP,Aatrox,52.38,252
+Darius,TOP,Ornn,52.11,142
+Darius,TOP,Tryndamere,51.85,81
+Darius,TOP,Kled,51.67,60
+Darius,TOP,Cho'Gath,50.88,57
+Darius,TOP,Sett,50.66,152
+Darius,TOP,Irelia,50.52,192
+Diana,JUNGLE,Ivern,58.77,211
+Diana,JUNGLE,Rammus,57.14,91
+Diana,JUNGLE,Elise,54.12,194
+Diana,JUNGLE,Volibear,53.85,598
+Diana,JUNGLE,Shaco,53.29,304
+Diana,JUNGLE,Master Yi,53.04,345
+Diana,JUNGLE,Zyra,52.83,106
+Diana,JUNGLE,Rek'Sai,52.55,333
+Diana,JUNGLE,Warwick,51.65,91
+Diana,JUNGLE,Fiddlesticks,51.52,165
+Diana,JUNGLE,Nunu & Willump,51.4,286
+Diana,JUNGLE,Rengar,50.74,475
+Diana,JUNGLE,Dr. Mundo,50.59,253
+Diana,JUNGLE,Hecarim,50.22,450
+Diana,JUNGLE,Ekko,50.13,792
+Diana,MID,Aurelion Sol,75.0,36
+Diana,MID,Talon,71.15,52
+Diana,MID,Vladimir,60.34,58
+Diana,MID,Akshan,60.0,85
+Diana,MID,LeBlanc,59.78,92
+Diana,MID,Zoe,59.57,94
+Diana,MID,Galio,59.06,149
+Diana,MID,Yone,58.82,68
+Diana,MID,Xerath,58.67,75
+Diana,MID,Anivia,57.89,57
+Diana,MID,Ekko,56.96,79
+Diana,MID,Qiyana,56.38,94
+Diana,MID,Ahri,54.89,133
+Diana,MID,Cassiopeia,54.84,31
+Diana,MID,Lissandra,54.35,46
+Diana,MID,Taliyah,53.75,80
+Diana,MID,Viktor,53.17,126
+Diana,MID,Katarina,52.75,182
+Diana,MID,Kassadin,51.25,80
+Diana,MID,Ryze,50.46,216
+Dr. Mundo,JUNGLE,Kindred,67.39,46
+Dr. Mundo,JUNGLE,Karthus,64.52,62
+Dr. Mundo,JUNGLE,Shaco,58.82,85
+Dr. Mundo,JUNGLE,Nunu & Willump,58.16,98
+Dr. Mundo,JUNGLE,Ivern,58.14,43
+Dr. Mundo,JUNGLE,Bel'Veth,57.89,38
+Dr. Mundo,JUNGLE,Udyr,57.58,33
+Dr. Mundo,JUNGLE,Wukong,56.82,44
+Dr. Mundo,JUNGLE,Kayn,56.52,69
+Dr. Mundo,JUNGLE,Fiddlesticks,55.26,76
+Dr. Mundo,JUNGLE,Master Yi,55.07,69
+Dr. Mundo,JUNGLE,Zac,54.76,84
+Dr. Mundo,JUNGLE,Nidalee,54.0,50
+Dr. Mundo,JUNGLE,Jarvan IV,53.68,190
+Dr. Mundo,JUNGLE,Ekko,53.3,197
+Dr. Mundo,JUNGLE,Naafiri,52.63,38
+Dr. Mundo,JUNGLE,Evelynn,52.46,61
+Dr. Mundo,JUNGLE,Rammus,51.72,29
+Dr. Mundo,JUNGLE,Hecarim,51.43,105
+Dr. Mundo,JUNGLE,Volibear,50.43,115
+Dr. Mundo,TOP,Fiora,67.16,134
+Dr. Mundo,TOP,Anivia,65.0,40
+Dr. Mundo,TOP,Gwen,64.78,159
+Dr. Mundo,TOP,Irelia,63.54,96
+Dr. Mundo,TOP,Aatrox,62.18,193
+Dr. Mundo,TOP,Kled,60.38,53
+Dr. Mundo,TOP,Garen,59.34,91
+Dr. Mundo,TOP,Zaahen,57.58,132
+Dr. Mundo,TOP,Gangplank,57.43,148
+Dr. Mundo,TOP,Quinn,57.14,42
+Dr. Mundo,TOP,Ambessa,56.5,177
+Dr. Mundo,TOP,Riven,55.91,127
+Dr. Mundo,TOP,Camille,55.88,68
+Dr. Mundo,TOP,Cho'Gath,55.42,83
+Dr. Mundo,TOP,K'Sante,55.22,134
+Dr. Mundo,TOP,Yone,54.78,115
+Dr. Mundo,TOP,Ornn,54.64,183
+Dr. Mundo,TOP,Tryndamere,54.0,50
+Dr. Mundo,TOP,Nasus,53.85,91
+Dr. Mundo,TOP,Rumble,53.54,99
+Dr. Mundo,TOP,Shen,53.17,126
+Dr. Mundo,TOP,Mordekaiser,52.5,80
+Dr. Mundo,TOP,Kennen,52.33,172
+Dr. Mundo,TOP,Urgot,52.03,123
+Dr. Mundo,TOP,Aurora,51.22,41
+Dr. Mundo,TOP,Yorick,50.91,55
+Dr. Mundo,TOP,Jax,50.88,226
+Draven,ADC,Veigar,67.35,49
+Draven,ADC,Yasuo,62.5,64
+Draven,ADC,Kog'Maw,61.54,65
+Draven,ADC,Tristana,56.82,132
+Draven,ADC,Swain,56.57,99
+Draven,ADC,Seraphine,55.71,70
+Draven,ADC,Ziggs,53.4,103
+Draven,ADC,Aphelios,53.22,451
+Draven,ADC,Xayah,53.09,81
+Draven,ADC,Jinx,51.69,354
+Draven,ADC,Ashe,50.6,166
+Draven,ADC,Yunara,50.17,299
+Draven,ADC,Jhin,50.16,315
+Ekko,JUNGLE,Bel'Veth,60.5,119
+Ekko,JUNGLE,Ivern,56.58,152
+Ekko,JUNGLE,Zyra,55.65,124
+Ekko,JUNGLE,Kha'Zix,55.56,810
+Ekko,JUNGLE,Graves,54.55,264
+Ekko,JUNGLE,Fiddlesticks,54.49,156
+Ekko,JUNGLE,Rek'Sai,54.46,325
+Ekko,JUNGLE,Zac,54.39,228
+Ekko,JUNGLE,Rengar,54.05,383
+Ekko,JUNGLE,Shaco,52.94,238
+Ekko,JUNGLE,Lillia,52.85,123
+Ekko,JUNGLE,Lee Sin,52.78,61
+Ekko,JUNGLE,Master Yi,52.08,265
+Ekko,JUNGLE,Talon,51.48,439
+Ekko,JUNGLE,Kindred,50.97,155
+Ekko,JUNGLE,Qiyana,50.25,400
+Ekko,JUNGLE,Nunu & Willump,50.2,251
+Ekko,JUNGLE,Hecarim,50.15,337
+Ekko,MID,Veigar,60.81,74
+Ekko,MID,Jayce,57.89,38
+Ekko,MID,Zed,57.81,237
+Ekko,MID,Anivia,56.2,121
+Ekko,MID,Kassadin,54.46,202
+Ekko,MID,Vex,54.43,79
+Ekko,MID,Aurelion Sol,54.29,70
+Ekko,MID,Ryze,53.58,377
+Ekko,MID,Yone,53.21,109
+Ekko,MID,Katarina,53.18,220
+Ekko,MID,Yasuo,52.26,243
+Ekko,MID,LeBlanc,51.85,135
+Ekko,MID,Aurora,51.55,97
+Ekko,MID,Hwei,51.52,66
+Ekko,MID,Corki,51.43,35
+Ekko,MID,Malzahar,51.43,105
+Ekko,MID,Vel'Koz,51.43,35
+Ekko,MID,Sylas,51.35,370
+Ekko,MID,Ahri,50.73,205
+Ekko,MID,Viktor,50.54,184
+Elise,JUNGLE,Naafiri,59.62,52
+Elise,JUNGLE,Rengar,59.41,101
+Elise,JUNGLE,Ivern,58.82,34
+Elise,JUNGLE,Nunu & Willump,58.62,58
+Elise,JUNGLE,Briar,56.41,39
+Elise,JUNGLE,Nocturne,56.25,48
+Elise,JUNGLE,Xin Zhao,56.25,64
+Elise,JUNGLE,Dr. Mundo,54.79,73
+Elise,JUNGLE,Warwick,54.17,24
+Elise,JUNGLE,Qiyana,53.49,86
+Elise,JUNGLE,Zyra,53.12,32
+Elise,JUNGLE,Jayce,51.67,180
+Elise,JUNGLE,Shaco,51.56,64
+Elise,JUNGLE,Talon,51.43,105
+Elise,JUNGLE,Kha'Zix,50.92,271
+Elise,JUNGLE,Zed,50.63,79
+Elise,JUNGLE,Ekko,50.51,198
+Elise,SUPPORT,Maokai,64.71,17
+Elise,SUPPORT,Milio,58.75,80
+Elise,SUPPORT,Alistar,58.26,115
+Elise,SUPPORT,Seraphine,55.81,43
+Elise,SUPPORT,Lux,54.55,22
+Elise,SUPPORT,Nautilus,51.56,192
+Elise,SUPPORT,Thresh,51.12,178
+Elise,SUPPORT,Braum,50.53,190
+Evelynn,JUNGLE,Malphite,77.27,22
+Evelynn,JUNGLE,Warwick,66.67,18
+Evelynn,JUNGLE,Karthus,63.83,47
+Evelynn,JUNGLE,Lillia,61.9,21
+Evelynn,JUNGLE,Rengar,57.65,85
+Evelynn,JUNGLE,Ivern,55.81,43
+Evelynn,JUNGLE,Diana,55.33,197
+Evelynn,JUNGLE,Ekko,55.21,192
+Evelynn,JUNGLE,Nunu & Willump,54.55,66
+Evelynn,JUNGLE,Volibear,54.55,55
+Evelynn,JUNGLE,Nidalee,54.17,72
+Evelynn,JUNGLE,Sylas,53.16,79
+Evelynn,JUNGLE,Naafiri,52.94,34
+Evelynn,JUNGLE,Elise,52.63,38
+Evelynn,JUNGLE,Zed,51.85,81
+Evelynn,JUNGLE,Bel'Veth,51.43,35
+Evelynn,JUNGLE,Jarvan IV,50.75,134
+Ezreal,ADC,Yasuo,61.87,139
+Ezreal,ADC,Zeri,59.24,314
+Ezreal,ADC,Seraphine,58.64,162
+Ezreal,ADC,Swain,58.46,195
+Ezreal,ADC,Samira,57.91,335
+Ezreal,ADC,Ziggs,57.64,203
+Ezreal,ADC,Kog'Maw,56.35,126
+Ezreal,ADC,Sivir,55.59,29
+Ezreal,ADC,Mel,54.95,111
+Ezreal,ADC,Draven,54.94,486
+Ezreal,ADC,Lucian,54.57,325
+Ezreal,ADC,Tristana,54.29,431
+Ezreal,ADC,Ashe,54.07,651
+Ezreal,ADC,Kai'Sa,53.55,264
+Ezreal,ADC,Miss Fortune,53.34,658
+Ezreal,ADC,Jhin,52.93,281
+Ezreal,ADC,Xayah,52.83,212
+Ezreal,ADC,Vayne,52.49,341
+Ezreal,ADC,Varus,52.36,656
+Ezreal,ADC,Kalista,52.07,121
+Ezreal,ADC,Aphelios,52.03,749
+Ezreal,ADC,Jinx,51.98,85
+Ezreal,ADC,Corki,51.84,679
+Ezreal,ADC,Twitch,51.43,455
+Ezreal,ADC,Yunara,51.17,448
+Ezreal,ADC,Nilah,50.24,205
+Fiddlesticks,JUNGLE,Ivern,69.77,43
+Fiddlesticks,JUNGLE,Kayn,67.5,40
+Fiddlesticks,JUNGLE,Vi,57.89,38
+Fiddlesticks,JUNGLE,Hecarim,57.58,66
+Fiddlesticks,JUNGLE,Evelynn,56.82,44
+Fiddlesticks,JUNGLE,Zac,56.63,83
+Fiddlesticks,JUNGLE,Zyra,56.0,25
+Fiddlesticks,JUNGLE,Udyr,55.88,34
+Fiddlesticks,JUNGLE,Sylas,54.84,93
+Fiddlesticks,JUNGLE,Karthus,54.55,33
+Fiddlesticks,JUNGLE,Naafiri,53.85,39
+Fiddlesticks,JUNGLE,Jarvan IV,52.69,167
+Fiddlesticks,JUNGLE,Rengar,52.69,93
+Fiddlesticks,JUNGLE,Master Yi,52.63,76
+Fiddlesticks,JUNGLE,Elise,52.08,48
+Fiddlesticks,JUNGLE,Talon,52.08,96
+Fiddlesticks,JUNGLE,Nidalee,50.77,65
+Fiddlesticks,JUNGLE,Kha'Zix,50.29,175
+Fiddlesticks,JUNGLE,Viego,50.18,277
+Fiora,TOP,Tryndamere,62.22,90
+Fiora,TOP,Teemo,59.18,49
+Fiora,TOP,Vladimir,56.25,112
+Fiora,TOP,Kayle,55.65,124
+Fiora,TOP,Aurora,54.76,42
+Fiora,TOP,Darius,54.15,229
+Fiora,TOP,Gnar,53.38,148
+Fiora,TOP,Cho'Gath,52.34,107
+Fiora,TOP,Riven,52.13,305
+Fiora,TOP,Ambessa,51.85,297
+Fiora,TOP,Rumble,51.1,182
+Fiora,TOP,Kennen,50.53,190
+Fiora,TOP,Sett,50.45,111
+Fiora,TOP,Shen,50.32,157
+Fiora,TOP,Gangplank,50.23,217
+Fizz,MID,Ekko,63.22,87
+Fizz,MID,Lissandra,59.34,91
+Fizz,MID,Kayle,59.26,27
+Fizz,MID,Galio,57.51,193
+Fizz,MID,Ryze,56.41,195
+Fizz,MID,Taliyah,56.16,73
+Fizz,MID,Vladimir,55.88,68
+Fizz,MID,Veigar,55.81,43
+Fizz,MID,Kassadin,54.1,122
+Fizz,MID,Zoe,53.91,115
+Fizz,MID,Zed,53.33,180
+Fizz,MID,Akali,53.28,122
+Fizz,MID,Akshan,53.16,79
+Fizz,MID,Katarina,53.04,181
+Fizz,MID,Lux,52.0,50
+Fizz,MID,Talon,51.85,54
+Fizz,MID,Orianna,51.75,114
+Fizz,MID,Diana,50.82,61
+Galio,MID,Vel'Koz,68.75,64
+Galio,MID,Kassadin,56.58,152
+Galio,MID,Xerath,56.34,142
+Galio,MID,Twisted Fate,56.33,403
+Galio,MID,Neeko,56.14,57
+Galio,MID,Taliyah,55.98,259
+Galio,MID,Akshan,54.61,152
+Galio,MID,Syndra,54.38,377
+Galio,MID,Zed,54.38,274
+Galio,MID,Jayce,53.16,79
+Galio,MID,Ekko,52.91,206
+Galio,MID,Anivia,52.17,161
+Galio,MID,Vladimir,52.17,92
+Galio,MID,Talon,51.95,154
+Galio,MID,LeBlanc,51.53,262
+Galio,MID,Aurelion Sol,51.14,88
+Galio,MID,Qiyana,51.04,192
+Galio,MID,Viktor,50.37,268
+Galio,MID,Yone,50.18,271
+Gangplank,TOP,Kayle,62.25,151
+Gangplank,TOP,Warwick,59.37,64
+Gangplank,TOP,Gwen,55.61,205
+Gangplank,TOP,Rumble,55.26,190
+Gangplank,TOP,Aurora,53.45,58
+Gangplank,TOP,Kennen,53.14,175
+Gangplank,TOP,Jayce,52.94,170
+Gangplank,TOP,Mordekaiser,52.76,127
+Gangplank,TOP,Irelia,52.14,257
+Gangplank,TOP,Riven,51.57,254
+Gangplank,TOP,Cho'Gath,50.5,101
+Garen,TOP,Poppy,65.62,32
+Garen,TOP,Yorick,64.29,28
+Garen,TOP,Kennen,62.3,61
+Garen,TOP,Kled,62.26,53
+Garen,TOP,Fiora,60.0,95
+Garen,TOP,Tryndamere,60.0,55
+Garen,TOP,Camille,57.82,147
+Garen,TOP,Shen,57.03,128
+Garen,TOP,Yone,56.52,69
+Garen,TOP,Volibear,55.22,67
+Garen,TOP,Darius,55.17,145
+Garen,TOP,Kayle,55.14,107
+Garen,TOP,Sett,55.06,89
+Garen,TOP,Rumble,55.0,80
+Garen,TOP,Gragas,54.93,71
+Garen,TOP,Ambessa,54.42,147
+Garen,TOP,Gangplank,54.17,96
+Garen,TOP,Quinn,54.17,24
+Garen,TOP,Cho'Gath,53.33,60
+Garen,TOP,Nasus,52.58,97
+Garen,TOP,Irelia,52.25,111
+Garen,TOP,K'Sante,51.56,192
+Garen,TOP,Vladimir,50.85,59
+Garen,TOP,Singed,50.7,71
+Garen,TOP,Jayce,50.68,73
+Garen,TOP,Aatrox,50.41,123
+Gnar,TOP,Kled,58.73,63
+Gnar,TOP,Irelia,57.38,244
+Gnar,TOP,Camille,56.82,88
+Gnar,TOP,Shen,56.64,143
+Gnar,TOP,Malphite,56.25,272
+Gnar,TOP,Rumble,55.56,180
+Gnar,TOP,Jayce,54.01,187
+Gnar,TOP,Ambessa,53.08,211
+Gnar,TOP,Cho'Gath,52.63,76
+Gnar,TOP,Illaoi,52.63,38
+Gnar,TOP,Renekton,52.53,356
+Gnar,TOP,Riven,52.52,139
+Gnar,TOP,Dr. Mundo,52.38,126
+Gnar,TOP,Gwen,52.05,73
+Gnar,TOP,Vladimir,51.55,97
+Gnar,TOP,Garen,51.06,94
+Gnar,TOP,Gangplank,50.94,159
+Gnar,TOP,Kennen,50.91,165
+Gnar,TOP,Nasus,50.72,69
+Gragas,TOP,Ornn,60.22,93
+Gragas,TOP,Sett,55.36,56
+Gragas,TOP,Shen,55.36,56
+Gragas,TOP,Aatrox,54.78,157
+Gragas,TOP,Zaahen,54.48,134
+Gragas,TOP,Cho'Gath,54.05,37
+Gragas,TOP,Kennen,53.85,91
+Gragas,TOP,Dr. Mundo,53.28,122
+Gragas,TOP,Riven,53.04,181
+Gragas,TOP,Fiora,52.87,87
+Gragas,TOP,Jax,52.62,325
+Gragas,TOP,Gnar,52.33,86
+Gragas,TOP,Camille,52.17,46
+Gragas,TOP,Rumble,52.08,96
+Gragas,TOP,Vladimir,51.39,72
+Gragas,TOP,Volibear,51.16,43
+Gragas,TOP,Gangplank,50.53,95
+Graves,JUNGLE,Zac,59.26,81
+Graves,JUNGLE,Bel'Veth,58.33,60
+Graves,JUNGLE,Vi,58.18,55
+Graves,JUNGLE,Jarvan IV,57.6,217
+Graves,JUNGLE,Volibear,57.53,73
+Graves,JUNGLE,Karthus,56.92,65
+Graves,JUNGLE,Dr. Mundo,56.58,76
+Graves,JUNGLE,Zyra,55.88,34
+Graves,JUNGLE,Elise,55.56,63
+Graves,JUNGLE,Evelynn,55.56,54
+Graves,JUNGLE,Qiyana,55.47,137
+Graves,JUNGLE,Nocturne,55.36,56
+Graves,JUNGLE,Rek'Sai,55.32,141
+Graves,JUNGLE,Rengar,54.81,135
+Graves,JUNGLE,Naafiri,54.79,73
+Graves,JUNGLE,Fiddlesticks,54.55,55
+Graves,JUNGLE,Diana,54.42,283
+Graves,JUNGLE,Master Yi,54.17,120
+Graves,JUNGLE,Lillia,51.79,56
+Graves,JUNGLE,Talon,51.45,138
+Graves,JUNGLE,Zed,51.39,216
+Graves,JUNGLE,Kha'Zix,51.11,315
+Graves,JUNGLE,Xin Zhao,50.82,61
+Graves,JUNGLE,Shaco,50.43,115
+Graves,JUNGLE,Kindred,50.42,119
+Gwen,TOP,Aurora,56.41,39
+Gwen,TOP,Aatrox,55.51,227
+Gwen,TOP,Darius,54.4,125
+Gwen,TOP,Jax,53.21,280
+Gwen,TOP,Shen,52.72,184
+Gwen,TOP,Kled,52.63,57
+Gwen,TOP,Kennen,52.54,118
+Gwen,TOP,Poppy,52.5,40
+Gwen,TOP,Vladimir,52.38,63
+Gwen,TOP,Volibear,52.38,84
+Gwen,TOP,Sett,52.08,96
+Gwen,TOP,Singed,52.0,100
+Gwen,TOP,Riven,51.88,133
+Gwen,TOP,Garen,51.58,95
+Gwen,TOP,Gragas,51.43,70
+Gwen,TOP,Kayle,51.11,90
+Gwen,TOP,Ambessa,51.0,249
+Gwen,TOP,Fiora,50.86,175
+Gwen,TOP,K'Sante,50.46,323
+Hecarim,JUNGLE,Ivern,62.64,91
+Hecarim,JUNGLE,Malphite,60.32,63
+Hecarim,JUNGLE,Nidalee,59.62,104
+Hecarim,JUNGLE,Evelynn,59.46,74
+Hecarim,JUNGLE,Udyr,59.32,59
+Hecarim,JUNGLE,Bel'Veth,58.06,62
+Hecarim,JUNGLE,Rek'Sai,56.36,165
+Hecarim,JUNGLE,Nocturne,55.06,89
+Hecarim,JUNGLE,Graves,54.87,113
+Hecarim,JUNGLE,Zac,54.78,157
+Hecarim,JUNGLE,Jarvan IV,54.48,290
+Hecarim,JUNGLE,Lee Sin,54.23,378
+Hecarim,JUNGLE,Xin Zhao,53.75,80
+Hecarim,JUNGLE,Qiyana,52.9,155
+Hecarim,JUNGLE,Karthus,52.48,101
+Hecarim,JUNGLE,Volibear,52.29,153
+Hecarim,JUNGLE,Jayce,52.25,289
+Hecarim,JUNGLE,Rengar,52.17,184
+Hecarim,JUNGLE,Kha'Zix,51.43,350
+Hecarim,JUNGLE,Shaco,50.75,134
+Hecarim,JUNGLE,Kindred,50.62,81
+Hecarim,JUNGLE,Zed,50.37,135
+Heimerdinger,MID,Aurelion Sol,100.0,2
+Heimerdinger,MID,Diana,100.0,2
+Heimerdinger,MID,Fizz,100.0,2
+Heimerdinger,MID,Viktor,87.5,8
+Heimerdinger,MID,Aurora,75.0,4
+Heimerdinger,MID,Galio,75.0,4
+Heimerdinger,MID,Twisted Fate,75.0,4
+Heimerdinger,MID,Syndra,70.0,10
+Heimerdinger,MID,Lissandra,66.67,6
+Heimerdinger,MID,Taliyah,66.67,3
+Heimerdinger,MID,Vladimir,66.67,3
+Heimerdinger,MID,Zoe,66.67,3
+Heimerdinger,MID,Orianna,62.5,8
+Heimerdinger,MID,Katarina,55.56,9
+Hwei,ADC,Samira,75.0,12
+Hwei,ADC,Sivir,72.73,33
+Hwei,ADC,Lucian,70.97,31
+Hwei,ADC,Mel,70.0,10
+Hwei,ADC,Kog'Maw,62.5,8
+Hwei,ADC,Tristana,61.11,18
+Hwei,ADC,Zeri,61.11,18
+Hwei,ADC,Jinx,60.42,48
+Hwei,ADC,Kalista,60.0,5
+Hwei,ADC,Twitch,57.14,28
+Hwei,ADC,Ashe,56.0,25
+Hwei,ADC,Varus,55.56,63
+Hwei,ADC,Jhin,51.92,52
+Hwei,ADC,Caitlyn,50.85,59
+Hwei,ADC,Kai'Sa,50.7,71
+Hwei,MID,Lux,62.3,61
+Hwei,MID,Sylas,61.38,145
+Hwei,MID,Fizz,60.47,43
+Hwei,MID,Twisted Fate,59.66,119
+Hwei,MID,Talon,58.33,48
+Hwei,MID,Zed,57.89,114
+Hwei,MID,Syndra,57.23,173
+Hwei,MID,Akshan,57.14,84
+Hwei,MID,Katarina,57.14,112
+Hwei,MID,Xerath,56.64,113
+Hwei,MID,Aurelion Sol,56.6,53
+Hwei,MID,Azir,56.52,46
+Hwei,MID,Corki,56.0,25
+Hwei,MID,Ahri,54.62,130
+Hwei,MID,Galio,54.47,123
+Hwei,MID,Zoe,53.93,89
+Hwei,MID,Vel'Koz,53.57,28
+Hwei,MID,Diana,53.19,47
+Hwei,MID,Swain,53.12,32
+Hwei,MID,Vladimir,52.83,53
+Hwei,MID,Kayle,51.72,29
+Hwei,MID,Yasuo,50.74,136
+Hwei,MID,LeBlanc,50.65,77
+Illaoi,TOP,Anivia,81.82,11
+Illaoi,TOP,Quinn,80.0,10
+Illaoi,TOP,Teemo,69.23,13
+Illaoi,TOP,Kayle,64.44,45
+Illaoi,TOP,Garen,64.0,25
+Illaoi,TOP,Fiora,62.5,32
+Illaoi,TOP,Camille,61.54,26
+Illaoi,TOP,Ornn,60.0,45
+Illaoi,TOP,Darius,59.09,44
+Illaoi,TOP,Aatrox,57.14,56
+Illaoi,TOP,Mordekaiser,57.14,49
+Illaoi,TOP,Yone,56.76,37
+Illaoi,TOP,Shen,55.26,38
+Illaoi,TOP,Dr. Mundo,55.17,29
+Illaoi,TOP,Malphite,55.0,40
+Illaoi,TOP,Sett,53.85,26
+Illaoi,TOP,Renekton,53.57,56
+Illaoi,TOP,Sion,53.33,45
+Illaoi,TOP,Poppy,52.63,19
+Illaoi,TOP,Volibear,51.61,31
+Illaoi,TOP,Zaahen,50.72,69
+Irelia,TOP,Poppy,60.87,46
+Irelia,TOP,Warwick,59.32,59
+Irelia,TOP,Shen,59.12,137
+Irelia,TOP,Renekton,58.75,320
+Irelia,TOP,Kled,58.06,62
+Irelia,TOP,Singed,56.3,119
+Irelia,TOP,Fiora,56.03,232
+Irelia,TOP,Jax,55.59,313
+Irelia,TOP,Sett,55.38,195
+Irelia,TOP,Kennen,55.36,224
+Irelia,TOP,Tryndamere,55.36,56
+Irelia,TOP,Jayce,53.56,267
+Irelia,TOP,Gwen,53.45,116
+Irelia,TOP,Volibear,53.29,152
+Irelia,TOP,Mordekaiser,52.53,99
+Irelia,TOP,Gragas,50.59,85
+Irelia,TOP,Malphite,50.38,266
+Ivern,JUNGLE,Zyra,71.43,35
+Ivern,JUNGLE,Bel'Veth,58.54,41
+Ivern,JUNGLE,Master Yi,58.21,67
+Ivern,JUNGLE,Udyr,57.14,21
+Ivern,JUNGLE,Nocturne,56.82,44
+Ivern,JUNGLE,Volibear,56.45,62
+Ivern,JUNGLE,Rengar,55.56,99
+Ivern,JUNGLE,Qiyana,55.45,101
+Ivern,JUNGLE,Vi,55.32,47
+Ivern,JUNGLE,Rek'Sai,53.12,64
+Ivern,JUNGLE,Graves,52.54,59
+Ivern,JUNGLE,Zed,52.43,103
+Ivern,JUNGLE,Shaco,52.38,63
+Ivern,JUNGLE,Wukong,52.0,25
+Ivern,JUNGLE,Kayn,50.85,59
+Ivern,JUNGLE,Nunu & Willump,50.72,69
+Janna,SUPPORT,Elise,58.59,99
+Janna,SUPPORT,Renata Glasc,56.32,87
+Janna,SUPPORT,Taric,56.03,116
+Janna,SUPPORT,Soraka,55.45,312
+Janna,SUPPORT,Blitzcrank,54.05,370
+Janna,SUPPORT,Pyke,51.84,299
+Janna,SUPPORT,Senna,51.68,298
+Janna,SUPPORT,Sona,51.51,629
+Janna,SUPPORT,Lulu,50.62,812
+Jarvan IV,JUNGLE,Zyra,59.18,98
+Jarvan IV,JUNGLE,Ivern,57.63,177
+Jarvan IV,JUNGLE,Rek'Sai,57.51,273
+Jarvan IV,JUNGLE,Volibear,56.22,233
+Jarvan IV,JUNGLE,Master Yi,55.76,217
+Jarvan IV,JUNGLE,Sylas,55.19,241
+Jarvan IV,JUNGLE,Udyr,54.35,92
+Jarvan IV,JUNGLE,Naafiri,53.52,142
+Jarvan IV,JUNGLE,Karthus,53.15,143
+Jarvan IV,JUNGLE,Zed,52.92,274
+Jarvan IV,JUNGLE,Kha'Zix,52.77,595
+Jarvan IV,JUNGLE,Qiyana,52.66,319
+Jarvan IV,JUNGLE,Nidalee,52.57,175
+Jarvan IV,JUNGLE,Wukong,52.43,185
+Jarvan IV,JUNGLE,Diana,51.93,647
+Jarvan IV,JUNGLE,Talon,51.91,314
+Jarvan IV,JUNGLE,Zac,51.82,247
+Jarvan IV,JUNGLE,Kayn,51.8,139
+Jarvan IV,JUNGLE,Ekko,51.53,522
+Jarvan IV,JUNGLE,Bel'Veth,51.49,101
+Jarvan IV,JUNGLE,Lee Sin,51.19,885
+Jarvan IV,JUNGLE,Rengar,50.81,307
+Jarvan IV,JUNGLE,Viego,50.25,194
+Jax,TOP,Poppy,63.46,104
+Jax,TOP,Aurora,57.89,76
+Jax,TOP,Jayce,56.37,204
+Jax,TOP,Vladimir,55.56,225
+Jax,TOP,Garen,53.65,356
+Jax,TOP,Kennen,53.02,381
+Jax,TOP,Cho'Gath,52.44,82
+Jax,TOP,Fiora,52.24,335
+Jax,TOP,Singed,52.0,150
+Jax,TOP,Nasus,51.89,106
+Jax,TOP,Gangplank,51.87,268
+Jax,TOP,Gnar,51.66,211
+Jax,TOP,Riven,51.57,287
+Jax,TOP,Illaoi,51.47,68
+Jax,TOP,Shen,51.42,212
+Jax,TOP,Darius,51.37,255
+Jax,TOP,Urgot,50.52,192
+Jax,TOP,Rumble,50.42,238
+Jax,TOP,Tryndamere,50.31,161
+Jax,TOP,Ornn,50.26,195
+Jayce,JUNGLE,Rengar,62.58,310
+Jayce,JUNGLE,Zyra,60.13,153
+Jayce,JUNGLE,Ivern,59.34,182
+Jayce,JUNGLE,Bel'Veth,58.52,135
+Jayce,JUNGLE,Evelynn,56.48,193
+Jayce,JUNGLE,Lillia,56.48,108
+Jayce,JUNGLE,Karthus,56.25,208
+Jayce,JUNGLE,Rek'Sai,56.18,356
+Jayce,JUNGLE,Nunu & Willump,55.19,241
+Jayce,JUNGLE,Nidalee,54.62,368
+Jayce,JUNGLE,Nocturne,54.44,180
+Jayce,JUNGLE,Qiyana,54.43,474
+Jayce,JUNGLE,Kha'Zix,53.5,871
+Jayce,JUNGLE,Dr. Mundo,53.27,214
+Jayce,JUNGLE,Master Yi,53.18,267
+Jayce,JUNGLE,Kindred,53.17,205
+Jayce,JUNGLE,Zac,53.14,239
+Jayce,JUNGLE,Fiddlesticks,53.1,145
+Jayce,JUNGLE,Talon,53.04,460
+Jayce,JUNGLE,Graves,52.97,404
+Jayce,JUNGLE,Lee Sin,52.6,367
+Jayce,JUNGLE,Kayn,52.57,175
+Jayce,JUNGLE,Xin Zhao,52.13,188
+Jayce,JUNGLE,Shaco,52.12,236
+Jayce,JUNGLE,Volibear,51.92,156
+Jayce,JUNGLE,Ekko,51.8,724
+Jayce,JUNGLE,Vi,51.26,398
+Jayce,JUNGLE,Diana,51.22,658
+Jayce,JUNGLE,Jarvan IV,50.42,722
+Jayce,MID,Azir,64.0,25
+Jayce,MID,Viktor,63.16,57
+Jayce,MID,Hwei,58.33,24
+Jayce,MID,Taliyah,58.33,24
+Jayce,MID,Yasuo,58.33,72
+Jayce,MID,Akshan,55.36,56
+Jayce,MID,Qiyana,54.76,42
+Jayce,MID,Twisted Fate,54.76,42
+Jayce,MID,LeBlanc,54.05,37
+Jayce,MID,Katarina,53.26,92
+Jayce,MID,Sylas,53.01,83
+Jayce,MID,Fizz,52.63,19
+Jayce,MID,Kassadin,51.85,108
+Jayce,TOP,Ornn,58.4,125
+Jayce,TOP,Shen,57.58,99
+Jayce,TOP,Sion,55.93,177
+Jayce,TOP,Urgot,55.21,96
+Jayce,TOP,Malphite,54.23,426
+Jayce,TOP,Nasus,53.62,69
+Jayce,TOP,Mordekaiser,53.52,71
+Jayce,TOP,Yorick,52.99,117
+Jayce,TOP,Darius,52.56,156
+Jayce,TOP,Kennen,52.5,200
+Jayce,TOP,Dr. Mundo,52.41,145
+Jayce,TOP,Tryndamere,52.38,63
+Jayce,TOP,Renekton,52.06,194
+Jayce,TOP,Gwen,51.96,102
+Jayce,TOP,Fiora,51.48,169
+Jayce,TOP,Quinn,51.35,37
+Jayce,TOP,Ambessa,50.98,306
+Jayce,TOP,Kayle,50.6,83
+Jayce,TOP,Riven,50.56,180
+Jhin,ADC,Tristana,57.55,417
+Jhin,ADC,Nilah,57.04,135
+Jhin,ADC,Samira,56.5,223
+Jhin,ADC,Twitch,55.39,464
+Jhin,ADC,Seraphine,55.32,141
+Jhin,ADC,Kai'Sa,54.42,650
+Jhin,ADC,Yasuo,54.26,94
+Jhin,ADC,Zeri,53.7,257
+Jhin,ADC,Mel,53.61,97
+Jhin,ADC,Yunara,53.21,75
+Jhin,ADC,Aphelios,52.54,319
+Jhin,ADC,Ashe,52.54,571
+Jhin,ADC,Lucian,52.18,870
+Jhin,ADC,Corki,51.79,502
+Jhin,ADC,Miss Fortune,51.72,580
+Jhin,ADC,Varus,51.41,525
+Jhin,ADC,Kog'Maw,50.43,117
+Jhin,ADC,Jinx,50.26,959
+Jinx,ADC,Corki,53.19,549
+Jinx,ADC,Yasuo,52.5,120
+Jinx,ADC,Tristana,51.53,491
+Jinx,ADC,Varus,50.83,27
+Jinx,ADC,Swain,50.59,170
+Jinx,ADC,Twitch,50.47,634
+Jinx,ADC,Ziggs,50.33,151
+Jinx,ADC,Caitlyn,50.07,392
+K'Sante,TOP,Urgot,58.04,143
+K'Sante,TOP,Gragas,56.31,103
+K'Sante,TOP,Fiora,56.29,302
+K'Sante,TOP,Shen,55.29,170
+K'Sante,TOP,Singed,55.05,109
+K'Sante,TOP,Aatrox,54.63,324
+K'Sante,TOP,Kled,54.17,96
+K'Sante,TOP,Camille,54.01,137
+K'Sante,TOP,Gnar,53.86,440
+K'Sante,TOP,Cho'Gath,53.16,79
+K'Sante,TOP,Jayce,52.89,225
+K'Sante,TOP,Riven,52.7,222
+K'Sante,TOP,Illaoi,52.63,57
+K'Sante,TOP,Jax,52.54,394
+K'Sante,TOP,Volibear,52.53,158
+K'Sante,TOP,Ambessa,52.51,379
+K'Sante,TOP,Gangplank,51.98,252
+K'Sante,TOP,Ornn,51.79,168
+K'Sante,TOP,Rumble,51.71,468
+K'Sante,TOP,Kayle,51.55,161
+K'Sante,TOP,Darius,51.5,233
+K'Sante,TOP,Irelia,51.43,210
+K'Sante,TOP,Zaahen,51.38,327
+K'Sante,TOP,Poppy,51.22,82
+K'Sante,TOP,Yone,51.02,147
+K'Sante,TOP,Renekton,50.26,382
+Kai'Sa,ADC,Swain,61.22,263
+Kai'Sa,ADC,Draven,57.71,402
+Kai'Sa,ADC,Nilah,57.33,307
+Kai'Sa,ADC,Kalista,56.29,167
+Kai'Sa,ADC,Ashe,55.34,759
+Kai'Sa,ADC,Aphelios,54.79,984
+Kai'Sa,ADC,Jinx,54.35,691
+Kai'Sa,ADC,Zeri,54.1,536
+Kai'Sa,ADC,Yasuo,53.66,205
+Kai'Sa,ADC,Xayah,52.96,710
+Kai'Sa,ADC,Varus,52.94,496
+Kai'Sa,ADC,Corki,52.75,111
+Kai'Sa,ADC,Tristana,52.41,685
+Kai'Sa,ADC,Twitch,52.26,884
+Kai'Sa,ADC,Seraphine,51.9,210
+Kai'Sa,ADC,Yunara,51.44,706
+Kai'Sa,ADC,Lucian,51.29,938
+Kai'Sa,ADC,Miss Fortune,51.19,801
+Kai'Sa,ADC,Sivir,51.07,210
+Kai'Sa,ADC,Smolder,50.9,776
+Kai'Sa,ADC,Vayne,50.7,572
+Kalista,ADC,Swain,71.43,21
+Kalista,ADC,Jinx,64.2,81
+Kalista,ADC,Yasuo,62.5,16
+Kalista,ADC,Zeri,62.5,24
+Kalista,ADC,Vayne,61.76,34
+Kalista,ADC,Seraphine,61.54,13
+Kalista,ADC,Draven,60.87,46
+Kalista,ADC,Twitch,60.47,43
+Kalista,ADC,Xayah,60.0,20
+Kalista,ADC,Yunara,58.77,114
+Kalista,ADC,Samira,58.06,31
+Kalista,ADC,Ashe,56.25,80
+Kalista,ADC,Mel,54.55,11
+Kalista,ADC,Ziggs,52.94,17
+Kalista,ADC,Aphelios,51.49,101
+Karma,SUPPORT,Taric,56.04,182
+Karma,SUPPORT,Pyke,55.69,562
+Karma,SUPPORT,Thresh,55.55,199
+Karma,SUPPORT,Nautilus,55.05,546
+Karma,SUPPORT,Janna,53.88,748
+Karma,SUPPORT,Blitzcrank,53.05,509
+Karma,SUPPORT,Pantheon,52.5,200
+Karma,SUPPORT,Elise,52.36,212
+Karma,SUPPORT,Braum,52.29,115
+Karma,SUPPORT,Leona,52.11,497
+Karma,SUPPORT,Rakan,52.06,607
+Karma,SUPPORT,Lulu,51.74,405
+Karma,SUPPORT,Milio,51.47,645
+Karma,SUPPORT,Bard,50.72,118
+Karma,SUPPORT,Vel'Koz,50.35,143
+Karma,SUPPORT,Sona,50.23,868
+Karthus,JUNGLE,Qiyana,61.22,98
+Karthus,JUNGLE,Udyr,56.0,25
+Karthus,JUNGLE,Rengar,54.95,91
+Karthus,JUNGLE,Nidalee,54.41,68
+Karthus,JUNGLE,Elise,54.29,35
+Karthus,JUNGLE,Talon,54.17,96
+Karthus,JUNGLE,Master Yi,54.05,74
+Karthus,JUNGLE,Ivern,54.0,50
+Karthus,JUNGLE,Diana,53.74,147
+Karthus,JUNGLE,Kindred,52.94,51
+Karthus,JUNGLE,Rek'Sai,52.38,84
+Karthus,JUNGLE,Bel'Veth,51.61,31
+Karthus,JUNGLE,Zac,51.47,68
+Karthus,JUNGLE,Ekko,50.56,180
+Kassadin,MID,Zed,63.51,222
+Kassadin,MID,Vex,59.32,59
+Kassadin,MID,Corki,55.34,103
+Kassadin,MID,Sylas,54.3,256
+Kassadin,MID,Anivia,54.11,146
+Kassadin,MID,Akshan,52.94,204
+Kassadin,MID,Hwei,52.63,95
+Kassadin,MID,Tristana,51.72,145
+Kassadin,MID,Qiyana,50.7,213
+Kassadin,MID,Vladimir,50.63,158
+Katarina,MID,Talon,55.49,182
+Katarina,MID,Annie,54.79,73
+Katarina,MID,Kayle,54.79,73
+Katarina,MID,Qiyana,54.23,284
+Katarina,MID,Zoe,53.42,292
+Katarina,MID,Yasuo,53.22,466
+Katarina,MID,Galio,53.19,517
+Katarina,MID,Mel,52.08,144
+Katarina,MID,Kassadin,52.03,467
+Katarina,MID,Orianna,51.01,345
+Katarina,MID,Lissandra,50.36,278
+Kayle,MID,Zoe,74.36,39
+Kayle,MID,Talon,62.5,24
+Kayle,MID,Xerath,62.5,24
+Kayle,MID,Orianna,60.61,33
+Kayle,MID,Galio,60.0,40
+Kayle,MID,Jayce,60.0,15
+Kayle,MID,Veigar,60.0,30
+Kayle,MID,Vladimir,58.33,48
+Kayle,MID,Ekko,57.89,38
+Kayle,MID,Akshan,54.35,46
+Kayle,MID,Lux,53.85,26
+Kayle,MID,Ryze,53.26,92
+Kayle,MID,Syndra,52.33,86
+Kayle,MID,Kassadin,52.0,100
+Kayle,MID,Mel,52.0,25
+Kayle,MID,Ahri,51.9,79
+Kayle,MID,Sylas,51.32,76
+Kayle,MID,Anivia,51.11,45
+Kayle,TOP,Anivia,72.73,22
+Kayle,TOP,Quinn,68.0,25
+Kayle,TOP,Irelia,59.7,134
+Kayle,TOP,Gragas,56.82,44
+Kayle,TOP,Riven,55.74,122
+Kayle,TOP,Vladimir,54.84,62
+Kayle,TOP,Gnar,54.79,73
+Kayle,TOP,Sion,54.44,90
+Kayle,TOP,Dr. Mundo,54.43,79
+Kayle,TOP,Volibear,53.52,71
+Kayle,TOP,Jax,51.67,180
+Kayle,TOP,Aurora,51.61,31
+Kayle,TOP,Urgot,51.25,80
+Kayle,TOP,Cho'Gath,50.94,53
+Kayn,JUNGLE,Nocturne,70.0,30
+Kayn,JUNGLE,Rammus,65.62,32
+Kayn,JUNGLE,Talon,65.59,93
+Kayn,JUNGLE,Evelynn,63.83,47
+Kayn,JUNGLE,Qiyana,62.79,86
+Kayn,JUNGLE,Zed,61.19,67
+Kayn,JUNGLE,Malphite,61.11,36
+Kayn,JUNGLE,Sejuani,60.0,25
+Kayn,JUNGLE,Karthus,59.52,42
+Kayn,JUNGLE,Master Yi,57.97,69
+Kayn,JUNGLE,Kha'Zix,57.89,190
+Kayn,JUNGLE,Shaco,57.35,68
+Kayn,JUNGLE,Bel'Veth,57.14,42
+Kayn,JUNGLE,Nunu & Willump,57.14,70
+Kayn,JUNGLE,Elise,56.82,44
+Kayn,JUNGLE,Lillia,56.76,37
+Kayn,JUNGLE,Udyr,55.81,43
+Kayn,JUNGLE,Zac,55.7,79
+Kayn,JUNGLE,Rengar,55.45,101
+Kayn,JUNGLE,Zyra,55.0,20
+Kayn,JUNGLE,Lee Sin,54.49,167
+Kayn,JUNGLE,Briar,53.49,43
+Kayn,JUNGLE,Kindred,53.49,43
+Kayn,JUNGLE,Volibear,53.25,77
+Kayn,JUNGLE,Ekko,53.01,183
+Kayn,JUNGLE,Nidalee,51.85,54
+Kayn,JUNGLE,Xin Zhao,51.11,45
+Kayn,JUNGLE,Rek'Sai,50.75,67
+Kayn,JUNGLE,Diana,50.68,221
+Kayn,JUNGLE,Hecarim,50.44,113
+Kennen,TOP,Anivia,58.97,39
+Kennen,TOP,Nasus,57.89,114
+Kennen,TOP,Yorick,55.78,147
+Kennen,TOP,Camille,55.26,76
+Kennen,TOP,K'Sante,53.59,153
+Kennen,TOP,Cho'Gath,53.33,75
+Kennen,TOP,Kayle,50.88,57
+Kennen,TOP,Shen,50.83,120
+Kha'Zix,JUNGLE,Nocturne,57.65,170
+Kha'Zix,JUNGLE,Rengar,57.0,407
+Kha'Zix,JUNGLE,Karthus,55.87,213
+Kha'Zix,JUNGLE,Zyra,54.87,113
+Kha'Zix,JUNGLE,Lee Sin,52.73,134
+Kha'Zix,JUNGLE,Naafiri,52.23,291
+Kha'Zix,JUNGLE,Rek'Sai,52.01,323
+Kha'Zix,JUNGLE,Xin Zhao,52.0,200
+Kha'Zix,JUNGLE,Nidalee,51.5,266
+Kha'Zix,JUNGLE,Bel'Veth,51.16,129
+Kha'Zix,JUNGLE,Diana,50.97,824
+Kha'Zix,JUNGLE,Sejuani,50.96,104
+Kha'Zix,JUNGLE,Talon,50.81,494
+Kha'Zix,JUNGLE,Evelynn,50.67,223
+Kha'Zix,JUNGLE,Dr. Mundo,50.24,209
+Kha'Zix,JUNGLE,Qiyana,50.12,431
+Kindred,JUNGLE,Nidalee,62.82,78
+Kindred,JUNGLE,Zyra,60.61,33
+Kindred,JUNGLE,Shaco,57.14,42
+Kindred,JUNGLE,Ivern,56.82,44
+Kindred,JUNGLE,Evelynn,55.88,34
+Kindred,JUNGLE,Zac,54.17,72
+Kindred,JUNGLE,Bel'Veth,52.0,25
+Kindred,JUNGLE,Lee Sin,50.94,265
+Kindred,JUNGLE,Elise,50.91,55
+Kindred,JUNGLE,Diana,50.82,183
+Kindred,JUNGLE,Jarvan IV,50.68,148
+Kindred,JUNGLE,Qiyana,50.63,79
+Kindred,JUNGLE,Kha'Zix,50.62,160
+Kled,TOP,Camille,67.24,58
+Kled,TOP,Kayle,64.29,42
+Kled,TOP,Gragas,63.16,38
+Kled,TOP,Singed,62.75,51
+Kled,TOP,Fiora,62.16,74
+Kled,TOP,Anivia,61.11,18
+Kled,TOP,Urgot,59.57,47
+Kled,TOP,Jayce,59.02,61
+Kled,TOP,Quinn,58.82,17
+Kled,TOP,Volibear,57.41,54
+Kled,TOP,Kennen,57.14,49
+Kled,TOP,Mordekaiser,56.41,39
+Kled,TOP,Sett,55.77,52
+Kled,TOP,Warwick,55.56,18
+Kled,TOP,Jax,54.74,137
+Kled,TOP,Yorick,54.55,22
+Kled,TOP,Poppy,53.57,28
+Kled,TOP,Shen,53.45,58
+Kled,TOP,Rumble,52.08,96
+Kled,TOP,Gangplank,51.14,88
+Kled,TOP,Aatrox,50.6,83
+Kog'Maw,ADC,Kalista,76.92,13
+Kog'Maw,ADC,Nilah,65.52,29
+Kog'Maw,ADC,Zeri,59.52,42
+Kog'Maw,ADC,Veigar,57.14,14
+Kog'Maw,ADC,Twitch,53.93,89
+Kog'Maw,ADC,Jinx,52.94,153
+Kog'Maw,ADC,Ashe,52.86,70
+Kog'Maw,ADC,Kai'Sa,52.35,170
+Kog'Maw,ADC,Seraphine,51.72,29
+Kog'Maw,ADC,Corki,50.96,104
+Kog'Maw,ADC,Miss Fortune,50.72,69
+Kog'Maw,ADC,Sivir,50.53,95
+LeBlanc,MID,Vex,60.44,225
+LeBlanc,MID,Anivia,59.32,118
+LeBlanc,MID,Aurelion Sol,58.82,85
+LeBlanc,MID,Malzahar,58.57,140
+LeBlanc,MID,Akshan,57.46,181
+LeBlanc,MID,Zed,57.39,230
+LeBlanc,MID,Qiyana,56.49,154
+LeBlanc,MID,Twisted Fate,55.28,199
+LeBlanc,MID,Kassadin,54.45,191
+LeBlanc,MID,Fizz,54.35,92
+LeBlanc,MID,Ryze,53.03,347
+LeBlanc,MID,Zoe,53.02,232
+LeBlanc,MID,Ahri,52.13,282
+LeBlanc,MID,Taliyah,51.82,137
+LeBlanc,MID,Vel'Koz,51.79,56
+LeBlanc,MID,Veigar,51.67,60
+LeBlanc,MID,Aurora,50.79,126
+LeBlanc,MID,Talon,50.63,79
+Lee Sin,JUNGLE,Zyra,57.07,184
+Lee Sin,JUNGLE,Nocturne,54.59,185
+Lee Sin,JUNGLE,Volibear,54.4,193
+Lee Sin,JUNGLE,Naafiri,53.5,200
+Lee Sin,JUNGLE,Evelynn,53.31,257
+Lee Sin,JUNGLE,Briar,52.71,129
+Lee Sin,JUNGLE,Karthus,52.12,236
+Lee Sin,JUNGLE,Rek'Sai,51.93,597
+Lee Sin,JUNGLE,Diana,51.74,5
+Lee Sin,JUNGLE,Graves,51.66,753
+Lee Sin,JUNGLE,Nidalee,51.28,585
+Lee Sin,JUNGLE,Elise,51.22,246
+Lee Sin,JUNGLE,Dr. Mundo,51.16,215
+Lee Sin,JUNGLE,Sylas,51.05,523
+Lee Sin,JUNGLE,Fiddlesticks,50.83,181
+Lee Sin,JUNGLE,Malphite,50.7,215
+Lee Sin,JUNGLE,Zac,50.7,355
+Lee Sin,JUNGLE,Ivern,50.3,169
+Lee Sin,JUNGLE,Bel'Veth,50.29,173
+Lee Sin,JUNGLE,Shaco,50.28,352
+Leona,SUPPORT,Morgana,57.42,209
+Leona,SUPPORT,Braum,55.84,942
+Leona,SUPPORT,Bard,54.81,416
+Leona,SUPPORT,Taric,54.0,150
+Leona,SUPPORT,Janna,53.25,338
+Leona,SUPPORT,Soraka,52.38,231
+Leona,SUPPORT,Elise,52.17,115
+Leona,SUPPORT,Neeko,52.12,236
+Leona,SUPPORT,Poppy,52.05,219
+Leona,SUPPORT,Rakan,51.93,389
+Leona,SUPPORT,Milio,50.4,252
+Lissandra,MID,Zed,55.56,54
+Lissandra,MID,Diana,53.42,161
+Lissandra,MID,Talon,51.47,68
+Lissandra,MID,Qiyana,50.85,59
+Lucian,ADC,Draven,55.59,367
+Lucian,ADC,Samira,55.09,334
+Lucian,ADC,Swain,54.94,162
+Lucian,ADC,Seraphine,54.55,154
+Lucian,ADC,Jinx,54.38,868
+Lucian,ADC,Twitch,53.27,505
+Lucian,ADC,Caitlyn,52.95,18
+Lucian,ADC,Yasuo,52.86,140
+Lucian,ADC,Aphelios,52.79,182
+Lucian,ADC,Kalista,52.34,107
+Lucian,ADC,Kog'Maw,52.23,157
+Lucian,ADC,Tristana,51.98,404
+Lucian,ADC,Yunara,51.49,243
+Lucian,ADC,Ashe,51.43,488
+Lucian,ADC,Miss Fortune,51.19,545
+Lucian,ADC,Mel,51.11,90
+Lucian,ADC,Vayne,50.83,301
+Lucian,ADC,Varus,50.82,972
+Lucian,ADC,Zeri,50.55,271
+Lulu,SUPPORT,Elise,59.32,177
+Lulu,SUPPORT,Lux,55.68,176
+Lulu,SUPPORT,Leona,55.23,545
+Lulu,SUPPORT,Rell,55.04,516
+Lulu,SUPPORT,Maokai,54.9,102
+Lulu,SUPPORT,Sona,54.6,945
+Lulu,SUPPORT,Zilean,54.58,284
+Lulu,SUPPORT,Seraphine,54.52,354
+Lulu,SUPPORT,Neeko,54.04,483
+Lulu,SUPPORT,Taric,53.99,213
+Lulu,SUPPORT,Poppy,53.73,134
+Lulu,SUPPORT,Thresh,52.68,270
+Lulu,SUPPORT,Pyke,52.46,549
+Lulu,SUPPORT,Bard,50.85,942
+Lulu,SUPPORT,Nami,50.84,95
+Lux,MID,Vel'Koz,66.67,33
+Lux,MID,Vex,64.1,39
+Lux,MID,Taliyah,62.2,82
+Lux,MID,Qiyana,61.9,84
+Lux,MID,Annie,61.54,26
+Lux,MID,Ekko,61.04,77
+Lux,MID,Swain,60.71,28
+Lux,MID,Diana,60.47,43
+Lux,MID,Katarina,58.33,180
+Lux,MID,Ahri,56.34,142
+Lux,MID,Mel,55.56,81
+Lux,MID,Anivia,55.0,60
+Lux,MID,LeBlanc,53.4,103
+Lux,MID,Akshan,53.09,81
+Lux,MID,Jayce,52.17,23
+Lux,MID,Aurora,51.56,64
+Lux,MID,Galio,51.52,99
+Lux,MID,Xerath,51.38,109
+Lux,MID,Aurelion Sol,51.35,37
+Lux,MID,Zed,51.28,156
+Lux,MID,Kassadin,51.02,98
+Lux,MID,Syndra,50.88,171
+Lux,SUPPORT,Zilean,68.29,41
+Lux,SUPPORT,Pyke,59.52,84
+Lux,SUPPORT,Pantheon,58.82,17
+Lux,SUPPORT,Neeko,58.57,70
+Lux,SUPPORT,Blitzcrank,58.33,108
+Lux,SUPPORT,Yuumi,58.33,36
+Lux,SUPPORT,Poppy,56.25,16
+Lux,SUPPORT,Leona,54.43,79
+Lux,SUPPORT,Vel'Koz,54.17,24
+Lux,SUPPORT,Zyra,54.17,24
+Lux,SUPPORT,Rakan,53.66,82
+Lux,SUPPORT,Braum,53.47,144
+Lux,SUPPORT,Seraphine,53.33,45
+Lux,SUPPORT,Nami,53.28,274
+Lux,SUPPORT,Janna,53.19,94
+Lux,SUPPORT,Karma,53.15,254
+Lux,SUPPORT,Taric,52.94,17
+Lux,SUPPORT,Thresh,52.56,156
+Lux,SUPPORT,Soraka,50.55,91
+Malphite,JUNGLE,Lillia,66.67,42
+Malphite,JUNGLE,Ivern,64.86,37
+Malphite,JUNGLE,Sylas,63.86,166
+Malphite,JUNGLE,Ekko,61.98,121
+Malphite,JUNGLE,Fiddlesticks,61.9,21
+Malphite,JUNGLE,Rek'Sai,61.67,60
+Malphite,JUNGLE,Master Yi,61.25,80
+Malphite,JUNGLE,Dr. Mundo,60.87,46
+Malphite,JUNGLE,Karthus,60.87,23
+Malphite,JUNGLE,Diana,60.42,144
+Malphite,JUNGLE,Volibear,60.0,45
+Malphite,JUNGLE,Zed,58.82,85
+Malphite,JUNGLE,Wukong,58.33,48
+Malphite,JUNGLE,Qiyana,57.95,88
+Malphite,JUNGLE,Shaco,57.53,73
+Malphite,JUNGLE,Talon,57.27,110
+Malphite,JUNGLE,Elise,56.67,30
+Malphite,JUNGLE,Kindred,56.67,30
+Malphite,JUNGLE,Jarvan IV,56.6,106
+Malphite,JUNGLE,Jayce,56.25,224
+Malphite,JUNGLE,Kha'Zix,56.08,189
+Malphite,JUNGLE,Nunu & Willump,54.29,35
+Malphite,JUNGLE,Graves,54.08,98
+Malphite,JUNGLE,Naafiri,53.66,41
+Malphite,JUNGLE,Zac,51.67,60
+Malphite,TOP,Singed,63.74,91
+Malphite,TOP,Sylas,58.49,530
+Malphite,TOP,Rumble,61.54,169
+Malphite,TOP,Kled,60.23,88
+Malphite,TOP,Anivia,60.0,55
+Malphite,TOP,Nasus,59.34,91
+Malphite,TOP,Dr. Mundo,58.8,250
+Malphite,TOP,Shen,58.28,163
+Malphite,TOP,Ornn,57.95,176
+Malphite,TOP,Vladimir,57.81,128
+Malphite,TOP,Volibear,57.73,97
+Malphite,TOP,Jax,57.7,357
+Malphite,TOP,Sion,57.58,231
+Malphite,TOP,Yorick,56.67,60
+Malphite,TOP,K'Sante,56.25,160
+Malphite,TOP,Gragas,56.12,98
+Malphite,TOP,Gangplank,56.02,241
+Malphite,TOP,Fiora,55.16,252
+Malphite,TOP,Garen,55.14,107
+Malphite,TOP,Darius,55.11,176
+Malphite,TOP,Ambessa,54.76,294
+Malphite,TOP,Aurora,54.69,64
+Malphite,TOP,Kayle,53.39,118
+Malphite,TOP,Gwen,53.24,216
+Malphite,TOP,Mordekaiser,53.15,222
+Malphite,TOP,Riven,52.94,323
+Malphite,TOP,Renekton,52.48,282
+Malphite,TOP,Cho'Gath,52.17,138
+Malphite,TOP,Warwick,51.92,52
+Malphite,TOP,Yone,51.83,164
+Malphite,TOP,Camille,51.82,110
+Malphite,TOP,Kennen,50.79,252
+Malphite,TOP,Urgot,50.37,135
+Malzahar,MID,Vel'Koz,65.52,29
+Malzahar,MID,Aurora,59.68,62
+Malzahar,MID,Diana,59.18,49
+Malzahar,MID,Syndra,58.97,156
+Malzahar,MID,Talon,58.46,65
+Malzahar,MID,Cassiopeia,58.33,24
+Malzahar,MID,Fizz,58.33,60
+Malzahar,MID,Twisted Fate,57.32,157
+Malzahar,MID,Katarina,56.93,202
+Malzahar,MID,Yone,56.76,74
+Malzahar,MID,Lissandra,55.1,49
+Malzahar,MID,Lux,54.72,53
+Malzahar,MID,Galio,53.76,93
+Malzahar,MID,Kassadin,53.57,140
+Malzahar,MID,Azir,53.19,47
+Malzahar,MID,Vex,52.94,34
+Malzahar,MID,Orianna,52.8,125
+Malzahar,MID,Akshan,52.63,76
+Malzahar,MID,Kayle,52.38,42
+Malzahar,MID,Hwei,51.67,60
+Malzahar,MID,Veigar,51.61,62
+Malzahar,MID,Anivia,51.47,68
+Malzahar,MID,Swain,51.16,43
+Malzahar,MID,Mel,50.94,53
+Maokai,SUPPORT,Lux,84.62,13
+Maokai,SUPPORT,Vel'Koz,77.78,9
+Maokai,SUPPORT,Morgana,66.67,21
+Maokai,SUPPORT,Senna,66.67,21
+Maokai,SUPPORT,Braum,58.82,102
+Maokai,SUPPORT,Bard,56.07,107
+Maokai,SUPPORT,Rell,55.77,52
+Maokai,SUPPORT,Alistar,55.29,85
+Maokai,SUPPORT,Taric,54.55,22
+Maokai,SUPPORT,Nautilus,52.83,106
+Maokai,SUPPORT,Leona,52.46,61
+Maokai,SUPPORT,Poppy,52.17,23
+Maokai,SUPPORT,Nami,52.1,119
+Maokai,SUPPORT,Pyke,51.61,93
+Master Yi,JUNGLE,Shaco,62.79,86
+Master Yi,JUNGLE,Rek'Sai,61.48,122
+Master Yi,JUNGLE,Kindred,60.0,60
+Master Yi,JUNGLE,Bel'Veth,58.82,68
+Master Yi,JUNGLE,Nidalee,57.75,71
+Master Yi,JUNGLE,Talon,56.57,175
+Master Yi,JUNGLE,Evelynn,56.45,62
+Master Yi,JUNGLE,Sejuani,55.88,34
+Master Yi,JUNGLE,Zyra,54.76,42
+Master Yi,JUNGLE,Qiyana,52.94,153
+Master Yi,JUNGLE,Volibear,52.73,110
+Master Yi,JUNGLE,Hecarim,51.82,137
+Master Yi,JUNGLE,Rammus,51.56,64
+Master Yi,JUNGLE,Pantheon,51.43,35
+Master Yi,JUNGLE,Zed,50.7,142
+Master Yi,JUNGLE,Kha'Zix,50.14,347
+Mel,ADC,Yasuo,69.57,23
+Mel,ADC,Kog'Maw,64.71,17
+Mel,ADC,Ziggs,58.06,31
+Mel,ADC,Swain,56.67,30
+Mel,ADC,Seraphine,56.41,39
+Mel,ADC,Zeri,55.56,27
+Mel,ADC,Kai'Sa,54.81,135
+Mel,ADC,Yunara,53.97,126
+Mel,ADC,Jinx,53.33,105
+Mel,ADC,Xayah,53.33,15
+Mel,ADC,Corki,52.5,80
+Mel,ADC,Draven,52.17,46
+Mel,ADC,Nilah,51.72,29
+Mel,MID,Cassiopeia,70.83,24
+Mel,MID,Lissandra,68.29,41
+Mel,MID,Taliyah,65.12,86
+Mel,MID,Vladimir,64.86,37
+Mel,MID,Ekko,64.56,79
+Mel,MID,Orianna,64.56,158
+Mel,MID,Kassadin,63.72,113
+Mel,MID,Sylas,62.24,98
+Mel,MID,Akali,61.36,132
+Mel,MID,Yasuo,60.77,130
+Mel,MID,Vel'Koz,60.0,35
+Mel,MID,Zoe,59.52,289
+Mel,MID,Syndra,59.35,155
+Mel,MID,Yone,59.26,81
+Mel,MID,Viktor,59.17,169
+Mel,MID,Akshan,59.09,110
+Mel,MID,Ryze,58.74,143
+Mel,MID,Vex,58.14,43
+Mel,MID,Qiyana,57.33,75
+Mel,MID,Talon,57.14,49
+Mel,MID,Anivia,56.94,72
+Mel,MID,Xerath,56.8,125
+Mel,MID,LeBlanc,56.48,108
+Mel,MID,Azir,55.93,59
+Mel,MID,Aurelion Sol,55.81,43
+Mel,MID,Veigar,54.84,62
+Mel,MID,Ahri,54.48,279
+Mel,MID,Fizz,54.1,61
+Mel,MID,Corki,53.85,26
+Mel,MID,Diana,53.33,45
+Mel,MID,Galio,51.0,100
+Mel,MID,Hwei,50.57,87
+Mel,MID,Zed,50.41,121
+Milio,SUPPORT,Pantheon,58.75,80
+Milio,SUPPORT,Blitzcrank,56.67,330
+Milio,SUPPORT,Rell,55.66,221
+Milio,SUPPORT,Janna,55.11,372
+Milio,SUPPORT,Sona,55.04,536
+Milio,SUPPORT,Senna,54.74,190
+Milio,SUPPORT,Lulu,54.14,870
+Milio,SUPPORT,Alistar,53.96,202
+Milio,SUPPORT,Nami,53.75,226
+Milio,SUPPORT,Neeko,53.67,177
+Milio,SUPPORT,Zilean,53.12,160
+Milio,SUPPORT,Poppy,52.94,51
+Milio,SUPPORT,Zyra,52.73,55
+Milio,SUPPORT,Bard,52.71,387
+Milio,SUPPORT,Braum,51.97,508
+Milio,SUPPORT,Soraka,51.64,304
+Milio,SUPPORT,Thresh,51.57,510
+Milio,SUPPORT,Taric,51.35,74
+Milio,SUPPORT,Lux,50.62,81
+Milio,SUPPORT,Pyke,50.41,242
+Miss Fortune,ADC,Swain,61.54,78
+Miss Fortune,ADC,Tristana,58.1,210
+Miss Fortune,ADC,Twitch,56.45,287
+Miss Fortune,ADC,Caitlyn,55.29,671
+Miss Fortune,ADC,Yunara,53.65,712
+Miss Fortune,ADC,Jinx,52.66,526
+Miss Fortune,ADC,Zeri,51.59,126
+Miss Fortune,ADC,Ziggs,50.91,110
+Miss Fortune,ADC,Corki,50.72,347
+Miss Fortune,ADC,Sivir,50.71,420
+Miss Fortune,ADC,Draven,50.27,185
+Mordekaiser,TOP,Kayle,60.0,65
+Mordekaiser,TOP,Garen,59.74,77
+Mordekaiser,TOP,Darius,58.06,155
+Mordekaiser,TOP,Volibear,57.89,95
+Mordekaiser,TOP,Fiora,57.52,113
+Mordekaiser,TOP,Riven,57.02,114
+Mordekaiser,TOP,Gragas,55.74,61
+Mordekaiser,TOP,Ambessa,55.64,133
+Mordekaiser,TOP,Zaahen,55.32,141
+Mordekaiser,TOP,Jax,54.27,164
+Mordekaiser,TOP,Warwick,53.33,30
+Mordekaiser,TOP,Kennen,53.09,81
+Mordekaiser,TOP,Camille,52.94,68
+Mordekaiser,TOP,Sett,52.86,70
+Mordekaiser,TOP,Gnar,52.27,88
+Mordekaiser,TOP,Gwen,51.69,89
+Mordekaiser,TOP,K'Sante,51.67,180
+Mordekaiser,TOP,Nasus,51.52,66
+Mordekaiser,TOP,Shen,51.39,144
+Mordekaiser,TOP,Urgot,51.11,90
+Morgana,SUPPORT,Taric,75.0,20
+Morgana,SUPPORT,Poppy,70.37,27
+Morgana,SUPPORT,Pyke,61.54,78
+Morgana,SUPPORT,Lux,58.82,34
+Morgana,SUPPORT,Seraphine,57.14,49
+Morgana,SUPPORT,Zilean,57.14,35
+Morgana,SUPPORT,Sona,56.94,72
+Morgana,SUPPORT,Thresh,56.9,355
+Morgana,SUPPORT,Soraka,56.6,53
+Morgana,SUPPORT,Zyra,55.0,20
+Morgana,SUPPORT,Blitzcrank,53.46,159
+Morgana,SUPPORT,Karma,52.08,192
+Morgana,SUPPORT,Nami,51.53,163
+Morgana,SUPPORT,Braum,51.39,251
+Morgana,SUPPORT,Lulu,51.26,119
+Morgana,SUPPORT,Rell,50.56,89
+Morgana,SUPPORT,Bard,50.46,109
+Naafiri,JUNGLE,Vi,69.44,36
+Naafiri,JUNGLE,Nidalee,66.67,36
+Naafiri,JUNGLE,Xin Zhao,63.64,33
+Naafiri,JUNGLE,Nocturne,61.22,49
+Naafiri,JUNGLE,Rek'Sai,60.71,56
+Naafiri,JUNGLE,Qiyana,60.23,88
+Naafiri,JUNGLE,Bel'Veth,60.0,25
+Naafiri,JUNGLE,Diana,58.75,160
+Naafiri,JUNGLE,Ekko,57.72,123
+Naafiri,JUNGLE,Lillia,57.5,40
+Naafiri,JUNGLE,Rengar,57.29,96
+Naafiri,JUNGLE,Karthus,56.82,44
+Naafiri,JUNGLE,Kayn,55.56,36
+Naafiri,JUNGLE,Sylas,55.32,47
+Naafiri,JUNGLE,Master Yi,55.0,40
+Naafiri,JUNGLE,Udyr,55.0,20
+Naafiri,JUNGLE,Zed,53.93,89
+Naafiri,JUNGLE,Kindred,53.85,39
+Naafiri,JUNGLE,Jayce,53.49,172
+Naafiri,JUNGLE,Volibear,52.94,51
+Naafiri,JUNGLE,Hecarim,52.78,72
+Naafiri,JUNGLE,Shaco,51.32,76
+Naafiri,JUNGLE,Ivern,51.02,49
+Nami,SUPPORT,Braum,53.35,209
+Nami,SUPPORT,Taric,53.18,220
+Nami,SUPPORT,Alistar,52.79,646
+Nami,SUPPORT,Thresh,52.69,376
+Nami,SUPPORT,Senna,52.42,517
+Nami,SUPPORT,Elise,52.0,225
+Nami,SUPPORT,Zilean,51.55,386
+Nami,SUPPORT,Rell,51.42,494
+Nami,SUPPORT,Leona,51.11,722
+Nami,SUPPORT,Renata Glasc,50.69,144
+Nami,SUPPORT,Sona,50.52,536
+Nami,SUPPORT,Nautilus,50.39,661
+Nami,SUPPORT,Pyke,50.36,687
+Nami,SUPPORT,Janna,50.29,227
+Nami,SUPPORT,Karma,50.05,966
+Nasus,TOP,Quinn,78.57,28
+Nasus,TOP,Sion,71.01,69
+Nasus,TOP,Sett,65.96,47
+Nasus,TOP,Gragas,63.89,36
+Nasus,TOP,Gwen,62.9,62
+Nasus,TOP,Ambessa,61.39,101
+Nasus,TOP,Fiora,61.39,101
+Nasus,TOP,Ornn,60.4,101
+Nasus,TOP,Teemo,60.0,25
+Nasus,TOP,Illaoi,59.37,32
+Nasus,TOP,Shen,57.75,71
+Nasus,TOP,Yone,57.45,47
+Nasus,TOP,Irelia,57.41,54
+Nasus,TOP,Kled,56.0,25
+Nasus,TOP,Urgot,55.17,58
+Nasus,TOP,Riven,55.1,98
+Nasus,TOP,Singed,55.08,118
+Nasus,TOP,Aatrox,53.47,144
+Nasus,TOP,Gangplank,52.11,71
+Nasus,TOP,Aurora,51.61,31
+Nasus,TOP,Zaahen,51.55,97
+Nasus,TOP,K'Sante,50.65,77
+Nasus,TOP,Kayle,50.52,97
+Nautilus,SUPPORT,Zilean,59.11,247
+Nautilus,SUPPORT,Neeko,56.97,409
+Nautilus,SUPPORT,Morgana,56.34,284
+Nautilus,SUPPORT,Braum,55.94,961
+Nautilus,SUPPORT,Renata Glasc,55.62,160
+Nautilus,SUPPORT,Vel'Koz,55.48,155
+Nautilus,SUPPORT,Poppy,55.26,228
+Nautilus,SUPPORT,Alistar,55.22,882
+Nautilus,SUPPORT,Rell,55.07,799
+Nautilus,SUPPORT,Leona,55.06,948
+Nautilus,SUPPORT,Janna,53.92,651
+Nautilus,SUPPORT,Tahm Kench,53.7,108
+Nautilus,SUPPORT,Taric,53.47,245
+Nautilus,SUPPORT,Thresh,52.29,396
+Nautilus,SUPPORT,Senna,52.27,419
+Nautilus,SUPPORT,Rakan,51.75,599
+Nautilus,SUPPORT,Lux,51.67,180
+Nautilus,SUPPORT,Milio,51.52,460
+Nautilus,SUPPORT,Seraphine,51.44,348
+Nautilus,SUPPORT,Bard,51.04,58
+Nautilus,SUPPORT,Lulu,50.57,222
+Nautilus,SUPPORT,Pyke,50.21,713
+Neeko,MID,Talon,65.38,26
+Neeko,MID,Vladimir,63.64,11
+Neeko,MID,Zoe,61.7,47
+Neeko,MID,Aurora,61.54,26
+Neeko,MID,LeBlanc,61.29,31
+Neeko,MID,Anivia,59.09,22
+Neeko,MID,Ekko,57.14,21
+Neeko,MID,Hwei,57.14,21
+Neeko,MID,Vex,57.14,14
+Neeko,MID,Taliyah,54.55,22
+Neeko,MID,Ryze,51.85,54
+Neeko,SUPPORT,Taric,58.0,100
+Neeko,SUPPORT,Janna,57.21,215
+Neeko,SUPPORT,Elise,56.52,92
+Neeko,SUPPORT,Maokai,53.85,39
+Neeko,SUPPORT,Poppy,51.22,82
+Neeko,SUPPORT,Renata Glasc,51.06,47
+Neeko,SUPPORT,Morgana,50.88,57
+Neeko,SUPPORT,Karma,50.84,651
+Neeko,SUPPORT,Blitzcrank,50.82,122
+Neeko,SUPPORT,Nami,50.4,496
+Nidalee,JUNGLE,Ivern,58.33,48
+Nidalee,JUNGLE,Vi,56.96,79
+Nidalee,JUNGLE,Volibear,56.86,51
+Nidalee,JUNGLE,Rek'Sai,55.26,152
+Nidalee,JUNGLE,Rengar,55.08,118
+Nidalee,JUNGLE,Elise,54.88,82
+Nidalee,JUNGLE,Diana,54.5,211
+Nidalee,JUNGLE,Briar,54.35,46
+Nidalee,JUNGLE,Wukong,53.66,41
+Nidalee,JUNGLE,Malphite,51.11,45
+Nidalee,JUNGLE,Ekko,51.04,241
+Nidalee,JUNGLE,Zyra,50.72,69
+Nidalee,JUNGLE,Graves,50.63,158
+Nilah,ADC,Swain,60.98,41
+Nilah,ADC,Yasuo,58.33,48
+Nilah,ADC,Miss Fortune,57.14,77
+Nilah,ADC,Ziggs,56.82,44
+Nilah,ADC,Zeri,55.77,52
+Nilah,ADC,Tristana,55.56,81
+Nilah,ADC,Varus,54.95,202
+Nilah,ADC,Aphelios,54.58,240
+Nilah,ADC,Veigar,54.55,22
+Nilah,ADC,Sivir,53.1,113
+Nilah,ADC,Lucian,52.44,164
+Nilah,ADC,Xayah,51.22,82
+Nilah,ADC,Corki,50.35,143
+Nilah,ADC,Jinx,50.33,151
+Nocturne,JUNGLE,Udyr,69.57,23
+Nocturne,JUNGLE,Evelynn,65.31,49
+Nocturne,JUNGLE,Amumu,63.16,19
+Nocturne,JUNGLE,Zac,63.04,46
+Nocturne,JUNGLE,Fiddlesticks,62.86,35
+Nocturne,JUNGLE,Xin Zhao,58.97,39
+Nocturne,JUNGLE,Zed,56.06,66
+Nocturne,JUNGLE,Briar,56.0,25
+Nocturne,JUNGLE,Malphite,55.88,34
+Nocturne,JUNGLE,Vi,54.39,57
+Nocturne,JUNGLE,Jarvan IV,54.29,140
+Nocturne,JUNGLE,Sylas,54.24,59
+Nocturne,JUNGLE,Lillia,53.85,39
+Nocturne,JUNGLE,Nunu & Willump,53.85,65
+Nocturne,JUNGLE,Zyra,53.85,39
+Nocturne,JUNGLE,Diana,52.94,238
+Nocturne,JUNGLE,Talon,52.94,85
+Nocturne,JUNGLE,Viego,52.77,307
+Nocturne,JUNGLE,Rek'Sai,52.75,91
+Nocturne,JUNGLE,Kindred,52.5,40
+Nocturne,JUNGLE,Ekko,51.18,127
+Nocturne,JUNGLE,Master Yi,50.77,65
+Nocturne,JUNGLE,Rengar,50.48,105
+Olaf,JUNGLE,Kindred,100.0,2
+Olaf,JUNGLE,Qiyana,100.0,2
+Olaf,JUNGLE,Talon,83.33,6
+Olaf,JUNGLE,Bel'Veth,80.0,5
+Olaf,JUNGLE,Rek'Sai,71.43,7
+Olaf,JUNGLE,Sejuani,66.67,3
+Olaf,JUNGLE,Jayce,62.5,16
+Olaf,JUNGLE,Rengar,60.0,5
+Olaf,JUNGLE,Diana,57.89,19
+Olaf,JUNGLE,Graves,57.14,7
+Olaf,JUNGLE,Nocturne,57.14,7
+Olaf,JUNGLE,Zac,56.25,16
+Orianna,MID,Talon,58.94,151
+Orianna,MID,Ahri,58.9,399
+Orianna,MID,Akshan,55.98,234
+Orianna,MID,Vel'Koz,55.71,70
+Orianna,MID,Zoe,55.01,349
+Orianna,MID,Aurelion Sol,55.0,140
+Orianna,MID,Vex,54.9,102
+Orianna,MID,Xerath,53.78,251
+Orianna,MID,Hwei,53.59,153
+Orianna,MID,Veigar,53.28,137
+Orianna,MID,Ekko,53.25,231
+Orianna,MID,Diana,52.78,144
+Orianna,MID,LeBlanc,52.54,295
+Orianna,MID,Azir,52.3,283
+Orianna,MID,Zed,52.08,384
+Orianna,MID,Galio,52.01,423
+Orianna,MID,Yasuo,51.83,382
+Orianna,MID,Qiyana,51.45,241
+Orianna,MID,Akali,51.42,636
+Orianna,MID,Syndra,51.37,693
+Orianna,MID,Kassadin,50.69,288
+Orianna,MID,Jayce,50.55,91
+Ornn,TOP,Tryndamere,63.16,57
+Ornn,TOP,Volibear,57.39,115
+Ornn,TOP,Poppy,57.14,42
+Ornn,TOP,Fiora,57.07,205
+Ornn,TOP,Riven,55.98,184
+Ornn,TOP,Zaahen,55.46,238
+Ornn,TOP,Sett,54.95,111
+Ornn,TOP,Mordekaiser,54.86,144
+Ornn,TOP,Shen,54.72,159
+Ornn,TOP,Sion,54.25,153
+Ornn,TOP,Kled,54.17,72
+Ornn,TOP,Kennen,54.1,122
+Ornn,TOP,Ambessa,53.69,244
+Ornn,TOP,Gangplank,53.55,155
+Ornn,TOP,Irelia,53.28,137
+Ornn,TOP,Camille,53.1,113
+Ornn,TOP,Yone,52.5,120
+Ornn,TOP,Garen,51.89,106
+Ornn,TOP,Aatrox,50.67,225
+Ornn,TOP,Singed,50.5,101
+Ornn,TOP,Gwen,50.37,272
+Pantheon,JUNGLE,Kayn,80.0,10
+Pantheon,JUNGLE,Rek'Sai,73.33,30
+Pantheon,JUNGLE,Nidalee,72.73,22
+Pantheon,JUNGLE,Ivern,66.67,12
+Pantheon,JUNGLE,Karthus,62.5,16
+Pantheon,JUNGLE,Shaco,61.54,13
+Pantheon,JUNGLE,Jarvan IV,61.4,57
+Pantheon,JUNGLE,Graves,60.0,20
+Pantheon,JUNGLE,Naafiri,60.0,15
+Pantheon,JUNGLE,Kha'Zix,59.62,52
+Pantheon,JUNGLE,Hecarim,58.82,17
+Pantheon,JUNGLE,Diana,58.21,67
+Pantheon,JUNGLE,Evelynn,57.14,7
+Pantheon,JUNGLE,Nunu & Willump,52.38,21
+Pantheon,JUNGLE,Jayce,52.05,73
+Pantheon,JUNGLE,Lee Sin,51.28,117
+Pantheon,SUPPORT,Taric,64.52,31
+Pantheon,SUPPORT,Blitzcrank,60.0,70
+Pantheon,SUPPORT,Morgana,60.0,25
+Pantheon,SUPPORT,Elise,59.02,61
+Pantheon,SUPPORT,Maokai,58.82,17
+Pantheon,SUPPORT,Rakan,58.49,106
+Pantheon,SUPPORT,Lulu,57.23,159
+Pantheon,SUPPORT,Rell,56.47,85
+Pantheon,SUPPORT,Yuumi,55.32,94
+Pantheon,SUPPORT,Seraphine,55.1,49
+Pantheon,SUPPORT,Sona,54.03,124
+Pantheon,SUPPORT,Nautilus,53.66,205
+Pantheon,SUPPORT,Alistar,53.37,163
+Pantheon,SUPPORT,Janna,52.5,80
+Pantheon,SUPPORT,Nami,52.4,208
+Pantheon,SUPPORT,Braum,52.14,234
+Pantheon,SUPPORT,Thresh,52.12,165
+Pantheon,SUPPORT,Leona,51.45,138
+Poppy,SUPPORT,Pantheon,58.33,48
+Poppy,SUPPORT,Thresh,58.05,174
+Poppy,SUPPORT,Janna,56.06,66
+Poppy,SUPPORT,Senna,55.56,36
+Poppy,SUPPORT,Taric,55.26,38
+Poppy,SUPPORT,Elise,54.55,33
+Poppy,SUPPORT,Renata Glasc,54.55,22
+Poppy,SUPPORT,Soraka,54.29,35
+Poppy,SUPPORT,Zilean,53.57,28
+Poppy,SUPPORT,Pyke,52.29,153
+Poppy,SUPPORT,Karma,51.61,124
+Poppy,SUPPORT,Braum,50.86,175
+Poppy,SUPPORT,Nami,50.41,121
+Poppy,TOP,Sett,65.38,26
+Poppy,TOP,Kayle,64.71,17
+Poppy,TOP,Cho'Gath,63.16,19
+Poppy,TOP,Mordekaiser,61.29,31
+Poppy,TOP,Darius,57.89,38
+Poppy,TOP,Gnar,57.58,33
+Poppy,TOP,Nasus,57.14,14
+Poppy,TOP,Riven,56.99,93
+Poppy,TOP,Urgot,56.67,30
+Poppy,TOP,Rumble,56.0,50
+Poppy,TOP,Fiora,55.56,54
+Poppy,TOP,Volibear,54.84,31
+Poppy,TOP,Camille,54.29,35
+Poppy,TOP,Rengar,53.33,15
+Poppy,TOP,Jayce,52.83,53
+Poppy,TOP,Sion,51.92,52
+Poppy,TOP,Malphite,50.98,51
+Pyke,SUPPORT,Thresh,56.32,744
+Pyke,SUPPORT,Braum,54.93,741
+Pyke,SUPPORT,Elise,54.9,153
+Pyke,SUPPORT,Leona,54.89,419
+Pyke,SUPPORT,Alistar,54.29,361
+Pyke,SUPPORT,Neeko,53.33,195
+Pyke,SUPPORT,Rakan,53.16,711
+Pyke,SUPPORT,Rell,51.72,290
+Qiyana,JUNGLE,Rengar,59.66,176
+Qiyana,JUNGLE,Diana,56.47,340
+Qiyana,JUNGLE,Vi,54.55,132
+Qiyana,JUNGLE,Dr. Mundo,53.85,143
+Qiyana,JUNGLE,Volibear,53.76,93
+Qiyana,JUNGLE,Udyr,53.33,45
+Qiyana,JUNGLE,Talon,53.29,289
+Qiyana,JUNGLE,Pantheon,52.54,59
+Qiyana,JUNGLE,Nidalee,52.25,178
+Qiyana,JUNGLE,Nunu & Willump,52.21,136
+Qiyana,JUNGLE,Rek'Sai,51.89,185
+Qiyana,JUNGLE,Fiddlesticks,51.72,87
+Qiyana,JUNGLE,Evelynn,51.65,91
+Qiyana,JUNGLE,Nocturne,51.47,68
+Qiyana,JUNGLE,Lee Sin,50.96,677
+Qiyana,MID,Swain,60.0,45
+Qiyana,MID,Fizz,56.86,102
+Qiyana,MID,Vel'Koz,56.1,41
+Qiyana,MID,Anivia,54.0,100
+Qiyana,MID,Aurelion Sol,53.73,67
+Qiyana,MID,Malzahar,52.63,95
+Qiyana,MID,Taliyah,52.41,145
+Qiyana,MID,Hwei,52.24,67
+Qiyana,MID,Kayle,51.22,41
+Qiyana,MID,Ekko,51.05,143
+Qiyana,MID,Talon,50.5,101
+Quinn,TOP,Teemo,69.23,13
+Quinn,TOP,Singed,64.71,34
+Quinn,TOP,Volibear,64.71,17
+Quinn,TOP,Warwick,60.0,10
+Quinn,TOP,Irelia,59.68,62
+Quinn,TOP,Aatrox,58.49,53
+Quinn,TOP,Ornn,58.33,36
+Quinn,TOP,Yorick,57.69,26
+Quinn,TOP,Jax,57.63,59
+Quinn,TOP,Camille,57.14,21
+Quinn,TOP,Zaahen,56.76,37
+Quinn,TOP,Aurora,56.52,23
+Quinn,TOP,Gwen,55.56,18
+Quinn,TOP,Gragas,55.0,20
+Quinn,TOP,Riven,54.17,48
+Quinn,TOP,Malphite,53.42,73
+Quinn,TOP,Gangplank,52.17,46
+Rakan,SUPPORT,Morgana,58.06,93
+Rakan,SUPPORT,Seraphine,57.52,153
+Rakan,SUPPORT,Elise,55.04,129
+Rakan,SUPPORT,Soraka,53.8,184
+Rakan,SUPPORT,Zilean,52.85,123
+Rakan,SUPPORT,Bard,52.7,630
+Rakan,SUPPORT,Vel'Koz,52.63,76
+Rakan,SUPPORT,Alistar,52.58,561
+Rakan,SUPPORT,Neeko,52.05,244
+Rakan,SUPPORT,Sona,51.98,329
+Rakan,SUPPORT,Poppy,51.43,245
+Rakan,SUPPORT,Maokai,51.28,78
+Rakan,SUPPORT,Nami,51.15,739
+Rakan,SUPPORT,Janna,50.81,370
+Rakan,SUPPORT,Lulu,50.72,621
+Rakan,SUPPORT,Taric,50.68,148
+Rakan,SUPPORT,Braum,50.32,97
+Rammus,JUNGLE,Zed,66.67,42
+Rammus,JUNGLE,Zyra,66.67,9
+Rammus,JUNGLE,Zac,63.64,44
+Rammus,JUNGLE,Briar,60.0,15
+Rammus,JUNGLE,Nidalee,60.0,10
+Rammus,JUNGLE,Lillia,58.14,43
+Rammus,JUNGLE,Fiddlesticks,58.06,31
+Rammus,JUNGLE,Rengar,57.35,68
+Rammus,JUNGLE,Shaco,55.56,27
+Rammus,JUNGLE,Lee Sin,54.44,90
+Rammus,JUNGLE,Qiyana,54.29,35
+Rammus,JUNGLE,Nunu & Willump,53.85,26
+Rammus,JUNGLE,Malphite,52.94,17
+Rammus,JUNGLE,Karthus,52.38,21
+Rammus,JUNGLE,Talon,51.61,31
+Rek'Sai,JUNGLE,Kindred,62.5,96
+Rek'Sai,JUNGLE,Udyr,59.26,54
+Rek'Sai,JUNGLE,Shaco,59.02,122
+Rek'Sai,JUNGLE,Dr. Mundo,58.49,106
+Rek'Sai,JUNGLE,Elise,55.56,90
+Rek'Sai,JUNGLE,Sylas,53.66,123
+Rek'Sai,JUNGLE,Nunu & Willump,52.74,146
+Rek'Sai,JUNGLE,Rengar,51.89,212
+Rek'Sai,JUNGLE,Fiddlesticks,51.61,62
+Rek'Sai,JUNGLE,Zed,51.16,129
+Rek'Sai,JUNGLE,Briar,51.11,45
+Rek'Sai,TOP,Anivia,77.78,9
+Rek'Sai,TOP,Gnar,66.67,15
+Rek'Sai,TOP,Teemo,66.67,6
+Rek'Sai,TOP,Volibear,63.16,19
+Rek'Sai,TOP,Rumble,62.96,27
+Rek'Sai,TOP,Jax,60.0,40
+Rek'Sai,TOP,Camille,56.25,16
+Rek'Sai,TOP,Yorick,55.56,9
+Rek'Sai,TOP,Gwen,54.55,22
+Rek'Sai,TOP,Mordekaiser,54.55,22
+Rek'Sai,TOP,Renekton,54.55,33
+Rek'Sai,TOP,Cho'Gath,53.85,13
+Rek'Sai,TOP,Singed,53.85,13
+Rek'Sai,TOP,Jayce,52.63,19
+Rell,SUPPORT,Zilean,64.0,75
+Rell,SUPPORT,Renata Glasc,57.14,63
+Rell,SUPPORT,Taric,55.86,111
+Rell,SUPPORT,Neeko,55.62,169
+Rell,SUPPORT,Braum,55.11,695
+Rell,SUPPORT,Vel'Koz,55.1,49
+Rell,SUPPORT,Poppy,53.82,275
+Rell,SUPPORT,Senna,53.1,145
+Rell,SUPPORT,Alistar,52.61,633
+Rell,SUPPORT,Elise,52.58,97
+Rell,SUPPORT,Seraphine,52.54,118
+Rell,SUPPORT,Leona,51.96,358
+Rell,SUPPORT,Janna,51.82,330
+Rell,SUPPORT,Sona,50.99,253
+Rell,SUPPORT,Lux,50.82,61
+Rell,SUPPORT,Karma,50.35,433
+Rell,SUPPORT,Rakan,50.34,290
+Renata Glasc,SUPPORT,Pantheon,64.71,17
+Renata Glasc,SUPPORT,Elise,61.11,18
+Renata Glasc,SUPPORT,Tahm Kench,60.0,10
+Renata Glasc,SUPPORT,Thresh,59.12,137
+Renata Glasc,SUPPORT,Bard,58.54,82
+Renata Glasc,SUPPORT,Leona,58.33,60
+Renata Glasc,SUPPORT,Taric,58.33,24
+Renata Glasc,SUPPORT,Alistar,56.92,65
+Renata Glasc,SUPPORT,Milio,55.38,65
+Renata Glasc,SUPPORT,Sona,53.73,67
+Renata Glasc,SUPPORT,Lulu,53.49,129
+Renata Glasc,SUPPORT,Karma,53.12,96
+Renata Glasc,SUPPORT,Pyke,53.03,66
+Renata Glasc,SUPPORT,Rakan,51.58,95
+Renata Glasc,SUPPORT,Braum,51.49,101
+Renekton,TOP,Kayle,66.67,108
+Renekton,TOP,Kled,64.13,92
+Renekton,TOP,Gangplank,62.92,240
+Renekton,TOP,Nasus,59.7,67
+Renekton,TOP,Ornn,58.56,222
+Renekton,TOP,Aurora,57.63,59
+Renekton,TOP,Gragas,57.26,124
+Renekton,TOP,Garen,56.0,150
+Renekton,TOP,Rumble,55.39,269
+Renekton,TOP,Singed,55.15,136
+Renekton,TOP,Gwen,54.89,184
+Renekton,TOP,Darius,54.23,260
+Renekton,TOP,Volibear,53.85,195
+Renekton,TOP,Jax,53.74,454
+Renekton,TOP,Cho'Gath,53.66,82
+Renekton,TOP,Quinn,53.52,71
+Renekton,TOP,Sion,52.91,172
+Renekton,TOP,Dr. Mundo,52.78,144
+Renekton,TOP,Kennen,52.76,254
+Renekton,TOP,Fiora,52.23,291
+Renekton,TOP,Sett,52.08,144
+Renekton,TOP,Zaahen,51.15,305
+Renekton,TOP,Mordekaiser,50.6,168
+Rengar,JUNGLE,Zac,55.56,180
+Rengar,JUNGLE,Bel'Veth,54.02,87
+Rengar,JUNGLE,Sejuani,52.86,70
+Rengar,JUNGLE,Dr. Mundo,51.95,154
+Rengar,JUNGLE,Master Yi,51.79,168
+Rengar,JUNGLE,Malphite,51.59,126
+Rengar,JUNGLE,Sylas,50.86,116
+Rengar,JUNGLE,Udyr,50.7,71
+Rengar,JUNGLE,Lee Sin,50.3,497
+Rengar,TOP,Darius,66.67,18
+Rengar,TOP,Teemo,60.0,5
+Rengar,TOP,Anivia,57.14,7
+Rengar,TOP,Riven,57.14,14
+Rengar,TOP,Yone,57.14,14
+Rengar,TOP,Gnar,55.56,27
+Rengar,TOP,Kennen,55.56,18
+Rengar,TOP,K'Sante,54.9,51
+Rengar,TOP,Gwen,54.55,11
+Rengar,TOP,Dr. Mundo,53.33,15
+Rengar,TOP,Irelia,52.17,23
+Riven,TOP,Illaoi,60.0,50
+Riven,TOP,Cho'Gath,57.28,103
+Riven,TOP,Singed,56.64,143
+Riven,TOP,Kennen,52.74,201
+Riven,TOP,Zaahen,52.19,297
+Riven,TOP,Kled,51.39,72
+Riven,TOP,Garen,51.32,189
+Riven,TOP,Irelia,50.79,191
+Riven,TOP,Camille,50.32,157
+Riven,TOP,Renekton,50.11,461
+Rumble,TOP,Quinn,57.45,47
+Rumble,TOP,Gwen,55.33,150
+Rumble,TOP,Riven,54.76,210
+Rumble,TOP,Kennen,52.13,211
+Rumble,TOP,Mordekaiser,52.0,100
+Rumble,TOP,Darius,51.72,174
+Rumble,TOP,Irelia,51.65,242
+Rumble,TOP,Jayce,51.39,216
+Rumble,TOP,Nasus,51.39,72
+Rumble,TOP,Ornn,50.88,226
+Rumble,TOP,Anivia,50.79,63
+Rumble,TOP,Urgot,50.4,125
+Rumble,TOP,Yorick,50.38,131
+Rumble,TOP,Sion,50.2,249
+Ryze,MID,Vel'Koz,61.0,100
+Ryze,MID,Qiyana,60.44,412
+Ryze,MID,Cassiopeia,58.76,291
+Ryze,MID,Jayce,57.58,132
+Ryze,MID,Talon,56.68,247
+Ryze,MID,Anivia,55.62,480
+Ryze,MID,Zoe,54.84,403
+Ryze,MID,Hwei,54.79,303
+Ryze,MID,Aurelion Sol,54.67,225
+Ryze,MID,Katarina,53.33,540
+Ryze,MID,Vex,53.27,107
+Ryze,MID,Xerath,53.16,237
+Ryze,MID,Kassadin,52.56,489
+Ryze,MID,Orianna,52.36,953
+Ryze,MID,Lux,52.17,138
+Ryze,MID,Twisted Fate,52.16,648
+Ryze,MID,Corki,52.04,98
+Ryze,MID,Syndra,51.79,782
+Ryze,MID,Sylas,51.72,638
+Ryze,MID,Yasuo,51.53,557
+Ryze,MID,Aurora,51.32,341
+Ryze,MID,Lissandra,51.25,160
+Ryze,MID,Malzahar,51.25,279
+Ryze,MID,Ahri,51.22,572
+Ryze,MID,Swain,51.02,147
+Ryze,MID,Taliyah,50.51,590
+Ryze,MID,Vladimir,50.19,257
+Ryze,MID,Galio,50.09,561
+Samira,ADC,Swain,68.09,47
+Samira,ADC,Veigar,62.07,29
+Samira,ADC,Tristana,60.0,120
+Samira,ADC,Nilah,57.32,82
+Samira,ADC,Ziggs,54.05,37
+Samira,ADC,Yasuo,53.45,58
+Samira,ADC,Sivir,53.39,221
+Samira,ADC,Miss Fortune,52.31,130
+Samira,ADC,Corki,51.81,249
+Samira,ADC,Kog'Maw,51.79,56
+Samira,ADC,Jinx,51.59,283
+Samira,ADC,Draven,50.68,148
+Samira,ADC,Kai'Sa,50.09,539
+Sejuani,JUNGLE,Nunu & Willump,68.0,25
+Sejuani,JUNGLE,Bel'Veth,66.67,18
+Sejuani,JUNGLE,Zac,64.86,37
+Sejuani,JUNGLE,Nocturne,64.29,14
+Sejuani,JUNGLE,Rek'Sai,64.1,39
+Sejuani,JUNGLE,Shaco,62.5,24
+Sejuani,JUNGLE,Talon,62.07,58
+Sejuani,JUNGLE,Zyra,61.11,18
+Sejuani,JUNGLE,Dr. Mundo,60.0,30
+Sejuani,JUNGLE,Vi,60.0,35
+Sejuani,JUNGLE,Qiyana,57.45,47
+Sejuani,JUNGLE,Volibear,57.14,35
+Sejuani,JUNGLE,Elise,56.52,23
+Sejuani,JUNGLE,Lillia,56.0,25
+Sejuani,JUNGLE,Graves,55.56,27
+Sejuani,JUNGLE,Kindred,55.56,18
+Sejuani,JUNGLE,Trundle,53.33,15
+Sejuani,JUNGLE,Fiddlesticks,52.94,17
+Sejuani,JUNGLE,Zed,52.38,42
+Sejuani,JUNGLE,Ekko,50.72,69
+Senna,ADC,Veigar,75.0,4
+Senna,ADC,Jhin,68.75,32
+Senna,ADC,Draven,66.67,12
+Senna,ADC,Samira,62.5,8
+Senna,ADC,Lucian,60.61,33
+Senna,ADC,Caitlyn,58.14,43
+Senna,ADC,Nilah,57.14,7
+Senna,ADC,Seraphine,57.14,7
+Senna,ADC,Zeri,55.56,9
+Senna,ADC,Miss Fortune,53.33,15
+Senna,ADC,Yunara,52.63,19
+Senna,ADC,Jinx,51.61,31
+Senna,SUPPORT,Pyke,62.59,147
+Senna,SUPPORT,Lux,61.9,42
+Senna,SUPPORT,Elise,60.87,46
+Senna,SUPPORT,Taric,58.67,75
+Senna,SUPPORT,Blitzcrank,58.29,199
+Senna,SUPPORT,Neeko,57.36,129
+Senna,SUPPORT,Pantheon,54.84,62
+Senna,SUPPORT,Leona,54.4,182
+Senna,SUPPORT,Morgana,54.35,46
+Senna,SUPPORT,Karma,52.46,427
+Senna,SUPPORT,Yuumi,51.82,137
+Senna,SUPPORT,Zilean,51.75,114
+Senna,SUPPORT,Rakan,51.23,203
+Senna,SUPPORT,Thresh,50.84,297
+Senna,SUPPORT,Lulu,50.8,439
+Senna,SUPPORT,Seraphine,50.74,136
+Senna,SUPPORT,Bard,50.31,322
+Senna,SUPPORT,Sona,50.12,405
+Seraphine,ADC,Yasuo,61.29,31
+Seraphine,ADC,Nilah,60.71,28
+Seraphine,ADC,Vayne,58.93,56
+Seraphine,ADC,Ziggs,56.76,37
+Seraphine,ADC,Miss Fortune,56.16,73
+Seraphine,ADC,Corki,55.79,95
+Seraphine,ADC,Sivir,53.77,106
+Seraphine,ADC,Varus,52.49,181
+Seraphine,ADC,Samira,51.79,56
+Seraphine,ADC,Ashe,50.85,59
+Seraphine,SUPPORT,Blitzcrank,56.89,167
+Seraphine,SUPPORT,Alistar,55.0,140
+Seraphine,SUPPORT,Janna,54.8,177
+Seraphine,SUPPORT,Leona,54.49,167
+Seraphine,SUPPORT,Zilean,54.43,79
+Seraphine,SUPPORT,Pyke,54.07,135
+Seraphine,SUPPORT,Karma,53.24,370
+Seraphine,SUPPORT,Renata Glasc,53.12,32
+Seraphine,SUPPORT,Bard,51.55,258
+Seraphine,SUPPORT,Sona,51.45,311
+Seraphine,SUPPORT,Yuumi,51.25,80
+Seraphine,SUPPORT,Milio,51.03,194
+Seraphine,SUPPORT,Neeko,50.43,115
+Seraphine,SUPPORT,Nami,50.41,490
+Sett,TOP,Quinn,68.18,22
+Sett,TOP,Aurora,67.5,40
+Sett,TOP,Kayle,66.67,60
+Sett,TOP,Tryndamere,66.67,36
+Sett,TOP,Dr. Mundo,62.3,61
+Sett,TOP,Warwick,60.0,30
+Sett,TOP,Jax,57.27,110
+Sett,TOP,K'Sante,57.26,117
+Sett,TOP,Riven,57.26,124
+Sett,TOP,Ambessa,56.03,141
+Sett,TOP,Urgot,54.88,82
+Sett,TOP,Singed,54.55,44
+Sett,TOP,Gnar,53.85,91
+Sett,TOP,Shen,53.33,105
+Sett,TOP,Malphite,53.06,98
+Sett,TOP,Zaahen,53.06,147
+Sett,TOP,Kennen,52.38,84
+Sett,TOP,Jayce,50.72,69
+Sett,TOP,Rumble,50.62,81
+Sett,TOP,Gangplank,50.51,99
+Sett,TOP,Aatrox,50.34,145
+Shaco,JUNGLE,Zyra,68.75,32
+Shaco,JUNGLE,Fiddlesticks,67.69,65
+Shaco,JUNGLE,Jarvan IV,55.77,208
+Shaco,JUNGLE,Evelynn,54.41,68
+Shaco,JUNGLE,Qiyana,52.76,127
+Shaco,JUNGLE,Xin Zhao,51.79,56
+Shaco,JUNGLE,Kha'Zix,51.72,261
+Shaco,JUNGLE,Nidalee,51.02,98
+Shaco,JUNGLE,Zac,50.94,106
+Shaco,JUNGLE,Nocturne,50.77,65
+Shaco,JUNGLE,Sylas,50.65,77
+Shaco,JUNGLE,Talon,50.63,158
+Shen,TOP,Aurora,67.44,43
+Shen,TOP,Urgot,62.75,102
+Shen,TOP,Kayle,58.4,125
+Shen,TOP,Gangplank,57.69,182
+Shen,TOP,Riven,55.62,178
+Shen,TOP,Singed,54.95,91
+Shen,TOP,Cho'Gath,52.17,69
+Shen,TOP,Yone,51.69,89
+Shen,TOP,Darius,51.45,138
+Shen,TOP,Poppy,51.22,41
+Shen,TOP,Rumble,51.01,149
+Shen,TOP,Renekton,50.63,158
+Shyvana,JUNGLE,Naafiri,100.0,5
+Shyvana,JUNGLE,Rammus,80.0,5
+Shyvana,JUNGLE,Ivern,75.0,8
+Shyvana,JUNGLE,Malphite,71.43,7
+Shyvana,JUNGLE,Nidalee,71.43,7
+Shyvana,JUNGLE,Rek'Sai,71.43,14
+Shyvana,JUNGLE,Sylas,71.43,7
+Shyvana,JUNGLE,Zac,70.0,20
+Shyvana,JUNGLE,Kindred,66.67,6
+Shyvana,JUNGLE,Master Yi,66.67,6
+Shyvana,JUNGLE,Volibear,63.64,22
+Shyvana,JUNGLE,Karthus,62.5,8
+Shyvana,JUNGLE,Kha'Zix,60.87,23
+Shyvana,JUNGLE,Elise,60.0,10
+Shyvana,JUNGLE,Diana,59.09,44
+Shyvana,JUNGLE,Ekko,58.33,24
+Shyvana,JUNGLE,Dr. Mundo,55.56,9
+Shyvana,JUNGLE,Jayce,52.17,23
+Shyvana,JUNGLE,Jarvan IV,51.85,27
+Singed,TOP,Cho'Gath,66.07,56
+Singed,TOP,Volibear,60.34,58
+Singed,TOP,Poppy,59.37,32
+Singed,TOP,Darius,58.7,138
+Singed,TOP,Kennen,56.1,123
+Singed,TOP,Teemo,56.1,41
+Singed,TOP,Kayle,55.84,154
+Singed,TOP,Gangplank,55.48,146
+Singed,TOP,Vladimir,55.07,69
+Singed,TOP,Fiora,54.43,158
+Singed,TOP,Mordekaiser,54.29,70
+Singed,TOP,Urgot,54.12,85
+Singed,TOP,Rumble,53.78,119
+Singed,TOP,Gnar,53.51,114
+Singed,TOP,Yone,52.87,87
+Singed,TOP,Gragas,51.11,45
+Singed,TOP,Jayce,50.52,97
+Sion,TOP,Vladimir,62.5,88
+Sion,TOP,Tryndamere,59.7,67
+Sion,TOP,Sett,59.52,84
+Sion,TOP,Rek'Sai,57.78,45
+Sion,TOP,Volibear,57.69,104
+Sion,TOP,Ambessa,57.59,290
+Sion,TOP,Riven,57.53,186
+Sion,TOP,Zaahen,57.5,280
+Sion,TOP,Shen,57.24,145
+Sion,TOP,Mordekaiser,56.78,118
+Sion,TOP,Fiora,56.47,170
+Sion,TOP,K'Sante,56.25,176
+Sion,TOP,Kennen,55.61,187
+Sion,TOP,Gwen,55.53,389
+Sion,TOP,Aatrox,55.23,277
+Sion,TOP,Dr. Mundo,55.04,129
+Sion,TOP,Gragas,55.0,80
+Sion,TOP,Yone,54.76,210
+Sion,TOP,Irelia,54.35,138
+Sion,TOP,Singed,53.51,114
+Sion,TOP,Garen,53.26,92
+Sion,TOP,Gangplank,53.1,226
+Sion,TOP,Cho'Gath,52.73,110
+Sion,TOP,Gnar,52.41,166
+Sion,TOP,Aurora,52.17,69
+Sion,TOP,Darius,52.02,173
+Sion,TOP,Quinn,50.94,53
+Sion,TOP,Kled,50.77,65
+Sion,TOP,Jax,50.48,208
+Sivir,ADC,Ashe,57.1,359
+Sivir,ADC,Yasuo,56.98,86
+Sivir,ADC,Swain,56.59,129
+Sivir,ADC,Twitch,56.4,367
+Sivir,ADC,Vayne,55.88,306
+Sivir,ADC,Zeri,55.51,227
+Sivir,ADC,Xayah,55.37,121
+Sivir,ADC,Kalista,54.79,73
+Sivir,ADC,Jinx,53.87,711
+Sivir,ADC,Yunara,53.39,19
+Sivir,ADC,Lucian,52.29,589
+Sivir,ADC,Draven,51.65,242
+Sivir,ADC,Aphelios,51.44,799
+Sivir,ADC,Jhin,51.28,585
+Sivir,ADC,Tristana,50.6,251
+Skarner,JUNGLE,Nocturne,85.71,7
+Skarner,JUNGLE,Zyra,76.92,13
+Skarner,JUNGLE,Evelynn,75.0,8
+Skarner,JUNGLE,Xin Zhao,70.59,17
+Skarner,JUNGLE,Nunu & Willump,66.67,12
+Skarner,JUNGLE,Rek'Sai,66.67,33
+Skarner,JUNGLE,Zac,59.09,22
+Skarner,JUNGLE,Naafiri,57.14,7
+Skarner,JUNGLE,Udyr,57.14,7
+Skarner,JUNGLE,Ekko,55.77,52
+Skarner,JUNGLE,Viego,55.66,106
+Skarner,JUNGLE,Shaco,55.56,27
+Skarner,JUNGLE,Nidalee,55.0,20
+Skarner,JUNGLE,Bel'Veth,54.55,11
+Skarner,JUNGLE,Graves,52.94,17
+Skarner,JUNGLE,Rengar,52.38,42
+Skarner,JUNGLE,Zed,52.17,23
+Smolder,ADC,Yasuo,63.16,76
+Smolder,ADC,Kog'Maw,62.07,87
+Smolder,ADC,Zeri,59.77,174
+Smolder,ADC,Tristana,57.58,231
+Smolder,ADC,Nilah,56.76,111
+Smolder,ADC,Samira,56.5,177
+Smolder,ADC,Caitlyn,56.17,575
+Smolder,ADC,Ashe,56.02,241
+Smolder,ADC,Seraphine,54.78,115
+Smolder,ADC,Vayne,54.42,226
+Smolder,ADC,Lucian,54.37,504
+Smolder,ADC,Ziggs,53.72,121
+Smolder,ADC,Twitch,53.58,321
+Smolder,ADC,Jinx,53.45,696
+Smolder,ADC,Veigar,53.23,62
+Smolder,ADC,Jhin,52.6,481
+Smolder,ADC,Miss Fortune,52.36,296
+Smolder,ADC,Draven,51.85,189
+Smolder,ADC,Varus,51.83,519
+Smolder,ADC,Mel,51.61,62
+Smolder,ADC,Ezreal,50.86,525
+Smolder,ADC,Corki,50.7,359
+Smolder,ADC,Sivir,50.27,374
+Sona,SUPPORT,Zyra,55.42,83
+Sona,SUPPORT,Lux,55.22,134
+Sona,SUPPORT,Taric,54.81,135
+Sona,SUPPORT,Elise,53.4,103
+Sona,SUPPORT,Pyke,52.86,350
+Sona,SUPPORT,Thresh,52.55,609
+Sona,SUPPORT,Maokai,52.17,69
+Sona,SUPPORT,Zilean,52.04,269
+Sona,SUPPORT,Nautilus,51.66,815
+Sona,SUPPORT,Leona,51.44,381
+Sona,SUPPORT,Neeko,51.44,208
+Sona,SUPPORT,Blitzcrank,50.26,390
+Soraka,SUPPORT,Vel'Koz,58.73,63
+Soraka,SUPPORT,Senna,57.66,222
+Soraka,SUPPORT,Rell,56.83,183
+Soraka,SUPPORT,Pyke,56.31,293
+Soraka,SUPPORT,Taric,55.56,72
+Soraka,SUPPORT,Blitzcrank,55.43,258
+Soraka,SUPPORT,Elise,54.55,66
+Soraka,SUPPORT,Zyra,54.35,46
+Soraka,SUPPORT,Bard,53.57,336
+Soraka,SUPPORT,Lulu,53.07,505
+Soraka,SUPPORT,Zilean,52.99,117
+Soraka,SUPPORT,Thresh,51.88,451
+Soraka,SUPPORT,Neeko,51.82,137
+Soraka,SUPPORT,Nami,51.35,849
+Soraka,SUPPORT,Braum,51.27,394
+Soraka,SUPPORT,Sona,51.05,476
+Soraka,SUPPORT,Karma,50.87,517
+Soraka,SUPPORT,Nautilus,50.45,446
+Soraka,SUPPORT,Seraphine,50.36,139
+Swain,ADC,Seraphine,71.43,28
+Swain,ADC,Cassiopeia,66.67,18
+Swain,ADC,Twitch,59.09,88
+Swain,ADC,Kog'Maw,55.17,29
+Swain,ADC,Corki,55.04,129
+Swain,ADC,Zeri,55.0,40
+Swain,ADC,Smolder,51.52,99
+Swain,ADC,Jhin,51.43,175
+Swain,MID,Vel'Koz,66.67,12
+Swain,MID,Xerath,65.52,29
+Swain,MID,Ekko,62.5,40
+Swain,MID,Orianna,62.12,66
+Swain,MID,Katarina,61.64,73
+Swain,MID,LeBlanc,60.87,23
+Swain,MID,Mel,59.09,22
+Swain,MID,Zoe,58.97,39
+Swain,MID,Diana,57.14,21
+Swain,MID,Talon,55.56,45
+Swain,MID,Akshan,55.32,47
+Swain,MID,Fizz,55.0,20
+Swain,MID,Aurora,54.76,42
+Swain,MID,Syndra,54.55,88
+Swain,MID,Kassadin,54.26,94
+Swain,MID,Twisted Fate,53.95,76
+Swain,MID,Jayce,53.85,13
+Swain,MID,Vladimir,52.38,42
+Swain,MID,Yone,52.27,44
+Swain,MID,Azir,52.0,25
+Swain,MID,Ahri,51.11,90
+Sylas,JUNGLE,Ivern,67.8,59
+Sylas,JUNGLE,Wukong,65.31,49
+Sylas,JUNGLE,Lillia,61.36,44
+Sylas,JUNGLE,Bel'Veth,60.98,41
+Sylas,JUNGLE,Sejuani,60.38,53
+Sylas,JUNGLE,Zyra,57.89,38
+Sylas,JUNGLE,Qiyana,57.54,179
+Sylas,JUNGLE,Warwick,57.14,35
+Sylas,JUNGLE,Kindred,55.41,74
+Sylas,JUNGLE,Elise,55.38,65
+Sylas,JUNGLE,Zed,55.38,130
+Sylas,JUNGLE,Diana,55.08,354
+Sylas,JUNGLE,Master Yi,54.55,99
+Sylas,JUNGLE,Hecarim,54.32,162
+Sylas,JUNGLE,Ekko,53.86,518
+Sylas,JUNGLE,Kayn,52.86,70
+Sylas,JUNGLE,Jayce,52.83,265
+Sylas,JUNGLE,Kha'Zix,52.59,232
+Sylas,JUNGLE,Talon,52.32,151
+Sylas,JUNGLE,Zac,52.17,115
+Sylas,JUNGLE,Viego,52.16,556
+Sylas,JUNGLE,Nidalee,52.13,94
+Sylas,JUNGLE,Graves,51.49,134
+Sylas,JUNGLE,Karthus,50.77,65
+Sylas,MID,Diana,59.77,174
+Sylas,MID,Aurelion Sol,59.13,115
+Sylas,MID,Vex,57.48,127
+Sylas,MID,Galio,55.67,397
+Sylas,MID,LeBlanc,55.45,211
+Sylas,MID,Akshan,55.42,166
+Sylas,MID,Katarina,54.86,432
+Sylas,MID,Swain,54.23,142
+Sylas,MID,Lux,53.27,107
+Sylas,MID,Anivia,52.98,168
+Sylas,MID,Akali,52.96,625
+Sylas,MID,Yasuo,52.69,446
+Sylas,MID,Talon,52.44,164
+Sylas,MID,Twisted Fate,52.38,441
+Sylas,MID,Orianna,51.93,493
+Sylas,MID,Zoe,51.88,266
+Sylas,MID,Qiyana,51.71,292
+Sylas,MID,Malzahar,51.3,115
+Sylas,MID,Taliyah,51.18,254
+Sylas,MID,Fizz,50.31,159
+Sylas,MID,Viktor,50.16,313
+Syndra,MID,Fizz,62.73,220
+Syndra,MID,Zed,58.68,334
+Syndra,MID,Neeko,58.06,62
+Syndra,MID,Diana,57.36,129
+Syndra,MID,Zoe,55.59,313
+Syndra,MID,Qiyana,55.26,228
+Syndra,MID,Akali,54.87,483
+Syndra,MID,Ekko,54.86,257
+Syndra,MID,Vex,54.46,101
+Syndra,MID,Yasuo,53.97,378
+Syndra,MID,Taliyah,53.76,266
+Syndra,MID,Xerath,53.12,256
+Syndra,MID,Aurelion Sol,53.06,147
+Syndra,MID,Vel'Koz,52.94,85
+Syndra,MID,Katarina,52.82,373
+Syndra,MID,Jayce,52.17,69
+Syndra,MID,Kassadin,51.97,356
+Syndra,MID,Lissandra,51.68,149
+Syndra,MID,LeBlanc,50.63,318
+Syndra,MID,Yone,50.48,210
+Syndra,MID,Twisted Fate,50.33,304
+Syndra,MID,Akshan,50.18,273
+Tahm Kench,SUPPORT,Rakan,62.12,66
+Tahm Kench,SUPPORT,Lux,61.54,13
+Tahm Kench,SUPPORT,Seraphine,60.0,25
+Tahm Kench,SUPPORT,Taric,60.0,15
+Tahm Kench,SUPPORT,Vel'Koz,60.0,10
+Tahm Kench,SUPPORT,Elise,58.33,12
+Tahm Kench,SUPPORT,Janna,57.89,38
+Tahm Kench,SUPPORT,Zilean,57.89,19
+Tahm Kench,SUPPORT,Blitzcrank,57.14,56
+Tahm Kench,SUPPORT,Bard,56.92,65
+Tahm Kench,SUPPORT,Braum,56.78,118
+Tahm Kench,SUPPORT,Nami,56.36,110
+Tahm Kench,SUPPORT,Senna,54.55,22
+Tahm Kench,SUPPORT,Sona,54.0,50
+Tahm Kench,SUPPORT,Karma,53.66,82
+Tahm Kench,SUPPORT,Rell,52.73,55
+Tahm Kench,SUPPORT,Thresh,51.97,127
+Taliyah,MID,Vel'Koz,62.86,35
+Taliyah,MID,Kayle,61.9,42
+Taliyah,MID,Zed,59.26,162
+Taliyah,MID,Vladimir,58.43,89
+Taliyah,MID,Kassadin,56.32,174
+Taliyah,MID,Zoe,56.21,169
+Taliyah,MID,Akshan,56.14,171
+Taliyah,MID,Katarina,55.84,154
+Taliyah,MID,Twisted Fate,55.34,206
+Taliyah,MID,Ekko,54.93,142
+Taliyah,MID,Aurelion Sol,54.05,74
+Taliyah,MID,Xerath,53.97,126
+Taliyah,MID,Hwei,53.92,102
+Taliyah,MID,Malzahar,52.27,88
+Taliyah,MID,Ahri,52.0,275
+Taliyah,MID,Viktor,51.81,193
+Taliyah,MID,Azir,51.56,128
+Taliyah,MID,Anivia,51.35,111
+Taliyah,MID,Vex,51.16,43
+Taliyah,MID,Orianna,50.65,308
+Talon,JUNGLE,Nunu & Willump,59.55,178
+Talon,JUNGLE,Nidalee,57.05,149
+Talon,JUNGLE,Rek'Sai,56.93,202
+Talon,JUNGLE,Rengar,55.6,250
+Talon,JUNGLE,Zyra,55.56,72
+Talon,JUNGLE,Bel'Veth,55.06,89
+Talon,JUNGLE,Ivern,54.9,102
+Talon,JUNGLE,Dr. Mundo,54.73,148
+Talon,JUNGLE,Hecarim,54.15,205
+Talon,JUNGLE,Diana,53.67,449
+Talon,JUNGLE,Udyr,53.45,58
+Talon,JUNGLE,Evelynn,53.44,131
+Talon,JUNGLE,Volibear,51.95,154
+Talon,JUNGLE,Lee Sin,51.72,553
+Talon,JUNGLE,Vi,51.47,136
+Talon,JUNGLE,Wukong,50.72,69
+Talon,MID,Ekko,55.95,84
+Talon,MID,Zoe,55.93,118
+Talon,MID,Jayce,55.88,34
+Talon,MID,Taliyah,55.22,67
+Talon,MID,Lux,53.85,39
+Talon,MID,Kassadin,53.77,106
+Talon,MID,Zed,53.76,173
+Talon,MID,Akshan,53.61,97
+Talon,MID,Syndra,52.31,130
+Talon,MID,Vex,52.05,73
+Talon,MID,Ahri,51.33,150
+Taric,SUPPORT,Vel'Koz,54.55,22
+Taric,SUPPORT,Seraphine,53.85,65
+Taric,SUPPORT,Braum,52.36,275
+Taric,SUPPORT,Alistar,50.79,191
+Taric,SUPPORT,Pyke,50.43,115
+Teemo,TOP,Yorick,68.0,25
+Teemo,TOP,Garen,65.22,23
+Teemo,TOP,Kayle,62.5,16
+Teemo,TOP,Kennen,60.94,64
+Teemo,TOP,Gragas,58.06,31
+Teemo,TOP,Riven,58.0,50
+Teemo,TOP,Sion,57.97,69
+Teemo,TOP,Aatrox,56.45,62
+Teemo,TOP,Malphite,56.18,89
+Teemo,TOP,Shen,55.26,38
+Teemo,TOP,K'Sante,55.1,49
+Teemo,TOP,Gnar,54.29,35
+Teemo,TOP,Gangplank,53.85,52
+Teemo,TOP,Poppy,53.33,15
+Teemo,TOP,Tryndamere,53.33,15
+Teemo,TOP,Jayce,52.0,50
+Teemo,TOP,Renekton,51.92,52
+Teemo,TOP,Ornn,51.28,39
+Teemo,TOP,Irelia,51.22,41
+Teemo,TOP,Dr. Mundo,51.16,43
+Thresh,SUPPORT,Zilean,54.5,222
+Thresh,SUPPORT,Leona,54.1,743
+Thresh,SUPPORT,Taric,53.7,216
+Thresh,SUPPORT,Zyra,53.52,142
+Thresh,SUPPORT,Neeko,52.0,500
+Thresh,SUPPORT,Rakan,51.71,644
+Thresh,SUPPORT,Alistar,51.69,741
+Thresh,SUPPORT,Maokai,50.82,122
+Thresh,SUPPORT,Bard,50.78,85
+Thresh,SUPPORT,Seraphine,50.68,296
+Thresh,SUPPORT,Rell,50.48,521
+Thresh,SUPPORT,Janna,50.37,677
+Tristana,ADC,Xayah,62.5,96
+Tristana,ADC,Yasuo,60.94,64
+Tristana,ADC,Ashe,56.5,200
+Tristana,ADC,Kog'Maw,55.36,56
+Tristana,ADC,Swain,51.47,68
+Tristana,ADC,Varus,51.16,473
+Tristana,ADC,Seraphine,50.72,69
+Tristana,ADC,Aphelios,50.5,499
+Tristana,MID,Malzahar,78.26,23
+Tristana,MID,Ekko,75.0,28
+Tristana,MID,Aurora,72.73,22
+Tristana,MID,Syndra,71.67,60
+Tristana,MID,Diana,70.0,10
+Tristana,MID,Kayle,69.23,13
+Tristana,MID,Twisted Fate,66.67,36
+Tristana,MID,Zed,65.62,32
+Tristana,MID,Aurelion Sol,65.0,20
+Tristana,MID,Jayce,64.29,14
+Tristana,MID,Viktor,64.29,28
+Tristana,MID,Veigar,63.64,11
+Tristana,MID,LeBlanc,62.07,29
+Tristana,MID,Azir,60.0,20
+Tristana,MID,Ahri,58.33,36
+Tristana,MID,Akshan,56.82,44
+Tristana,MID,Yasuo,56.76,37
+Tristana,MID,Xerath,56.25,16
+Tristana,MID,Vel'Koz,54.55,11
+Tristana,MID,Galio,52.83,53
+Tristana,MID,Yone,52.63,19
+Tristana,MID,Qiyana,52.38,21
+Tristana,MID,Anivia,51.72,29
+Trundle,JUNGLE,Nidalee,100.0,4
+Trundle,JUNGLE,Shaco,100.0,5
+Trundle,JUNGLE,Graves,80.0,5
+Trundle,JUNGLE,Zyra,75.0,4
+Trundle,JUNGLE,Volibear,73.68,19
+Trundle,JUNGLE,Diana,61.11,36
+Trundle,JUNGLE,Ivern,60.0,5
+Trundle,JUNGLE,Lillia,60.0,5
+Trundle,JUNGLE,Malphite,58.82,17
+Trundle,JUNGLE,Sylas,58.33,12
+Trundle,JUNGLE,Jayce,57.89,19
+Trundle,JUNGLE,Wukong,55.56,9
+Trundle,JUNGLE,Skarner,53.85,13
+Trundle,JUNGLE,Jarvan IV,53.33,30
+Trundle,JUNGLE,Viego,51.92,52
+Tryndamere,TOP,Anivia,65.22,23
+Tryndamere,TOP,Kled,63.33,30
+Tryndamere,TOP,Illaoi,62.5,16
+Tryndamere,TOP,Urgot,62.5,32
+Tryndamere,TOP,Singed,62.16,37
+Tryndamere,TOP,Volibear,61.29,62
+Tryndamere,TOP,Malphite,58.56,111
+Tryndamere,TOP,Mordekaiser,58.54,41
+Tryndamere,TOP,Gragas,58.49,53
+Tryndamere,TOP,Kennen,58.33,60
+Tryndamere,TOP,K'Sante,55.79,95
+Tryndamere,TOP,Nasus,55.32,47
+Tryndamere,TOP,Riven,55.26,76
+Tryndamere,TOP,Kayle,55.0,40
+Tryndamere,TOP,Gangplank,53.57,84
+Tryndamere,TOP,Gnar,53.45,58
+Tryndamere,TOP,Poppy,52.94,17
+Tryndamere,TOP,Rumble,52.7,74
+Tryndamere,TOP,Zaahen,52.38,84
+Tryndamere,TOP,Shen,51.52,66
+Tryndamere,TOP,Yone,50.91,55
+Tryndamere,TOP,Gwen,50.82,61
+Tryndamere,TOP,Aatrox,50.51,99
+Twisted Fate,MID,Akshan,56.37,204
+Twisted Fate,MID,Kayle,56.25,48
+Twisted Fate,MID,Vladimir,55.67,97
+Twisted Fate,MID,Lux,55.56,108
+Twisted Fate,MID,Qiyana,54.46,213
+Twisted Fate,MID,Talon,53.85,182
+Twisted Fate,MID,Ahri,53.18,299
+Twisted Fate,MID,Mel,52.2,205
+Twisted Fate,MID,Orianna,51.46,410
+Twisted Fate,MID,Zoe,50.87,289
+Twisted Fate,MID,Anivia,50.79,191
+Twisted Fate,MID,Ekko,50.54,186
+Twisted Fate,MID,Fizz,50.48,105
+Twitch,ADC,Mel,58.57,70
+Twitch,ADC,Nilah,57.69,130
+Twitch,ADC,Zeri,57.05,156
+Twitch,ADC,Ziggs,55.24,105
+Twitch,ADC,Seraphine,55.17,87
+Twitch,ADC,Yasuo,54.67,75
+Twitch,ADC,Corki,53.93,484
+Twitch,ADC,Draven,51.48,237
+Twitch,ADC,Yunara,50.86,639
+Twitch,ADC,Tristana,50.85,295
+Twitch,ADC,Ashe,50.62,243
+Twitch,ADC,Xayah,50.4,125
+Twitch,ADC,Samira,50.27,185
+Udyr,JUNGLE,Elise,72.41,29
+Udyr,JUNGLE,Rammus,66.67,12
+Udyr,JUNGLE,Warwick,61.11,18
+Udyr,JUNGLE,Jayce,60.42,96
+Udyr,JUNGLE,Evelynn,60.0,25
+Udyr,JUNGLE,Kindred,60.0,35
+Udyr,JUNGLE,Sylas,59.18,49
+Udyr,JUNGLE,Wukong,58.06,31
+Udyr,JUNGLE,Ekko,57.66,111
+Udyr,JUNGLE,Master Yi,57.41,54
+Udyr,JUNGLE,Zyra,57.14,14
+Udyr,JUNGLE,Lee Sin,56.25,96
+Udyr,JUNGLE,Nidalee,55.56,27
+Udyr,JUNGLE,Volibear,54.93,71
+Udyr,JUNGLE,Briar,54.17,24
+Udyr,JUNGLE,Nunu & Willump,53.49,43
+Udyr,JUNGLE,Zac,52.27,44
+Udyr,JUNGLE,Zed,52.27,44
+Udyr,JUNGLE,Vi,51.85,27
+Udyr,JUNGLE,Shaco,50.98,51
+Udyr,JUNGLE,Kha'Zix,50.4,125
+Urgot,TOP,Illaoi,61.76,34
+Urgot,TOP,Teemo,59.26,27
+Urgot,TOP,Cho'Gath,58.0,50
+Urgot,TOP,Gwen,56.16,73
+Urgot,TOP,Gragas,54.55,66
+Urgot,TOP,Ambessa,54.36,195
+Urgot,TOP,Gnar,52.17,138
+Urgot,TOP,Renekton,51.43,140
+Urgot,TOP,Fiora,51.15,131
+Urgot,TOP,Sion,50.99,151
+Urgot,TOP,Irelia,50.89,112
+Urgot,TOP,Gangplank,50.82,122
+Urgot,TOP,Zaahen,50.72,138
+Urgot,TOP,Riven,50.66,152
+Varus,ADC,Ziggs,58.62,348
+Varus,ADC,Kog'Maw,58.51,188
+Varus,ADC,Kalista,57.26,117
+Varus,ADC,Swain,53.6,222
+Varus,ADC,Miss Fortune,53.19,799
+Varus,ADC,Yasuo,53.05,164
+Varus,ADC,Draven,51.99,427
+Varus,ADC,Sivir,51.56,540
+Varus,ADC,Samira,51.55,322
+Varus,ADC,Corki,50.71,850
+Varus,ADC,Vayne,50.53,283
+Varus,ADC,Twitch,50.49,612
+Varus,ADC,Zeri,50.18,275
+Vayne,ADC,Mel,65.91,44
+Vayne,ADC,Veigar,62.5,40
+Vayne,ADC,Ziggs,62.5,40
+Vayne,ADC,Tristana,56.45,124
+Vayne,ADC,Miss Fortune,55.71,140
+Vayne,ADC,Samira,55.0,140
+Vayne,ADC,Jinx,54.74,369
+Vayne,ADC,Aphelios,54.15,301
+Vayne,ADC,Swain,53.52,71
+Vayne,ADC,Jhin,53.41,279
+Vayne,ADC,Draven,53.15,111
+Vayne,ADC,Zeri,52.34,107
+Vayne,ADC,Nilah,52.17,69
+Vayne,ADC,Xayah,52.05,73
+Vayne,ADC,Yunara,52.01,348
+Vayne,ADC,Ashe,52.0,150
+Vayne,ADC,Twitch,50.43,234
+Veigar,ADC,Mel,77.78,9
+Veigar,ADC,Zeri,65.52,29
+Veigar,ADC,Ziggs,55.17,29
+Veigar,ADC,Twitch,53.66,41
+Veigar,ADC,Ashe,53.49,43
+Veigar,ADC,Varus,52.38,105
+Veigar,ADC,Jinx,52.08,96
+Veigar,MID,Lux,62.5,56
+Veigar,MID,Talon,61.29,31
+Veigar,MID,Kassadin,60.96,146
+Veigar,MID,Twisted Fate,60.42,96
+Veigar,MID,Neeko,60.0,20
+Veigar,MID,Diana,58.06,31
+Veigar,MID,Qiyana,58.06,62
+Veigar,MID,Azir,57.14,42
+Veigar,MID,Anivia,55.22,67
+Veigar,MID,Hwei,55.17,58
+Veigar,MID,Lissandra,55.0,40
+Veigar,MID,Vladimir,54.72,53
+Veigar,MID,Taliyah,54.55,66
+Veigar,MID,Vel'Koz,54.17,24
+Veigar,MID,Yone,54.0,50
+Veigar,MID,Katarina,53.72,121
+Veigar,MID,Swain,53.57,28
+Veigar,MID,Xerath,53.33,75
+Veigar,MID,Galio,53.09,81
+Veigar,MID,Yasuo,52.76,127
+Veigar,MID,Ryze,52.5,200
+Veigar,MID,Aurora,52.08,48
+Veigar,MID,Sylas,52.0,100
+Veigar,MID,Akali,51.97,127
+Veigar,MID,Cassiopeia,51.85,27
+Veigar,MID,Syndra,51.08,139
+Vel'Koz,MID,Ziggs,75.0,12
+Vel'Koz,MID,Lissandra,61.54,13
+Vel'Koz,MID,Katarina,60.32,63
+Vel'Koz,MID,Vladimir,59.09,22
+Vel'Koz,MID,Kassadin,58.9,73
+Vel'Koz,MID,Kayle,58.33,12
+Vel'Koz,MID,Diana,57.89,19
+Vel'Koz,MID,Aurora,57.69,26
+Vel'Koz,MID,Anivia,57.14,21
+Vel'Koz,MID,Zed,55.74,61
+Vel'Koz,MID,Cassiopeia,55.56,18
+Vel'Koz,MID,Talon,53.33,15
+Vel'Koz,MID,Akshan,52.63,38
+Vel'Koz,MID,Aurelion Sol,52.17,23
+Vel'Koz,MID,Fizz,51.52,33
+Vel'Koz,SUPPORT,Pantheon,71.43,14
+Vel'Koz,SUPPORT,Neeko,66.0,50
+Vel'Koz,SUPPORT,Janna,64.04,89
+Vel'Koz,SUPPORT,Thresh,59.17,120
+Vel'Koz,SUPPORT,Leona,58.82,85
+Vel'Koz,SUPPORT,Elise,57.14,21
+Vel'Koz,SUPPORT,Milio,57.14,42
+Vel'Koz,SUPPORT,Nami,56.48,193
+Vel'Koz,SUPPORT,Alistar,54.84,62
+Vel'Koz,SUPPORT,Braum,54.0,100
+Vel'Koz,SUPPORT,Morgana,53.85,13
+Vel'Koz,SUPPORT,Renata Glasc,53.85,13
+Vel'Koz,SUPPORT,Lulu,53.1,145
+Vel'Koz,SUPPORT,Senna,52.63,38
+Vel'Koz,SUPPORT,Bard,52.34,107
+Vel'Koz,SUPPORT,Yuumi,52.17,46
+Vel'Koz,SUPPORT,Sona,51.92,104
+Vex,MID,Hwei,68.29,41
+Vex,MID,Veigar,67.74,31
+Vex,MID,Aurelion Sol,60.87,23
+Vex,MID,Kayle,58.82,17
+Vex,MID,Qiyana,58.16,98
+Vex,MID,Twisted Fate,56.52,69
+Vex,MID,Zoe,56.45,62
+Vex,MID,Ahri,53.98,113
+Vex,MID,Xerath,53.06,49
+Vex,MID,Anivia,52.17,46
+Vex,MID,Diana,51.43,35
+Vex,MID,Galio,51.25,80
+Vex,MID,Fizz,51.16,43
+Vi,JUNGLE,Shaco,64.71,51
+Vi,JUNGLE,Lillia,58.06,31
+Vi,JUNGLE,Kindred,57.78,45
+Vi,JUNGLE,Karthus,56.6,53
+Vi,JUNGLE,Wukong,56.16,73
+Vi,JUNGLE,Evelynn,56.1,41
+Vi,JUNGLE,Diana,55.81,172
+Vi,JUNGLE,Rek'Sai,55.4,139
+Vi,JUNGLE,Ekko,54.95,222
+Vi,JUNGLE,Sylas,54.84,124
+Vi,JUNGLE,Master Yi,54.76,84
+Vi,JUNGLE,Jarvan IV,54.63,205
+Vi,JUNGLE,Lee Sin,54.46,650
+Vi,JUNGLE,Elise,53.57,56
+Vi,JUNGLE,Nunu & Willump,53.45,58
+Vi,JUNGLE,Malphite,52.83,53
+Vi,JUNGLE,Kayn,52.63,38
+Vi,JUNGLE,Hecarim,52.38,84
+Vi,JUNGLE,Rengar,51.96,102
+Vi,JUNGLE,Viego,51.67,480
+Vi,JUNGLE,Zac,50.59,85
+Viego,JUNGLE,Nidalee,58.82,527
+Viego,JUNGLE,Karthus,58.42,279
+Viego,JUNGLE,Elise,57.69,390
+Viego,JUNGLE,Rek'Sai,57.47,696
+Viego,JUNGLE,Udyr,57.0,200
+Viego,JUNGLE,Rammus,56.25,176
+Viego,JUNGLE,Zac,56.15,561
+Viego,JUNGLE,Pantheon,56.13,155
+Viego,JUNGLE,Rengar,55.86,734
+Viego,JUNGLE,Qiyana,55.65,859
+Viego,JUNGLE,Dr. Mundo,55.56,351
+Viego,JUNGLE,Master Yi,54.9,510
+Viego,JUNGLE,Shaco,54.77,451
+Viego,JUNGLE,Evelynn,54.67,289
+Viego,JUNGLE,Bel'Veth,54.43,327
+Viego,JUNGLE,Nunu & Willump,54.37,469
+Viego,JUNGLE,Xin Zhao,53.79,448
+Viego,JUNGLE,Ivern,53.74,281
+Viego,JUNGLE,Talon,53.67,859
+Viego,JUNGLE,Ekko,53.41,438
+Viego,JUNGLE,Lee Sin,53.32,800
+Viego,JUNGLE,Hecarim,52.95,678
+Viego,JUNGLE,Kayn,52.83,371
+Viego,JUNGLE,Zyra,52.83,212
+Viego,JUNGLE,Graves,52.75,783
+Viego,JUNGLE,Jayce,52.75,581
+Viego,JUNGLE,Kha'Zix,52.39,571
+Viego,JUNGLE,Naafiri,52.3,304
+Viego,JUNGLE,Malphite,51.76,313
+Viego,JUNGLE,Kindred,51.26,357
+Viego,JUNGLE,Volibear,51.05,478
+Viego,JUNGLE,Diana,50.71,690
+Viktor,MID,Talon,60.75,107
+Viktor,MID,Lux,59.32,118
+Viktor,MID,Kayle,58.62,58
+Viktor,MID,Vex,58.21,67
+Viktor,MID,Katarina,57.48,301
+Viktor,MID,Xerath,56.83,227
+Viktor,MID,Akshan,56.45,186
+Viktor,MID,Kassadin,55.8,224
+Viktor,MID,Fizz,54.43,79
+Viktor,MID,Qiyana,54.3,186
+Viktor,MID,Twisted Fate,53.78,251
+Viktor,MID,Cassiopeia,53.7,54
+Viktor,MID,Malzahar,53.51,114
+Viktor,MID,Veigar,53.45,116
+Viktor,MID,Zoe,53.27,199
+Viktor,MID,Syndra,52.86,454
+Viktor,MID,Anivia,52.79,197
+Viktor,MID,Hwei,52.67,131
+Viktor,MID,Ahri,51.6,281
+Viktor,MID,Orianna,51.52,526
+Viktor,MID,Swain,50.94,53
+Viktor,MID,Vel'Koz,50.82,61
+Viktor,MID,Yone,50.73,205
+Viktor,MID,LeBlanc,50.68,221
+Viktor,MID,Ryze,50.68,592
+Viktor,MID,Yasuo,50.53,285
+Viktor,MID,Aurelion Sol,50.49,103
+Viktor,MID,Lissandra,50.45,111
+Viktor,MID,Azir,50.43,115
+Vladimir,MID,Jayce,72.73,33
+Vladimir,MID,Lissandra,64.71,51
+Vladimir,MID,Cassiopeia,61.36,44
+Vladimir,MID,Aurelion Sol,61.29,62
+Vladimir,MID,Vex,61.29,31
+Vladimir,MID,Syndra,58.39,137
+Vladimir,MID,Zoe,57.61,92
+Vladimir,MID,Anivia,57.14,105
+Vladimir,MID,Zed,56.67,180
+Vladimir,MID,Ekko,54.76,84
+Vladimir,MID,Lux,54.55,55
+Vladimir,MID,Qiyana,54.55,110
+Vladimir,MID,Orianna,54.33,127
+Vladimir,MID,Viktor,54.23,142
+Vladimir,MID,Corki,54.17,24
+Vladimir,MID,Talon,54.05,74
+Vladimir,MID,Sylas,54.0,150
+Vladimir,MID,Malzahar,52.29,109
+Vladimir,MID,Katarina,51.4,214
+Vladimir,MID,Akshan,50.91,110
+Vladimir,MID,LeBlanc,50.62,81
+Vladimir,TOP,Teemo,60.0,45
+Vladimir,TOP,Kennen,58.54,164
+Vladimir,TOP,Nasus,58.33,96
+Vladimir,TOP,Poppy,58.33,24
+Vladimir,TOP,Rumble,56.36,110
+Vladimir,TOP,Quinn,56.0,25
+Vladimir,TOP,Shen,56.0,100
+Vladimir,TOP,Ambessa,55.84,154
+Vladimir,TOP,Jayce,55.77,104
+Vladimir,TOP,Mordekaiser,55.77,52
+Vladimir,TOP,Kled,55.56,27
+Vladimir,TOP,K'Sante,55.47,128
+Vladimir,TOP,Gangplank,54.66,161
+Vladimir,TOP,Riven,54.29,105
+Vladimir,TOP,Urgot,54.24,59
+Vladimir,TOP,Ornn,53.49,86
+Vladimir,TOP,Yorick,53.16,79
+Vladimir,TOP,Sett,53.06,49
+Vladimir,TOP,Dr. Mundo,52.63,76
+Vladimir,TOP,Tryndamere,52.5,40
+Vladimir,TOP,Aatrox,52.17,161
+Vladimir,TOP,Darius,51.11,90
+Vladimir,TOP,Irelia,51.09,184
+Vladimir,TOP,Renekton,50.72,138
+Volibear,JUNGLE,Fiddlesticks,61.02,59
+Volibear,JUNGLE,Elise,59.46,74
+Volibear,JUNGLE,Nocturne,57.38,61
+Volibear,JUNGLE,Shaco,57.27,110
+Volibear,JUNGLE,Rek'Sai,57.02,121
+Volibear,JUNGLE,Karthus,55.17,58
+Volibear,JUNGLE,Nunu & Willump,54.7,117
+Volibear,JUNGLE,Vi,53.7,54
+Volibear,JUNGLE,Bel'Veth,52.83,53
+Volibear,JUNGLE,Kindred,52.54,59
+Volibear,JUNGLE,Zed,52.48,101
+Volibear,JUNGLE,Rengar,52.06,194
+Volibear,JUNGLE,Kha'Zix,52.05,244
+Volibear,JUNGLE,Sylas,51.61,93
+Volibear,JUNGLE,Ekko,51.57,254
+Volibear,TOP,Dr. Mundo,60.81,74
+Volibear,TOP,Warwick,59.52,42
+Volibear,TOP,Vladimir,59.09,66
+Volibear,TOP,Jax,58.24,170
+Volibear,TOP,Kennen,58.1,105
+Volibear,TOP,Teemo,58.06,31
+Volibear,TOP,Shen,56.84,95
+Volibear,TOP,Gangplank,56.6,106
+Volibear,TOP,Urgot,55.26,76
+Volibear,TOP,Gnar,55.13,156
+Volibear,TOP,Fiora,54.92,122
+Volibear,TOP,Rumble,52.34,128
+Volibear,TOP,Ambessa,52.08,192
+Volibear,TOP,Jayce,52.05,73
+Volibear,TOP,Sett,51.75,114
+Volibear,TOP,Riven,51.66,151
+Volibear,TOP,Nasus,51.61,62
+Volibear,TOP,Cho'Gath,50.77,65
+Volibear,TOP,Camille,50.62,81
+Warwick,JUNGLE,Zyra,83.33,12
+Warwick,JUNGLE,Kindred,77.78,18
+Warwick,JUNGLE,Ivern,76.92,13
+Warwick,JUNGLE,Briar,70.0,10
+Warwick,JUNGLE,Rek'Sai,61.29,31
+Warwick,JUNGLE,Lillia,61.11,18
+Warwick,JUNGLE,Shaco,59.09,22
+Warwick,JUNGLE,Bel'Veth,58.33,12
+Warwick,JUNGLE,Kha'Zix,58.06,62
+Warwick,JUNGLE,Fiddlesticks,57.14,14
+Warwick,JUNGLE,Hecarim,57.14,21
+Warwick,JUNGLE,Talon,56.86,51
+Warwick,JUNGLE,Dr. Mundo,55.56,18
+Warwick,JUNGLE,Sejuani,55.56,9
+Warwick,JUNGLE,Rengar,55.26,38
+Warwick,JUNGLE,Lee Sin,54.88,82
+Warwick,JUNGLE,Graves,52.17,23
+Warwick,JUNGLE,Xin Zhao,52.0,25
+Warwick,JUNGLE,Master Yi,51.61,31
+Warwick,JUNGLE,Viego,50.38,133
+Warwick,TOP,Gragas,75.0,20
+Warwick,TOP,Rengar,72.73,11
+Warwick,TOP,Kennen,63.27,49
+Warwick,TOP,Jayce,60.0,35
+Warwick,TOP,Tryndamere,59.09,22
+Warwick,TOP,Aatrox,57.81,64
+Warwick,TOP,Poppy,57.14,14
+Warwick,TOP,Rumble,56.36,55
+Warwick,TOP,Riven,56.0,50
+Warwick,TOP,Kayle,55.0,20
+Warwick,TOP,Aurora,53.85,13
+Warwick,TOP,Jax,53.25,77
+Warwick,TOP,Fiora,52.94,68
+Warwick,TOP,Ornn,52.94,34
+Warwick,TOP,Nasus,52.38,21
+Warwick,TOP,Vladimir,51.72,29
+Warwick,TOP,Zaahen,51.39,72
+Warwick,TOP,Gnar,51.35,37
+Wukong,JUNGLE,Nunu & Willump,64.71,51
+Wukong,JUNGLE,Rek'Sai,63.51,74
+Wukong,JUNGLE,Elise,60.53,38
+Wukong,JUNGLE,Karthus,60.0,25
+Wukong,JUNGLE,Shaco,60.0,55
+Wukong,JUNGLE,Graves,58.73,63
+Wukong,JUNGLE,Xin Zhao,58.06,62
+Wukong,JUNGLE,Diana,57.05,149
+Wukong,JUNGLE,Kha'Zix,56.83,183
+Wukong,JUNGLE,Jayce,56.41,117
+Wukong,JUNGLE,Ekko,55.93,118
+Wukong,JUNGLE,Hecarim,55.56,63
+Wukong,JUNGLE,Nocturne,55.56,45
+Wukong,JUNGLE,Zac,54.69,64
+Wukong,JUNGLE,Bel'Veth,53.33,45
+Wukong,JUNGLE,Kayn,52.5,40
+Wukong,JUNGLE,Evelynn,52.38,21
+Wukong,JUNGLE,Warwick,52.38,21
+Wukong,JUNGLE,Lee Sin,52.03,271
+Wukong,JUNGLE,Viego,52.03,369
+Wukong,JUNGLE,Kindred,51.28,39
+Wukong,JUNGLE,Naafiri,51.16,43
+Wukong,JUNGLE,Master Yi,50.98,102
+Wukong,JUNGLE,Volibear,50.68,73
+Wukong,JUNGLE,Qiyana,50.56,89
+Wukong,JUNGLE,Rengar,50.42,119
+Xayah,ADC,Swain,67.57,37
+Xayah,ADC,Smolder,61.05,95
+Xayah,ADC,Ziggs,58.06,31
+Xayah,ADC,Miss Fortune,57.69,78
+Xayah,ADC,Yasuo,56.82,44
+Xayah,ADC,Caitlyn,55.4,139
+Xayah,ADC,Seraphine,55.0,20
+Xayah,ADC,Jinx,54.38,217
+Xayah,ADC,Aphelios,54.03,211
+Xayah,ADC,Samira,53.15,111
+Xayah,ADC,Kog'Maw,52.0,25
+Xayah,ADC,Jhin,51.97,152
+Xayah,ADC,Corki,51.64,122
+Xayah,ADC,Varus,50.86,175
+Xerath,MID,Vel'Koz,72.22,36
+Xerath,MID,Talon,60.34,58
+Xerath,MID,Kassadin,59.73,149
+Xerath,MID,Katarina,59.12,159
+Xerath,MID,Sylas,58.78,148
+Xerath,MID,Corki,58.62,29
+Xerath,MID,Vladimir,58.62,58
+Xerath,MID,LeBlanc,57.04,135
+Xerath,MID,Zoe,56.25,160
+Xerath,MID,Fizz,55.7,79
+Xerath,MID,Ahri,54.87,195
+Xerath,MID,Aurelion Sol,54.69,64
+Xerath,MID,Qiyana,54.02,87
+Xerath,MID,Akshan,53.09,81
+Xerath,MID,Yasuo,52.29,153
+Xerath,MID,Twisted Fate,51.55,161
+Xerath,MID,Ekko,51.04,96
+Xin Zhao,JUNGLE,Zyra,67.86,28
+Xin Zhao,JUNGLE,Lillia,67.65,34
+Xin Zhao,JUNGLE,Karthus,64.58,48
+Xin Zhao,JUNGLE,Dr. Mundo,62.79,43
+Xin Zhao,JUNGLE,Kindred,62.5,48
+Xin Zhao,JUNGLE,Zac,62.34,77
+Xin Zhao,JUNGLE,Evelynn,58.97,39
+Xin Zhao,JUNGLE,Volibear,56.72,67
+Xin Zhao,JUNGLE,Qiyana,56.36,110
+Xin Zhao,JUNGLE,Rengar,55.56,117
+Xin Zhao,JUNGLE,Master Yi,54.84,62
+Xin Zhao,JUNGLE,Vi,54.84,93
+Xin Zhao,JUNGLE,Malphite,53.85,39
+Xin Zhao,JUNGLE,Rek'Sai,53.33,105
+Xin Zhao,JUNGLE,Talon,52.58,97
+Xin Zhao,JUNGLE,Nidalee,52.5,80
+Xin Zhao,JUNGLE,Fiddlesticks,52.38,42
+Xin Zhao,JUNGLE,Lee Sin,52.29,459
+Xin Zhao,JUNGLE,Sylas,52.22,90
+Xin Zhao,JUNGLE,Udyr,52.17,23
+Xin Zhao,JUNGLE,Pantheon,51.85,27
+Xin Zhao,JUNGLE,Ekko,51.55,194
+Xin Zhao,JUNGLE,Ivern,51.35,37
+Xin Zhao,JUNGLE,Jarvan IV,50.53,188
+Yasuo,ADC,Senna,61.54,13
+Yasuo,ADC,Corki,60.43,139
+Yasuo,ADC,Veigar,58.33,24
+Yasuo,ADC,Ziggs,58.33,24
+Yasuo,ADC,Vayne,56.76,74
+Yasuo,ADC,Swain,56.25,32
+Yasuo,ADC,Kog'Maw,55.0,20
+Yasuo,ADC,Miss Fortune,51.16,43
+Yasuo,MID,Kayle,57.8,109
+Yasuo,MID,Lissandra,56.5,223
+Yasuo,MID,LeBlanc,56.22,201
+Yasuo,MID,Vel'Koz,56.16,73
+Yasuo,MID,Qiyana,56.03,257
+Yasuo,MID,Zoe,54.46,303
+Yasuo,MID,Galio,54.35,333
+Yasuo,MID,Vladimir,53.88,206
+Yasuo,MID,Swain,53.57,84
+Yasuo,MID,Malzahar,53.55,155
+Yasuo,MID,Anivia,53.18,220
+Yasuo,MID,Akshan,53.02,232
+Yasuo,MID,Kassadin,52.79,358
+Yasuo,MID,Diana,52.78,108
+Yasuo,MID,Lux,52.76,127
+Yasuo,MID,Vex,52.7,222
+Yasuo,MID,Twisted Fate,52.5,280
+Yasuo,MID,Taliyah,51.97,304
+Yasuo,MID,Zed,51.82,494
+Yasuo,MID,Fizz,51.32,152
+Yasuo,MID,Talon,50.69,144
+Yone,MID,Vex,62.32,69
+Yone,MID,Cassiopeia,61.7,47
+Yone,MID,Zoe,61.54,169
+Yone,MID,Lux,61.04,77
+Yone,MID,Katarina,61.01,218
+Yone,MID,Qiyana,60.33,121
+Yone,MID,Anivia,59.57,141
+Yone,MID,Talon,59.04,83
+Yone,MID,Kassadin,58.39,298
+Yone,MID,Vladimir,58.24,91
+Yone,MID,Akshan,57.93,145
+Yone,MID,LeBlanc,57.26,117
+Yone,MID,Jayce,56.52,46
+Yone,MID,Fizz,55.56,63
+Yone,MID,Orianna,55.1,245
+Yone,MID,Lissandra,55.0,80
+Yone,MID,Akali,54.63,313
+Yone,MID,Twisted Fate,54.34,173
+Yone,MID,Xerath,54.17,96
+Yone,MID,Sylas,53.97,239
+Yone,MID,Zed,53.74,227
+Yone,MID,Taliyah,53.68,136
+Yone,MID,Ahri,52.88,191
+Yone,MID,Ryze,52.86,420
+Yone,MID,Hwei,51.47,68
+Yone,MID,Vel'Koz,51.11,45
+Yone,MID,Yasuo,50.15,331
+Yone,TOP,Irelia,64.08,142
+Yone,TOP,Teemo,61.54,26
+Yone,TOP,Fiora,61.17,103
+Yone,TOP,Urgot,61.02,59
+Yone,TOP,Cho'Gath,60.0,60
+Yone,TOP,Riven,59.81,107
+Yone,TOP,Mordekaiser,58.82,68
+Yone,TOP,Vladimir,58.57,70
+Yone,TOP,Zaahen,56.58,152
+Yone,TOP,Kennen,56.47,85
+Yone,TOP,Ambessa,56.19,194
+Yone,TOP,Jayce,56.19,105
+Yone,TOP,Aatrox,55.65,248
+Yone,TOP,Renekton,55.56,234
+Yone,TOP,Jax,55.5,191
+Yone,TOP,Rumble,55.24,143
+Yone,TOP,Gragas,55.22,67
+Yone,TOP,Kayle,54.93,71
+Yone,TOP,Gwen,54.35,92
+Yone,TOP,Warwick,53.57,28
+Yone,TOP,Anivia,53.33,30
+Yone,TOP,Darius,52.48,101
+Yone,TOP,Gnar,52.38,84
+Yone,TOP,Kled,52.17,46
+Yorick,TOP,Anivia,70.0,20
+Yorick,TOP,Darius,65.52,58
+Yorick,TOP,Kayle,63.16,38
+Yorick,TOP,Tryndamere,62.86,35
+Yorick,TOP,Shen,62.07,58
+Yorick,TOP,Fiora,61.76,68
+Yorick,TOP,Volibear,60.0,45
+Yorick,TOP,Yone,60.0,60
+Yorick,TOP,Sion,59.34,91
+Yorick,TOP,Irelia,58.97,78
+Yorick,TOP,Jax,58.33,144
+Yorick,TOP,Mordekaiser,58.21,67
+Yorick,TOP,Renekton,58.04,112
+Yorick,TOP,Gwen,57.78,90
+Yorick,TOP,Nasus,57.69,26
+Yorick,TOP,K'Sante,56.41,78
+Yorick,TOP,Sett,56.36,55
+Yorick,TOP,Gnar,56.34,71
+Yorick,TOP,Illaoi,56.0,25
+Yorick,TOP,Gangplank,55.79,95
+Yorick,TOP,Urgot,55.71,70
+Yorick,TOP,Singed,55.0,60
+Yorick,TOP,Ornn,54.72,53
+Yorick,TOP,Ambessa,54.61,141
+Yorick,TOP,Cho'Gath,54.0,50
+Yorick,TOP,Aurora,52.78,36
+Yorick,TOP,Gragas,52.73,55
+Yorick,TOP,Zaahen,51.43,70
+Yorick,TOP,Riven,50.91,55
+Yorick,TOP,Aatrox,50.53,95
+Yunara,ADC,Nilah,56.94,209
+Yunara,ADC,Kog'Maw,56.05,157
+Yunara,ADC,Swain,54.66,247
+Yunara,ADC,Varus,53.02,407
+Yunara,ADC,Jinx,52.68,509
+Yunara,ADC,Caitlyn,52.47,498
+Yunara,ADC,Zeri,51.9,474
+Yunara,ADC,Smolder,51.54,615
+Yunara,ADC,Seraphine,51.52,165
+Yunara,ADC,Tristana,51.35,557
+Yunara,ADC,Yasuo,50.3,167
+Yunara,ADC,Corki,50.23,81
+Yunara,ADC,Samira,50.16,317
+Yuumi,SUPPORT,Braum,60.92,261
+Yuumi,SUPPORT,Pyke,60.77,209
+Yuumi,SUPPORT,Rakan,60.66,183
+Yuumi,SUPPORT,Leona,59.83,229
+Yuumi,SUPPORT,Blitzcrank,59.5,121
+Yuumi,SUPPORT,Morgana,59.37,32
+Yuumi,SUPPORT,Thresh,59.28,334
+Yuumi,SUPPORT,Nautilus,58.17,416
+Yuumi,SUPPORT,Alistar,57.27,227
+Yuumi,SUPPORT,Elise,57.14,42
+Yuumi,SUPPORT,Taric,57.14,35
+Yuumi,SUPPORT,Karma,56.63,362
+Yuumi,SUPPORT,Bard,56.51,269
+Yuumi,SUPPORT,Rell,55.61,196
+Yuumi,SUPPORT,Sona,55.23,306
+Yuumi,SUPPORT,Maokai,54.84,31
+Yuumi,SUPPORT,Lulu,53.83,470
+Yuumi,SUPPORT,Soraka,53.72,188
+Yuumi,SUPPORT,Nami,52.44,574
+Yuumi,SUPPORT,Janna,51.87,214
+Yuumi,SUPPORT,Poppy,51.79,56
+Yuumi,SUPPORT,Zilean,50.6,83
+Yuumi,SUPPORT,Milio,50.53,188
+Yuumi,SUPPORT,Neeko,50.49,103
+Zaahen,TOP,Poppy,58.67,75
+Zaahen,TOP,Rumble,58.15,227
+Zaahen,TOP,Kled,57.8,109
+Zaahen,TOP,Gangplank,53.79,277
+Zaahen,TOP,Singed,53.73,134
+Zaahen,TOP,Aurora,53.57,56
+Zaahen,TOP,Kayle,53.49,129
+Zaahen,TOP,Gnar,53.22,233
+Zaahen,TOP,Gwen,52.78,216
+Zaahen,TOP,Vladimir,52.59,116
+Zaahen,TOP,Teemo,52.11,71
+Zaahen,TOP,Garen,51.82,137
+Zaahen,TOP,Darius,51.79,224
+Zaahen,TOP,Kennen,51.69,178
+Zaahen,TOP,Fiora,51.67,269
+Zaahen,TOP,Volibear,51.57,159
+Zaahen,TOP,Shen,51.19,168
+Zaahen,TOP,Jayce,51.18,170
+Zaahen,TOP,Irelia,50.86,232
+Zac,JUNGLE,Naafiri,64.15,53
+Zac,JUNGLE,Warwick,57.14,35
+Zac,JUNGLE,Rek'Sai,56.16,146
+Zac,JUNGLE,Nunu & Willump,54.95,111
+Zac,JUNGLE,Bel'Veth,54.35,46
+Zac,JUNGLE,Master Yi,53.66,82
+Zac,JUNGLE,Evelynn,53.57,56
+Zac,JUNGLE,Diana,53.04,345
+Zac,JUNGLE,Kha'Zix,52.17,276
+Zac,JUNGLE,Elise,51.72,58
+Zac,JUNGLE,Nidalee,51.22,82
+Zac,JUNGLE,Volibear,51.2,125
+Zac,JUNGLE,Ivern,50.75,67
+Zac,JUNGLE,Qiyana,50.68,146
+Zed,JUNGLE,Kindred,60.27,73
+Zed,JUNGLE,Talon,59.17,240
+Zed,JUNGLE,Rengar,57.79,199
+Zed,JUNGLE,Karthus,56.63,83
+Zed,JUNGLE,Fiddlesticks,56.45,62
+Zed,JUNGLE,Dr. Mundo,55.66,106
+Zed,JUNGLE,Shaco,54.48,134
+Zed,JUNGLE,Qiyana,53.54,198
+Zed,JUNGLE,Diana,53.12,401
+Zed,JUNGLE,Ekko,52.82,373
+Zed,JUNGLE,Nidalee,52.71,129
+Zed,JUNGLE,Kha'Zix,52.63,380
+Zed,JUNGLE,Wukong,52.56,78
+Zed,JUNGLE,Zac,52.27,132
+Zed,JUNGLE,Viego,51.71,700
+Zed,JUNGLE,Xin Zhao,51.25,80
+Zed,JUNGLE,Zyra,51.02,49
+Zed,JUNGLE,Lee Sin,50.48,517
+Zed,JUNGLE,Jayce,50.12,407
+Zed,MID,Kayle,61.54,78
+Zed,MID,Zoe,56.82,308
+Zed,MID,Twisted Fate,56.79,280
+Zed,MID,Qiyana,55.87,281
+Zed,MID,Jayce,55.56,72
+Zed,MID,Akshan,54.69,256
+Zed,MID,Katarina,53.66,451
+Zed,MID,Xerath,53.19,188
+Zed,MID,Ryze,52.72,624
+Zed,MID,Azir,52.68,112
+Zed,MID,Sylas,52.41,477
+Zed,MID,Vex,52.14,117
+Zed,MID,Akali,52.09,526
+Zed,MID,Swain,52.0,75
+Zed,MID,Veigar,51.46,103
+Zed,MID,Diana,50.69,144
+Zed,MID,Malzahar,50.6,168
+Zed,MID,Viktor,50.59,253
+Zed,MID,Anivia,50.46,216
+Zeri,ADC,Seraphine,62.79,43
+Zeri,ADC,Ziggs,62.22,45
+Zeri,ADC,Yasuo,60.0,35
+Zeri,ADC,Draven,59.14,93
+Zeri,ADC,Tristana,56.2,121
+Zeri,ADC,Aphelios,54.23,378
+Zeri,ADC,Jinx,53.16,380
+Zeri,ADC,Caitlyn,53.14,271
+Zeri,ADC,Samira,51.72,87
+Zeri,ADC,Xayah,50.85,59
+Ziggs,ADC,Tristana,55.38,65
+Ziggs,ADC,Jhin,55.25,181
+Ziggs,ADC,Kai'Sa,54.66,247
+Ziggs,ADC,Yunara,53.7,162
+Ziggs,ADC,Kog'Maw,52.63,38
+Ziggs,ADC,Lucian,51.9,158
+Ziggs,ADC,Sivir,50.3,169
+Ziggs,MID,Fizz,83.33,18
+Ziggs,MID,Vladimir,76.92,13
+Ziggs,MID,Anivia,66.67,12
+Ziggs,MID,Jayce,66.67,9
+Ziggs,MID,Katarina,66.67,33
+Ziggs,MID,Qiyana,66.67,15
+Ziggs,MID,Taliyah,66.67,18
+Ziggs,MID,Akali,65.85,41
+Ziggs,MID,Xerath,65.22,23
+Ziggs,MID,Azir,63.16,19
+Ziggs,MID,Yasuo,63.16,19
+Ziggs,MID,Ekko,61.9,21
+Ziggs,MID,Yone,59.09,22
+Ziggs,MID,Viktor,58.62,29
+Ziggs,MID,Diana,58.33,12
+Ziggs,MID,Kassadin,56.25,32
+Ziggs,MID,Galio,55.88,34
+Ziggs,MID,Aurora,54.55,11
+Ziggs,MID,Orianna,54.05,37
+Ziggs,MID,Sylas,53.57,28
+Ziggs,MID,Veigar,52.94,17
+Zilean,SUPPORT,Bard,58.72,235
+Zilean,SUPPORT,Vel'Koz,57.14,28
+Zilean,SUPPORT,Pyke,56.73,104
+Zilean,SUPPORT,Taric,56.25,64
+Zilean,SUPPORT,Elise,54.76,42
+Zilean,SUPPORT,Karma,54.48,268
+Zilean,SUPPORT,Zyra,53.85,26
+Zilean,SUPPORT,Braum,53.28,274
+Zilean,SUPPORT,Leona,51.65,91
+Zilean,SUPPORT,Neeko,51.14,88
+Zoe,MID,Jayce,54.9,51
+Zoe,MID,Veigar,54.69,64
+Zoe,MID,Kassadin,54.03,211
+Zoe,MID,Ekko,53.53,170
+Zoe,MID,Vel'Koz,52.94,51
+Zoe,MID,Galio,52.51,259
+Zoe,MID,Malzahar,52.31,130
+Zoe,MID,Qiyana,52.27,176
+Zoe,MID,Lux,52.14,117
+Zoe,MID,Aurelion Sol,51.43,70
+Zyra,JUNGLE,Evelynn,72.22,18
+Zyra,JUNGLE,Naafiri,68.75,16
+Zyra,JUNGLE,Wukong,66.67,21
+Zyra,JUNGLE,Bel'Veth,60.0,20
+Zyra,JUNGLE,Lillia,58.82,17
+Zyra,JUNGLE,Malphite,58.06,31
+Zyra,JUNGLE,Karthus,57.41,54
+Zyra,JUNGLE,Zac,55.88,34
+Zyra,JUNGLE,Rek'Sai,54.72,53
+Zyra,JUNGLE,Volibear,52.38,21
+Zyra,JUNGLE,Hecarim,51.85,54
+Zyra,JUNGLE,Qiyana,51.79,56
+Zyra,JUNGLE,Nunu & Willump,51.06,47
+Zyra,SUPPORT,Vel'Koz,75.0,12
+Zyra,SUPPORT,Elise,66.67,15
+Zyra,SUPPORT,Neeko,61.29,31
+Zyra,SUPPORT,Rakan,60.78,51
+Zyra,SUPPORT,Lulu,60.22,93
+Zyra,SUPPORT,Leona,59.26,81
+Zyra,SUPPORT,Braum,56.86,102
+Zyra,SUPPORT,Senna,56.86,51
+Zyra,SUPPORT,Yuumi,55.88,34
+Zyra,SUPPORT,Renata Glasc,54.55,11
+Zyra,SUPPORT,Rell,54.29,35
+Zyra,SUPPORT,Janna,52.38,42
+Zyra,SUPPORT,Nami,51.72,145
+Zyra,SUPPORT,Karma,51.09,137
+Lillia,JUNGLE,Karthus,69.44,36
+Lillia,JUNGLE,Bel'Veth,62.96,27
+Lillia,JUNGLE,Skarner,62.5,16
+Lillia,JUNGLE,Dr. Mundo,62.0,50
+Lillia,JUNGLE,Shaco,57.81,64
+Lillia,JUNGLE,Master Yi,57.5,40
+Lillia,JUNGLE,Hecarim,57.32,82
+Lillia,JUNGLE,Kha'Zix,57.26,124
+Lillia,JUNGLE,Udyr,57.14,28
+Lillia,JUNGLE,Jarvan IV,56.19,105
+Lillia,JUNGLE,Zed,55.56,54
+Lillia,JUNGLE,Volibear,54.17,72
+Lillia,JUNGLE,Ivern,53.85,39
+Lillia,JUNGLE,Nidalee,53.85,39
+Lillia,JUNGLE,Fiddlesticks,53.57,28
+Lillia,JUNGLE,Diana,53.42,161
+Lillia,JUNGLE,Rengar,52.94,51
+Lillia,JUNGLE,Wukong,52.94,34
+Lillia,JUNGLE,Amumu,52.63,19
+Lillia,JUNGLE,Kindred,51.61,31
+Lillia,JUNGLE,Rek'Sai,51.61,93
+Lillia,JUNGLE,Talon,51.47,68
+Lillia,JUNGLE,Viego,50.93,216
+Lillia,JUNGLE,Qiyana,50.85,59
+Lillia,JUNGLE,Zac,50.42,119
+Lillia,JUNGLE,Lee Sin,50.3,169
+Nunu & Willump,JUNGLE,Karthus,62.03,79
+Nunu & Willump,JUNGLE,Jarvan IV,60.7,285
+Nunu & Willump,JUNGLE,Fiddlesticks,57.14,56
+Nunu & Willump,JUNGLE,Trundle,56.67,30
+Nunu & Willump,JUNGLE,Kha'Zix,55.47,256
+Nunu & Willump,JUNGLE,Graves,55.41,74
+Nunu & Willump,JUNGLE,Rengar,55.32,188
+Nunu & Willump,JUNGLE,Kindred,55.13,78
+Nunu & Willump,JUNGLE,Sylas,54.39,114
+Nunu & Willump,JUNGLE,Naafiri,53.49,43
+Nunu & Willump,JUNGLE,Lee Sin,53.0,217
+Nunu & Willump,JUNGLE,Xin Zhao,52.38,63
+Nunu & Willump,JUNGLE,Zed,51.75,114
+Nunu & Willump,JUNGLE,Briar,50.98,51
+Nunu & Willump,JUNGLE,Nidalee,50.75,67
+Nunu & Willump,JUNGLE,Shaco,50.55,91
+Nunu & Willump,JUNGLE,Hecarim,50.38,131

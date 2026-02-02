@@ -1,0 +1,862 @@
+{
+  "Aatrox": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Ahri": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Akali": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Akshan": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Alistar": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Ambessa": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Amumu": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Anivia": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Annie": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Aphelios": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Ashe": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Aurelion Sol": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Aurora": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Azir": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Bard": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Bel'Veth": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Blitzcrank": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": false
+  },
+  "Brand": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Braum": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Briar": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Caitlyn": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Camille": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Cassiopeia": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Cho'Gath": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Corki": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Darius": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Diana": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Dr. Mundo": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Draven": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Ekko": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Elise": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Evelynn": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Ezreal": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Fiddlesticks": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Fiora": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Fizz": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Galio": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Gangplank": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Garen": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Gnar": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Gragas": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Graves": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Gwen": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Hecarim": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Heimerdinger": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Hwei": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Illaoi": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Irelia": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Ivern": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Janna": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Jarvan IV": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Jax": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Jayce": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Jhin": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Jinx": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Kai'Sa": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Kalista": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Karma": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Karthus": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Kassadin": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Katarina": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Kayle": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Kayn": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Kennen": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Kha'Zix": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Kindred": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Kled": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Kog'Maw": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "K'Sante": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "LeBlanc": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Lee Sin": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Leona": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Lillia": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Lissandra": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Lucian": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Lulu": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Lux": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Malphite": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Malzahar": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Maokai": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Master Yi": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Mel": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Milio": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Miss Fortune": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Mordekaiser": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Morgana": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Naafiri": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Nami": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Nasus": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Nautilus": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Neeko": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Nidalee": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Nilah": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Nocturne": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Nunu & Willump": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Olaf": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Orianna": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Ornn": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Pantheon": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Poppy": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Pyke": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Qiyana": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Quinn": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Rakan": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Rammus": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Rek'Sai": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Rell": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Renata Glasc": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Renekton": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Rengar": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Riven": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Rumble": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Ryze": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Samira": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Sejuani": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Senna": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Seraphine": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Sett": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Shaco": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Shen": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Shyvana": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Singed": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Sion": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Sivir": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Skarner": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Smolder": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Sona": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Soraka": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Swain": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Sylas": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Syndra": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Tahm Kench": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Taliyah": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Talon": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Taric": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Teemo": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": false
+  },
+  "Thresh": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Tristana": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Trundle": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Tryndamere": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Twisted Fate": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Twitch": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Udyr": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Urgot": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Varus": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Vayne": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Veigar": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Vel'Koz": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Vex": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Vi": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Viego": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Viktor": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Vladimir": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Volibear": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Warwick": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Wukong": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Xayah": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Xerath": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Xin Zhao": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Yasuo": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Yone": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Yorick": {
+    "Poke": false,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Yunara": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Yuumi": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Zaahen": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Zac": {
+    "Poke": false,
+    "Dive": true,
+    "Counter-Engage": true
+  },
+  "Zed": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Zeri": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Ziggs": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": false
+  },
+  "Zilean": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  },
+  "Zoe": {
+    "Poke": true,
+    "Dive": true,
+    "Counter-Engage": false
+  },
+  "Zyra": {
+    "Poke": true,
+    "Dive": false,
+    "Counter-Engage": true
+  }
+}

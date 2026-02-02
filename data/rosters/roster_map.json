@@ -1,0 +1,310 @@
+{
+  "C9": {
+    "TOP": "Thanatos",
+    "JUNGLE": "Blaber",
+    "MID": "APA",
+    "ADC": "Zven",
+    "SUPPORT": "Vulcan"
+  },
+  "TLAW": {
+    "TOP": "Morgan",
+    "JUNGLE": "Josedeodo",
+    "MID": "Quid",
+    "ADC": "Yeon",
+    "SUPPORT": "CoreJJ"
+  },
+  "LYON": {
+    "TOP": "Dhokla",
+    "JUNGLE": "Inspired",
+    "MID": "Saint",
+    "ADC": "Berserker",
+    "SUPPORT": "Isles"
+  },
+  "SR": {
+    "TOP": "Fudge",
+    "JUNGLE": "Contractz",
+    "MID": "Zinie",
+    "ADC": "Bvoy",
+    "SUPPORT": "Ceos"
+  },
+  "SEN": {
+    "TOP": "Impact",
+    "JUNGLE": "HamBak",
+    "MID": "DARKWINGS",
+    "ADC": "Rahel",
+    "SUPPORT": "huhi"
+  },
+  "DSG": {
+    "TOP": "Castle",
+    "JUNGLE": "KryRa",
+    "MID": "Callme",
+    "ADC": "sajed",
+    "SUPPORT": "Lyonz"
+  },
+  "DIG": {
+    "TOP": "Photon",
+    "JUNGLE": "eXyu",
+    "MID": "Palafox",
+    "ADC": "FBI",
+    "SUPPORT": "IgNar"
+  },
+  "FLY": {
+    "TOP": "Gakgos",
+    "JUNGLE": "Gryffinn",
+    "MID": "Quad",
+    "ADC": "Massu",
+    "SUPPORT": "Cryogen"
+  },
+  "T1": {
+    "TOP": "Doran",
+    "JUNGLE": "Oner",
+    "MID": "Faker",
+    "ADC": "Peyz",
+    "SUPPORT": "Keria"
+  },
+  "BFX": {
+    "TOP": "Clear",
+    "JUNGLE": "Raptor",
+    "MID": "VicLa",
+    "ADC": "Diable",
+    "SUPPORT": "Kellin"
+  },
+  "BRO": {
+    "TOP": "Casting",
+    "JUNGLE": "GIDEON",
+    "MID": "Roamer",
+    "ADC": "Teddy",
+    "SUPPORT": "Namgung"
+  },
+  "GEN": {
+    "TOP": "Kiin",
+    "JUNGLE": "Canyon",
+    "MID": "Chovy",
+    "ADC": "Ruler",
+    "SUPPORT": "Duro"
+  },
+  "HLE": {
+    "TOP": "Zeus",
+    "JUNGLE": "Kanavi",
+    "MID": "Zeka",
+    "ADC": "Gumayusi",
+    "SUPPORT": "Delight"
+  },
+  "KT": {
+    "TOP": "PerfecT",
+    "JUNGLE": "Cuzz",
+    "MID": "Bdd",
+    "ADC": "Aiming",
+    "SUPPORT": "Pollu"
+  },
+  "DK": {
+    "TOP": "Siwoo",
+    "JUNGLE": "Lucid",
+    "MID": "ShowMaker",
+    "ADC": "Smash",
+    "SUPPORT": "Career"
+  },
+  "DNS": {
+    "TOP": "DuDu",
+    "JUNGLE": "Pyosik",
+    "MID": "Clozer",
+    "ADC": "deokdam",
+    "SUPPORT": "Life"
+  },
+  "DRX": {
+    "TOP": "Rich",
+    "JUNGLE": "Willer",
+    "MID": "Ucal",
+    "ADC": "Jiwoo",
+    "SUPPORT": "Andil"
+  },
+  "NS": {
+    "TOP": "Kingen",
+    "JUNGLE": "Sponge",
+    "MID": "Scout",
+    "ADC": "Taeyoon",
+    "SUPPORT": "Lehends"
+  },
+  "JDG": {
+    "TOP": "Xiaoxu",
+    "JUNGLE": "JunJia",
+    "MID": "HongQ",
+    "ADC": "GALA",
+    "SUPPORT": "Vampire"
+  },
+  "WBG": {
+    "TOP": "Zika",
+    "JUNGLE": "Jiejie",
+    "MID": "Xiaohu",
+    "ADC": "Elk",
+    "SUPPORT": "Erha"
+  },
+  "TES": {
+    "TOP": "369",
+    "JUNGLE": "naiyou",
+    "MID": "Creme",
+    "ADC": "JiaQi",
+    "SUPPORT": "fengyue"
+  },
+  "IG": {
+    "TOP": "Soboro",
+    "JUNGLE": "Wei",
+    "MID": "Rookie",
+    "ADC": "Photic",
+    "SUPPORT": "Jwei"
+  },
+  "AL": {
+    "TOP": "Flandre",
+    "JUNGLE": "Tarzan",
+    "MID": "Shanks",
+    "ADC": "Hope",
+    "SUPPORT": "Kael"
+  },
+  "BLG": {
+    "TOP": "Bin",
+    "JUNGLE": "Xun",
+    "MID": "Knight",
+    "ADC": "Viper",
+    "SUPPORT": "ON"
+  },
+  "EDG": {
+    "TOP": "Zdz",
+    "JUNGLE": "Xiaohao",
+    "MID": "Angel",
+    "ADC": "Leave",
+    "SUPPORT": "Parukia"
+  },
+  "NIP": {
+    "TOP": "HOYA",
+    "JUNGLE": "Guwon",
+    "MID": "Care",
+    "ADC": "Assum",
+    "SUPPORT": "Zhuo"
+  },
+  "WE": {
+    "TOP": "Cube",
+    "JUNGLE": "Monki",
+    "MID": "Karis",
+    "ADC": "About",
+    "SUPPORT": "yaoyao"
+  },
+  "TT": {
+    "TOP": "Keshi",
+    "JUNGLE": "Junhao",
+    "MID": "Heru",
+    "ADC": "Ryan3",
+    "SUPPORT": "Feather"
+  },
+  "LNG": {
+    "TOP": "sheer",
+    "JUNGLE": "Croco",
+    "MID": "BuLLDoG",
+    "ADC": "1xn",
+    "SUPPORT": "MISSING"
+  },
+  "LGD": {
+    "TOP": "sasi",
+    "JUNGLE": "Heng",
+    "MID": "Tangyuan",
+    "ADC": "Shaoye",
+    "SUPPORT": "Ycx"
+  },
+  "OMG": {
+    "TOP": "Hery",
+    "JUNGLE": "Juhan",
+    "MID": "haichao",
+    "ADC": "Starry",
+    "SUPPORT": "Moham"
+  },
+  "UP": {
+    "TOP": "Liangchen",
+    "JUNGLE": "Grizzly",
+    "MID": "Saber",
+    "ADC": "Hena",
+    "SUPPORT": "Xiaoxia"
+  },
+  "KC": {
+    "TOP": "Canna",
+    "JUNGLE": "Yike",
+    "MID": "kyeahoo",
+    "ADC": "Caliste",
+    "SUPPORT": "Busio"
+  },
+  "KCB": {
+    "TOP": "Tao",
+    "JUNGLE": "Yukino",
+    "MID": "Kamiloo",
+    "ADC": "Hazel",
+    "SUPPORT": "Prime"
+  },
+  "FNC": {
+    "TOP": "Empyros",
+    "JUNGLE": "Razork",
+    "MID": "Vladi",
+    "ADC": "Upset",
+    "SUPPORT": "Lospa"
+  },
+  "G2": {
+    "TOP": "BrokenBlade",
+    "JUNGLE": "SkewMond",
+    "MID": "Caps",
+    "ADC": "Hans Sama",
+    "SUPPORT": "Labrov"
+  },
+  "GX": {
+    "TOP": "Lot",
+    "JUNGLE": "ISMA",
+    "MID": "Jackies",
+    "ADC": "Noah",
+    "SUPPORT": "Jun"
+  },
+  "MKOI": {
+    "TOP": "Myrwn",
+    "JUNGLE": "Elyoya",
+    "MID": "Jojopyun",
+    "ADC": "Supa",
+    "SUPPORT": "Alvaro"
+  },
+  "NAVI": {
+    "TOP": "Maynter",
+    "JUNGLE": "Rhilech",
+    "MID": "Poby",
+    "ADC": "SamD",
+    "SUPPORT": "Parus"
+  },
+  "VIT": {
+    "TOP": "Naak Nako",
+    "JUNGLE": "Lyncas",
+    "MID": "Humanoid",
+    "ADC": "Carzzy",
+    "SUPPORT": "Fleshy"
+  },
+  "LR": {
+    "TOP": "Baus",
+    "JUNGLE": "Velja",
+    "MID": "Nemesis",
+    "ADC": "Crownie",
+    "SUPPORT": "Rekkles"
+  },
+  "SHFT": {
+    "TOP": "Rooster",
+    "JUNGLE": "Boukada",
+    "MID": "nuc",
+    "ADC": "Paduck",
+    "SUPPORT": "Trymbi"
+  },
+  "SK": {
+    "TOP": "Wunder",
+    "JUNGLE": "Skeanz",
+    "MID": "LIDER",
+    "ADC": "Jopa",
+    "SUPPORT": "Mikyx"
+  },
+  "TH": {
+    "TOP": "Tracyn",
+    "JUNGLE": "Sheo",
+    "MID": "Serin",
+    "ADC": "Ice",
+    "SUPPORT": "Stend"
+  }
+}
