@@ -43,6 +43,7 @@ The UI surfaces the top recommendations and provides a short explanation highlig
 
 ### Prerequisites
 - **Python 3.13** (recommended) or Python 3.11+
+- **Note:** In my testing I found that Python 3.14 can cause compatibility issues.
 - Git (to clone the repository)
 
 ### Step-by-step setup
